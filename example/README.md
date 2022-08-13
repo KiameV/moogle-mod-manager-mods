@@ -22,8 +22,8 @@ In both cases the user is given a description of their choice as well as an imag
 
 Once the choice is made, the mod manager will download:
 - `base_mod.zip` as it's specified as `Always Install`
-- `normal_cosmog.zip` if the user chose Normal
-- `invert_cosmog.zip` if the user chose Invert
+- `normal_cosmog.zip` if the user choses Normal
+- `invert_cosmog.zip` if the user choses Invert
 
 As part of the installation the following files will be copied:
 - `base_mod.zip`

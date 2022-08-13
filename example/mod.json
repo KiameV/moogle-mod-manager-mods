@@ -2,7 +2,8 @@
 	"ID": "kiamev.moogle_manager",
 	"Name": "Moogle Manager",
 	"Author": "KiameV",
-	"AuthorLink": "",
+	"AuthorLink": "https://github.com/KiameV",
+	"Version": "1.0",
 	"ReleaseDate": "Jul 23 2022",
 	"Category": "manager",
 	"Description": "Adds new moogles to manage!",
@@ -19,7 +20,6 @@
 	"ModKind": {
 		"Kind": "Hosted",
 		"Hosted": {
-			"Version": "1.0",
 			"ModFileLink": [
 				"https://raw.githubusercontent.com/KiameV/moogle-mod-manager/main/example/mod.json"
 			]

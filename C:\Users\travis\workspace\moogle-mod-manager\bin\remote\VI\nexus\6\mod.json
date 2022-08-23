@@ -1,0 +1,96 @@
+{
+	"ID": "6",
+	"Name": "Textbox Portraits",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Feb 24, 2022",
+	"Category": "4",
+	"Description": "Adds Portraits to the textboxes for the main characters! Includes Opera Omnia, OldVer and SNES Portraits, with 6 UI styles. This update now includes Kefka's \nportrait! To make this mod work properly, Shiryu's [Classic Text Box Framework (FFVI)](https://www.nexusmods.com/finalfantasy6pixelremaster/mods/18) \n**HAS** to be installed first. Thanks to Shiryu for enabling a workaround for Kefka's portrait! It also replaces Mog, Gogo and Umaro's portraits with Cid, \nLeo and Gestahl's. The reason for this is because Mog, Gogo and Umaro have very little dialogue compared to Cid, Leo and Gestahl. It makes the game a \nlot more immersive with these new portraits! Now includes support for [Chrono Trigger UI](https://www.nexusmods.com/finalfantasy6pixelremaster/mods/46)!\n\n**Thanks To**\n- faospark for making the Darker UI and Opera Omnia portraits!\n- Shiryu for enabling a workaround for Kefka's portrait!\n- Orgaz and Laurel for converting Gestahl, Cid and Kefka's GBA portrait to a SNES version!\n\n**MODDERS: Now includes Modding Files for you to make you own versions! Download the Modding Files in Miscellaneous files. Read the included Modding Guide.txt carefully. This is mainly for personal use. If you want to publicly release a mod that has used these files and guide, please give credit. Linking to the original mod and this guide also helps.**",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/6",
+	"Version": "1.0",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/6/6-1650565647-480471206.png",
+		"Local": "C:/Users/travis/Desktop/VI"
+	},
+	"ModKind": {
+		"Kind": "Nexus",
+		"Nexus": {
+			"ID": "6"
+		}
+	},
+	"Compatibility": {
+		"Require": [],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "FFVIPR_Textbox_Portraits_metalliguy",
+			"Version": "2.2",
+			"Nexus": {
+				"FileID": 142,
+				"FileName": "FFVIPR_Textbox_Portraits_metalliguy-6-2-1-1650566071.rar"
+			}
+		},
+		{
+			"Name": "FFVIPR_Textbox_Portraits_(Blonde_Terra)_metalliguy",
+			"Version": "2.2",
+			"Nexus": {
+				"FileID": 154,
+				"FileName": "FFVIPR_Textbox_Portraits_(Blonde_Terra)_metalliguy-6-2-2-1650828369.rar"
+			}
+		}
+	],
+	"DonationLink": [],
+	"Game": {
+		"Name": "FF PR VI"
+	},
+	"Configuration": [
+		{
+			"Name": "Portrait Style",
+			"Description": "",
+			"Preview": {
+				"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/6/6-1650565647-480471206.png"
+			},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "Chrono Opera Omnia (Green Hair)",
+					"Description": "Chrono-styled portrait with Opera Omnia characters",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/6/6-1650565647-480471206.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_metalliguy",
+						"Dir": [
+							{
+								"From": "./Chrono UI + OO",
+								"To": "FINAL FANTASY IV_Data\\StreamingAssets\\aa\\StandaloneWindows64",
+								"Recursive": false
+							}
+						]
+					}
+				},
+				{
+					"Name": "Chrono Opera Omnia (Blonde Hair)",
+					"Description": "Chrono-styled portrait with Opera Omnia characters",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/6/6-1650828089-1592119160.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "./Chrono UI + OO",
+								"To": "FINAL FANTASY IV_Data\\StreamingAssets\\aa\\StandaloneWindows64",
+								"Recursive": false
+							}
+						]
+					}
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "",
+	"IsManuallyCreated": true
+}

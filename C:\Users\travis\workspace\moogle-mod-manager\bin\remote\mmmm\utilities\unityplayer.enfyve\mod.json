@@ -1,0 +1,69 @@
+{
+	"ID": "unityplayer.enfyve",
+	"Name": "Unity Player",
+	"Author": "Enfyve",
+	"AuthorLink": "",
+	"ReleaseDate": "Jun 20 2022",
+	"Category": "Utility",
+	"Description": "Modded UnityPlayer.dll to bypass CRC checks. Required for most bundle mods.",
+	"ReleaseNotes": "",
+	"Link": "https://discord.com/channels/371784427162042368/871854852769193984/988618149693894706",
+	"Version": "v2022.06.20",
+	"ModKind": {
+		"Kind": "Hosted",
+		"Hosted": {
+			"ModFileLink": [
+				"utilities/unityplayer/mod.json"
+			]
+		}
+	},
+	"Compatibility": {
+		"Require": [],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "UnityPlayer",
+			"Version": "v2022.06.20",
+			"Hosted": {
+				"Source": [
+					"https://cdn.discordapp.com/attachments/871854852769193984/988618149949763594/UnityPlayer.zip"
+				]
+			}
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF PR I"
+		},
+		{
+			"Name": "FF PR II"
+		},
+		{
+			"Name": "FF PR III"
+		},
+		{
+			"Name": "FF PR IV"
+		},
+		{
+			"Name": "FF PR V"
+		},
+		{
+			"Name": "FF PR VI"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "UnityPlayer",
+			"File": [
+				{
+					"From": "UnityPlayer.dll",
+					"To": "UnityPlayer.dll"
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"IsManuallyCreated": true
+}

@@ -4,7 +4,7 @@
 	"Author": "Tekitoumei",
 	"AuthorLink": "",
 	"ReleaseDate": "Mar 8, 2022",
-	"Category": "",
+	"Category": "Player/NPC Sprite",
 	"Description": "Terra gets a cape, woosh!",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/22",
@@ -19,7 +19,14 @@
 		}
 	},
 	"Compatibility": {
-		"Require": [],
+		"Require": [
+			{
+				"ModKind": "Nexus",
+				"Nexus": {
+					"NexusModID": "unityplayer.enfyve"
+				}
+			}
+		],
 		"Forbid": []
 	},
 	"Downloadable": [

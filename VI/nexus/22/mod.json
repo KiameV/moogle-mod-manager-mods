@@ -5,7 +5,7 @@
 	"AuthorLink": "",
 	"ReleaseDate": "Mar 8, 2022",
 	"Category": "",
-	"Description": "Terra gets a cape, woosh!\n\n\n\n\n\nAlso, I kept the original files in the mod still, just in case they get deleted when ya put it in! They're the same name, but they got a \"- Copy\" at the end of the file name!",
+	"Description": "Terra gets a cape, woosh!",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/22",
 	"Version": "1",
@@ -45,11 +45,11 @@
 			"File": [
 				{
 					"From": "Caped Terra/FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/bc_ff6_p001_assets_all_a84584bc3ce84271ce7cb32b6dddc3c6.bundle",
-					"To": "StreamingAssets/aa/StandaloneWindows64/bc_ff6_p001_assets_all_a84584bc3ce84271ce7cb32b6dddc3c6.bundle"
+					"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/bc_ff6_p001_assets_all_a84584bc3ce84271ce7cb32b6dddc3c6.bundle"
 				},
 				{
 					"From": "Caped Terra/FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff6_p001_assets_all_17d2a24aa50765cceefb0549d4280bf3.bundle",
-					"To": "StreamingAssets/aa/StandaloneWindows64/mo_ff6_p001_assets_all_17d2a24aa50765cceefb0549d4280bf3.bundle"
+					"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff6_p001_assets_all_17d2a24aa50765cceefb0549d4280bf3.bundle"
 				}
 			]
 		}

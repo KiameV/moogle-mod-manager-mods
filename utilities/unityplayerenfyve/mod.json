@@ -27,10 +27,16 @@
 				"Source": [
 					"https://cdn.discordapp.com/attachments/871854852769193984/988618149949763594/UnityPlayer.zip"
 				]
-			}
+			},
+			"DownloadedLoc": "C:\\Users\\travis\\workspace\\moogle-mod-manager\\bin\\downloads\\utility\\unityplayerenfyve\\v20220620\\v20220620/UnityPlayer.zip"
 		}
 	],
-	"DonationLink": [],
+	"DonationLink": [
+		{
+			"Name": "ko-fi",
+			"Link": "https://ko-fi.com/enfyve"
+		}
+	],
 	"Games": [
 		{
 			"Name": "FF PR I"

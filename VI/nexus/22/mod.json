@@ -12,12 +12,7 @@
 	"Preview": {
 		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/22/22-1646727043-1811809608.png"
 	},
-	"ModKind": {
-		"Kind": "Nexus",
-		"Nexus": {
-			"ID": "22"
-		}
-	},
+	"Kind": "Nexus",
 	"Compatibility": {
 		"Require": [
 			{

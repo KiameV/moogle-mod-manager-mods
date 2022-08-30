@@ -1,0 +1,66 @@
+{
+	"ID": "22",
+	"Name": "Caped Terra",
+	"Author": "Tekitoumei",
+	"AuthorLink": "",
+	"ReleaseDate": "Mar 8, 2022",
+	"Category": "Player/NPC Sprite",
+	"Description": "Terra gets a cape, woosh!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/22",
+	"Version": "1",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/22/22-1646727043-1811809608.png"
+	},
+	"ModKind": {
+		"Kind": "Nexus",
+		"Nexus": {
+			"ID": "22"
+		}
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModKind": "Nexus",
+				"Nexus": {
+					"NexusModID": "unityplayer.enfyve"
+				}
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "Caped Terra",
+			"Version": "1",
+			"Nexus": {
+				"FileID": 66,
+				"FileName": "Caped Terra-22-1-1646727188.rar"
+			},
+			"DownloadedLoc": "C:\\Users\\travis\\workspace\\moogle-mod-manager\\bin\\downloads\\VI\\22\\1\\Caped Terra-22-1-1646727188.rar"
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF PR VI"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Caped Terra",
+			"File": [
+				{
+					"From": "Caped Terra/FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/bc_ff6_p001_assets_all_a84584bc3ce84271ce7cb32b6dddc3c6.bundle",
+					"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/bc_ff6_p001_assets_all_a84584bc3ce84271ce7cb32b6dddc3c6.bundle"
+				},
+				{
+					"From": "Caped Terra/FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff6_p001_assets_all_17d2a24aa50765cceefb0549d4280bf3.bundle",
+					"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff6_p001_assets_all_17d2a24aa50765cceefb0549d4280bf3.bundle"
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"IsManuallyCreated": true
+}

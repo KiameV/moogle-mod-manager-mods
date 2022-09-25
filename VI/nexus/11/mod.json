@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.11",
+	"Name": "Overworld Mobile Tiles",
+	"Author": "Triforce141",
+	"AuthorLink": "",
+	"ReleaseDate": "Feb 25, 2022",
+	"Category": "Battle Scene",
+	"Description": "Replaces the Pixel Remaster's overworld tileset with sprites from the 2014 mobile version, downscaled and color corrected to resemble the SNES original\n\nWater has been edited as of mod version 1.0 to reduce brightness and implement seafoam animation",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/11",
+	"Version": "1.01",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/11/11-1647742954-1097254808.jpeg"
+	},
+	"ModKind": {
+		"Kind": "Nexus",
+		"Nexus": {
+			"ID": "11"
+		}
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModKind": "Nexus",
+				"Nexus": {
+					"NexusModID": "unityplayer.enfyve"
+				}
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "Overworld Mobile Tiles 1.02",
+			"Version": "1.02",
+			"Nexus": {
+				"FileID": 236,
+				"FileName": "Overworld Mobile Tiles 1.02-11-1-02-1657042929.zip"
+			}
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF PR VI"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Overworld Mobile Tiles 1.02",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY VI_Data",
+					"To": "FINAL FANTASY VI_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"IsManuallyCreated": true
+}

@@ -4,7 +4,7 @@
 	"Author": "piano221",
 	"AuthorLink": "",
 	"ReleaseDate": "Mar 8, 2022",
-	"Category": "",
+	"Category": "Player/NPC Sprite",
 	"Description": "Change Celes to her Amano outfit.",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/21",
@@ -33,8 +33,7 @@
 			"Nexus": {
 				"FileID": 65,
 				"FileName": "Celes Amano outfit PR style-21-1-1-1646719057.7z"
-			},
-			"DownloadedLoc": "C:\\Users\\travis\\workspace\\moogle-mod-manager\\bin\\downloads\\VI\\nexus21\\11\\Celes Amano outfit PR style-21-1-1-1646719057.7z"
+			}
 		}
 	],
 	"DonationLink": [],

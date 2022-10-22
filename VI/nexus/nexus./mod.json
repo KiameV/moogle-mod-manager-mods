@@ -1,0 +1,59 @@
+{
+	"ID": "nexus.",
+	"Name": "Rage Descriptions",
+	"Author": "MuffaloMan",
+	"AuthorLink": "",
+	"ReleaseDate": "Jun 2, 2022",
+	"Category": "Script/Text",
+	"Description": "Do you love the idea of Gau's Rages, but hate that you have no idea what they do? This mod hopes to fix that! All of the special commands and effects have been added to Gau's Rage list, so now you'll know what each monster's special command and special effects are.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/54",
+	"Version": "1.0",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/54/54-1654134318-622239301.png"
+	},
+	"ModKind": {
+		"Kind": "Nexus"
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModKind": "Hosted",
+				"Hosted": {
+					"ModID": "memoria.albeoris"
+				}
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "Rage Descriptions",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 221,
+				"FileName": "Rage Descriptions-54-1-0-1654134944.7z"
+			}
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF PR VI"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Rage Descriptions",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY VI_Data",
+					"To": "FINAL FANTASY VI_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"IsManuallyCreated": true
+}

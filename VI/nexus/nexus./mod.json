@@ -1,0 +1,52 @@
+{
+	"ID": "nexus.",
+	"Name": "Final Fantasy VI Pixel Keeper Portrait Mod",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Jul 13, 2022",
+	"Category": "",
+	"Description": "**FFII version:  [https://www.nexusmods.com/finalfantasy2pixelremaster/mods/21\\**\n**\\**\n**\n](https://www.nexusmods.com/finalfantasy2pixelremaster/mods/21)FFIV version: [https://www.nexusmods.com/finalfantasy4pixelremaster/mods/25](https://www.nexusmods.com/finalfantasy4pixelremaster/mods/25)**\n\n**\n________________________________________________________________________________________________**\n\n**\n**\n\n**\n! This mod won't work properly without a custom UnityPlayer.dll and the Classic Text Box Framework installed ! [\n](https://www.nexusmods.com/finalfantasy3pixelremaster/mods/18)**\n\n\nThis mod adds portraits to the dialogue boxes based on those of [Final Fantasy VI Pixel Keeper (FF Record Keeper Sprites)](https://www.nexusmods.com/finalfantasy6pixelremaster/mods/44) with the format of the GBA ports. Includes portraits for the default UI, [Shiryu's Custom UI](https://www.nexusmods.com/finalfantasy6pixelremaster/mods/51), [Darker UI](https://www.nexusmods.com/finalfantasy6pixelremaster/mods/41) ﻿, [Chrono Trigger UI](https://www.nexusmods.com/finalfantasy6pixelremaster/mods/46), [FFVI UI Overhaul](https://www.nexusmods.com/finalfantasy6pixelremaster/mods/4) and [SNES UI](https://www.nexusmods.com/finalfantasy6pixelremaster/mods/5) mods.\n\n\n\n\n\nThe mod comes with 3 versions for each UI:\n\n\n- **Pixel Keeper:** uses the designs of the default sprites of the Pixel Keeper mod.\n\n\n- **Pixel Keeper - Amano Alt:** uses the designs of the default sprites of the Pixel Keeper mod, with the Amano version of Terra and classic Relm.\n\n\n- **Pixel Keeper - Classic:** uses the classic alt. sprites designs based on the original SNES sprites.﻿\n\n\n\n\n\n**Instructions:**\n\n\n\\- Download the [Classic Text Box Framework](https://www.nexusmods.com/finalfantasy6pixelremaster/mods/18) and follow the instructions of that mod.\n\n\n- Install the UI mod of your choice.\n\n\n- Download, extract and replace the files of this mod on the \"FINAL FANTASY VI PR\" folder.\n\n\n\n\n[![](https://i.imgur.com/6xfbTRi.png)](https://discord.gg/bSnpVBV) ﻿\n\n\nVisit the [Moogle \u0026amp; Mods](https://discord.gg/bSnpVBV) ﻿ Discord to get new releases and join the community!\n\n\nThis mod does not include any fonts. To download custom fonts, view the [Font Modding Guide and Index](https://steamcommunity.com/sharedfiles/filedetails/?id=2786311940) by @fugsnarf\n\n\n\n\n\nModding Guides and Indexes:\n\n\n [Final Fantasy I Pixel Remaster](https://steamcommunity.com/sharedfiles/filedetails/?id=2786697005) • [Final Fantasy II Pixel Remaster](https://steamcommunity.com/sharedfiles/filedetails/?id=2787152070) • [Final Fantasy III Pixel Remaster\\\n\\\n\n](https://steamcommunity.com/sharedfiles/filedetails/?id=2787489586) [Final Fantasy IV Pixel Remaster](https://steamcommunity.com/sharedfiles/filedetails/?id=2787588996) • [Final Fantasy V Pixel Remaster](https://steamcommunity.com/sharedfiles/filedetails/?id=2788533275) • [Final Fantasy VI Pixel Remaster](https://steamcommunity.com/sharedfiles/filedetails/?id=2788537097)\n\n\n [![](https://i.imgur.com/0UWBSNW.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=2786697005)  [![](https://i.imgur.com/Y6hMNUJ.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=2787152070)  [![](https://i.imgur.com/ZK2S8ck.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=2787489586)  [![](https://i.imgur.com/66OcFBU.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=2787588996)  [![](https://i.imgur.com/8IFuagG.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=2788533275)  [![](https://i.imgur.com/UdBveK5.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=2788537097) ﻿\n\n\nby @fugsnarf",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/57",
+	"Version": "1.1",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/57/57-1657729129-2049763768.png"
+	},
+	"ModKind": {
+		"Kind": "Nexus"
+	},
+	"Compatibility": {
+		"Require": [],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "Final Fantasy VI Pixel Keeper Portrait Mod",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 261,
+				"FileName": "Final Fantasy VI Pixel Keeper Portrait Mod-57-1-1-1657859324.rar"
+			}
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF PR VI"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Final Fantasy VI Pixel Keeper Portrait Mod",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY VI_Data",
+					"To": "FINAL FANTASY VI_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"IsManuallyCreated": true
+}

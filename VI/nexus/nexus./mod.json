@@ -33,7 +33,6 @@
 			"Nexus": {
 				"FileID": 221,
 				"FileName": "Rage Descriptions-54-1-0-1654134944.7z"
-			}
 		}
 	],
 	"DonationLink": [],
@@ -47,7 +46,7 @@
 			"DownloadName": "Rage Descriptions",
 			"Dir": [
 				{
-					"From": "FINAL FANTASY VI_Data",
+					"From": "Rage_Descriptions/FINAL FANTASY VI_Data",
 					"To": "FINAL FANTASY VI_Data",
 					"Recursive": true
 				}

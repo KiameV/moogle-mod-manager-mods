@@ -1,0 +1,58 @@
+{
+	"ID": "reff2pixelremaster.gvdn",
+	"Name": "Re FF2 PixelRemaster",
+	"Author": "gvdn",
+	"AuthorLink": "",
+	"ReleaseDate": "Nov 02 2022",
+	"Category": "Player/NPC Sprite",
+	"Description": "Alterations:\n\n-All player character sprites (except Toad and Mini)\n\n-NPCs with unique names, almost all sprites\n\n-Barehanded attack graphics in battle scenes\n\n-All vehicle sprites (except for the flying dragon)\n\n-Animation settings for airship propeller speed, canoe behavior, etc.\n\nAttention:\n\n-It is recommended to use moogle-mod-manager.\n\nhttps://github.com/KiameV/moogle-mod-manager/releases/latest\n\n-It is possible to replace files without using \"moogle-mod-manager\". However, it is recommended to make a backup of the entire file in advance because of the many modifications and intricacies of the file.\n\n-Memoria works with or without Memoria. However, it is recommended to set \n\n  \"Import text resources: .png, .jpg, .tga\" to false.\n\n",
+	"ReleaseNotes": "",
+	"Link": "https://cdn.discordapp.com/attachments/866169152728858634/1037292049604542535/Re_FF2_PixelRemaster_ver.1.0.zip",
+	"Version": "1.0",
+	"Preview": {
+		"Url": "https://cdn.discordapp.com/attachments/866169152728858634/1037292416589373500/thumbnail2.png"
+	},
+	"ModKind": {
+		"Kind": "Hosted"
+	},
+	"Compatibility": {
+		"Require": [],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "Re_FF2_PixelRemaster_ver.1.0",
+			"Version": "1.0",
+			"Hosted": {
+				"Source": [
+					"https://cdn.discordapp.com/attachments/866169152728858634/1037292049604542535/Re_FF2_PixelRemaster_ver.1.0.zip"
+				]
+			}
+		}
+	],
+	"DonationLink": [
+		{
+			"Name": "ko-fi",
+			"Link": "https://ko-fi.com/gvdncoffee"
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF PR II"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Re_FF2_PixelRemaster_ver.1.0",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY II_Data",
+					"To": "FINAL FANTASY II_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"IsManuallyCreated": true
+}

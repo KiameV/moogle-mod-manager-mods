@@ -1,0 +1,72 @@
+{
+	"ID": "magicite.silvris",
+	"Name": "Magicite",
+	"Author": "Silvris",
+	"AuthorLink": "",
+	"ReleaseDate": "Dec 12 2022",
+	"Category": "Utility",
+	"Description": "A BepInEx plugin for the FINAL FANTASY PIXEL REMASTERS that allows for the loading of new assets and replacement of existing assets",
+	"ReleaseNotes": "",
+	"Link": "https://github.com/Silvris/Magicite",
+	"Version": "2.0.0",
+	"ModKind": {
+		"Kind": "Hosted"
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModKind": "Hosted",
+				"Hosted": {
+					"ModID": "bepinex.ghorsington"
+				}
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "Magicite-2-0-0-release",
+			"Version": "2.0.0",
+			"Hosted": {
+				"Source": [
+					"https://github.com/Silvris/Magicite/releases/download/v2.0.0/Magicite-2-0-0-release.zip"
+				]
+			}
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF PR I"
+		},
+		{
+			"Name": "FF PR II"
+		},
+		{
+			"Name": "FF PR III"
+		},
+		{
+			"Name": "FF PR IV"
+		},
+		{
+			"Name": "FF PR V"
+		},
+		{
+			"Name": "FF PR VI"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Magicite-2-0-0-release",
+			"Dir": [
+				{
+					"From": ".",
+					"To": ".",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"IsManuallyCreated": true
+}

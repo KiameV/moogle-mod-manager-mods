@@ -1,0 +1,94 @@
+{
+	"ID": "curseforge.698422",
+	"Name": "Gau Rage Detailed Descriptions \u0026 Magna Roader Fix",
+	"Author": "Saftle",
+	"AuthorLink": "",
+	"ReleaseDate": "Nov 6, 2022",
+	"Category": "Script/Text",
+	"Description": "**Time to finally play as Gau**\n\nThe full/extended rage description mod is now available! Thanks to @Silvris for updating [Magicite](https://github.com/Silvris/Magicite) to have partial TXT and CSV support, making this mod compatible with any other mod that modifies the same files (provided they make a magicite mod with partials as well). This means it is automatically compatible with the Controls Notification Removal mod. Also thanks to @muffaloman for finishing up the last 50 descriptions!\n\n**What this does:**\n- Provides extensive rage descriptions for every rage. Seriously everything you need to know is here. Maybe too much info.\n- Fixes the Magna Roader problem. Now you'll know which Magna Roader you are selecting.\n- Separate optional Alphabetical Order sort order thanks to @Landy\n\n**If the alphabetical sorting does not work**, you need to learn one more rage to make it work. Thanks to @rocket for finding this oddity with the game, and Silvris for finding a solution.",
+	"ReleaseNotes": "",
+	"Link": "https://www.curseforge.com/final-fantasy-vi/mods/gau-rage-descriptions-extended-magna-roader-fix",
+	"Version": "2022.11.08.07.37.37",
+	"Preview": {
+		"Url": "https://media.forgecdn.net/avatars/633/9/638033666522279760.png"
+	},
+	"ModKind": {
+		"Kind": "CurseForge"
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModKind": "Hosted",
+				"Hosted": {
+					"ModID": "magicite.silvris"
+				}
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "Gau_Rage_Detailed_Descriptions_1.2_Alphabetical.zip",
+			"Version": "2022.11.07.17.43.58",
+			"CurseForge": {
+				"FileID": 4073053,
+				"FileName": "Gau_Rage_Detailed_Descriptions_1.2_Alphabetical.zip",
+				"Url": "https://edge.forgecdn.net/files/4073/53/Gau_Rage_Detailed_Descriptions_1.2_Alphabetical.zip"
+			}
+		},
+		{
+			"Name": "Gau_Rage_Detailed_Descriptions_1.2.zip",
+			"Version": "2022.11.07.17.43.42",
+			"CurseForge": {
+				"FileID": 4073052,
+				"FileName": "Gau_Rage_Detailed_Descriptions_1.2.zip",
+				"Url": "https://edge.forgecdn.net/files/4073/52/Gau_Rage_Detailed_Descriptions_1.2.zip"
+			}
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF PR VI"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Choose preference",
+			"Description": "",
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "Gau_Rage_Detailed_Descriptions_1.2_Alphabetical.zip",
+					"Description": "",
+					"DownloadFiles": {
+						"DownloadName": "Gau_Rage_Detailed_Descriptions_1.2_Alphabetical.zip",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Gau_Rage_Detailed_Descriptions_1.2.zip",
+					"Description": "",
+					"DownloadFiles": {
+						"DownloadName": "Gau_Rage_Detailed_Descriptions_1.2.zip",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"IsManuallyCreated": true
+}

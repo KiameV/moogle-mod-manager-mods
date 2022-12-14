@@ -2,6 +2,18 @@
   "id": "FF PR II",
   "name": "Final Fantasy Pixel Remaster II",
   "steamID": "1173780",
+  "baseDir": "FINAL FANTASY II_Data",
+  "remote": {
+    "nexus": {
+      "id": 3958,
+      "path": "finalfantasy2pixelremaster"
+    },
+    "curseforge": {
+      "id": 5001,
+      "path": "final-fantasy-ii"
+    }
+  },
+  "defaultInstallType": "Move",
   "versions": [
     "1.0.4"
   ]

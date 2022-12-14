@@ -2,7 +2,25 @@
   "id": "FF PR VI",
   "name": "Final Fantasy Pixel Remaster VI",
   "steamID": "1173820",
+  "baseDir": "FINAL FANTASY VI_Data",
+  "remote": {
+    "nexus": {
+      "id": 4335,
+      "path": "finalfantasy6pixelremaster"
+    },
+    "curseforge": {
+      "id": 4773,
+      "path": "final-fantasy-vi"
+    }
+  },
+  "defaultInstallType": "Move",
   "versions": [
-    "1.0.6"
+    {
+      "version": "1.0.6",
+      "steam": {
+        "build": 8999274,
+        "manifest": 8518548388693516132
+      }
+    }
   ]
 }

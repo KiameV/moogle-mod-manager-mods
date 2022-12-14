@@ -2,6 +2,18 @@
   "id": "FF PR III",
   "name": "Final Fantasy Pixel Remaster III",
   "steamID":  "1173790",
+  "baseDir": "FINAL FANTASY III_Data",
+  "remote": {
+    "nexus": {
+      "id": 3942,
+      "path": "finalfantasy3pixelremaster"
+    },
+    "curseforge": {
+      "id": 5026,
+      "path": "final-fantasy-iii"
+    }
+  },
+  "defaultInstallType": "Move",
   "versions": [
     "1.0.4"
   ]

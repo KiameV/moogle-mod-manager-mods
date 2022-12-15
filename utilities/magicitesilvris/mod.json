@@ -37,22 +37,22 @@
 	"DonationLink": [],
 	"Games": [
 		{
-			"Name": "FF PR I"
+			"Name": "FFIPR"
 		},
 		{
-			"Name": "FF PR II"
+			"Name": "FFIIPR"
 		},
 		{
-			"Name": "FF PR III"
+			"Name": "FFIIIPR"
 		},
 		{
-			"Name": "FF PR IV"
+			"Name": "FFIVPR"
 		},
 		{
-			"Name": "FF PR V"
+			"Name": "FFVPR"
 		},
 		{
-			"Name": "FF PR VI"
+			"Name": "FFVIPR"
 		}
 	],
 	"AlwaysDownload": [

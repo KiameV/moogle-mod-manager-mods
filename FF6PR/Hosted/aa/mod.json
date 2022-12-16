@@ -1,0 +1,54 @@
+{
+	"ID": "a.a",
+	"Name": "a",
+	"Author": "a",
+	"AuthorLink": "",
+	"ReleaseDate": "Dec 15 2022",
+	"Category": "Battle Scene",
+	"Description": "asd",
+	"ReleaseNotes": "",
+	"Link": "https://github.com/KiameV/moogle-mod-manager/archive/refs/tags/v0.5.11.zip",
+	"Version": "1",
+	"ModKind": {
+		"Kind": "Hosted"
+	},
+	"Compatibility": {
+		"Require": [],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "v0.5.11",
+			"Version": "1",
+			"Hosted": {
+				"Source": [
+					"https://github.com/KiameV/moogle-mod-manager/archive/refs/tags/v0.5.11.zip"
+				]
+			}
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR",
+			"Version": [
+				{
+					"version": "1"
+				}
+			]
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "v0.5.11",
+			"File": [
+				{
+					"From": ".",
+					"To": "."
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"IsManuallyCreated": true
+}

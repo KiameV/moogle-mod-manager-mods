@@ -1,0 +1,22 @@
+{
+  "id": "FF4PR",
+  "name": "Final Fantasy IV Pixel Remaster",
+  "steamID": "1173800",
+  "baseDir": "FINAL FANTASY IV_Data",
+  "remote": {
+    "nexus": {
+      "id": 4022,
+      "path": "finalfantasy4pixelremaster"
+    },
+    "curseforge": {
+      "id": 4741,
+      "path": "final-fantasy-iv"
+    }
+  },
+  "defaultInstallType": "Move",
+  "versions": [
+    {
+      "version": "1.0.2"
+    }
+  ]
+}

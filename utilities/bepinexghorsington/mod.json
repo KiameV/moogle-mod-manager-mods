@@ -25,10 +25,10 @@
 			"Version": "v2022.07.16",
 			"Hosted": {
 				"Source": [
-					"https://github.com/Albeoris/Memoria.FFPR/releases/download/v2022.07.16/BepInEx_UnityIL2CPP_x64_3a54f7e_6.0.0-be.571.zip"
+					"https://builds.bepinex.dev/projects/bepinex_be/571/BepInEx_UnityIL2CPP_x64_3a54f7e_6.0.0-be.571.zip"
 				]
 			},
-			"DownloadedLoc": "C:\\Users\\t\\Workspace\\moogle-mod-manager\\bin\\downloads\\utility\\bepinexghorsington\\v20220716\\v20220716/BepInEx_UnityIL2CPP_x64_3a54f7e_6.0.0-be.571.zip"
+			"DownloadedLoc": ""
 		}
 	],
 	"DonationLink": [],

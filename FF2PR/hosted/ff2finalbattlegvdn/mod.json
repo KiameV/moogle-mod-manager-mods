@@ -1,0 +1,58 @@
+{
+	"ID": "ff2finalbattle.gvdn",
+	"Name": "FF2 Final Battle",
+	"Author": "gvdn",
+	"AuthorLink": "",
+	"ReleaseDate": "Sep 09 2022",
+	"Category": "Enemy Sprite",
+	"Description": "This mod modifies the Emperor's sprite and background of the Final Battle.\n\nThe following two files will be changed:\n\nbg_ff2_34_assets_all_1c090af74d09b90fabf5659f6f1a1cd5.bundle\n\nmn_ff2_054_assets_all_8498c91c9d3a41d936de435fd9e158a0.bundle",
+	"ReleaseNotes": "",
+	"Link": "https://cdn.discordapp.com/attachments/866169152728858634/1017786508771598388/FF2_Final_Battle.zip",
+	"Version": "1.0",
+	"Preview": {
+		"Url": "https://cdn.discordapp.com/attachments/866169152728858634/1017786424256385054/1173780_20220909142232_1.png"
+	},
+	"ModKind": {
+		"Kind": "Hosted"
+	},
+	"Compatibility": {
+		"Require": [],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "FF2_Final_Battle",
+			"Version": "1.0",
+			"Hosted": {
+				"Source": [
+					"https://cdn.discordapp.com/attachments/866169152728858634/1017786508771598388/FF2_Final_Battle.zip"
+				]
+			}
+		}
+	],
+	"DonationLink": [
+		{
+			"Name": "ko-fi",
+			"Link": "https://ko-fi.com/gvdncoffee"
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF2PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FF2_Final_Battle",
+			"Dir": [
+				{
+					"From": "",
+					"To": "FINAL FANTASY II_Data/StreamingAssets/aa/StandaloneWindows64",
+					"Recursive": false
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"IsManuallyCreated": true
+}

@@ -1,0 +1,29 @@
+{
+	"ID": "nexus.39",
+	"Name": "Memoria FFPR",
+	"Author": "Albeoris",
+	"AuthorLink": "",
+	"ReleaseDate": "Jan 5, 2022",
+	"Category": "",
+	"Description": "",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasypixelremaster/mods/39",
+	"Version": "v2022.08.07",
+	"ModKind": {
+		"Kind": "Nexus"
+	},
+	"Compatibility": {
+		"Require": [],
+		"Forbid": []
+	},
+	"Downloadable": null,
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF1PR"
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": true,
+	"IsManuallyCreated": true
+}

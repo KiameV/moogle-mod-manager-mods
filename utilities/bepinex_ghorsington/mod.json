@@ -13,7 +13,8 @@
 		"Url": "https://avatars2.githubusercontent.com/u/39589027?s=256"
 	},
 	"ModKind": {
-		"Kind": "Hosted"
+		"Kind": "Hosted",
+		"SubKind": "HostedAt"
 	},
 	"Compatibility": {
 		"Require": [],

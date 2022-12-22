@@ -1,0 +1,61 @@
+{
+	"ID": "nexus.43",
+	"Name": "Synthetic Origins FFVI Pixel Remaster OST Mod",
+	"Author": "tssf and AlterPayot",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 5, 2022",
+	"Category": "Soundtrack",
+	"Description": "Replaces the Pixel Remaster OST with tssf's Synthetic Origins: FFVI OST.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/43",
+	"Version": "1.1",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/43/43-1649162069-1548886866.jpeg"
+	},
+	"ModKind": {
+		"Kind": "Nexus"
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModKind": "Hosted",
+				"Hosted": {
+					"ModID": "unityplayer.enfyve"
+				}
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "Synthetic Origins FFVI PR OST Mod v1.1",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 198,
+				"FileName": "Synthetic Origins FFVI PR OST Mod v1.1-43-1-1-1651805730.7z"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Synthetic Origins FFVI PR OST Mod v1.1",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY VI_Data",
+					"To": "FINAL FANTASY VI_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"IsManuallyCreated": true
+}

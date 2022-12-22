@@ -1,0 +1,61 @@
+{
+	"ID": "nexus.45",
+	"Name": "FFVI PR Advance GBA OST Mod",
+	"Author": "AlterPayot",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 19, 2022",
+	"Category": "Soundtrack",
+	"Description": "Replaces the Pixel Remaster OST with GBA OST.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/45",
+	"Version": "1.0",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/45/45-1650346001-1977082363.png"
+	},
+	"ModKind": {
+		"Kind": "Nexus"
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModKind": "Hosted",
+				"Hosted": {
+					"ModID": "unityplayer.enfyve"
+				}
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "FFVI PR Advance GBA OST Mod v1.0",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 140,
+				"FileName": "FFVI PR Advance GBA OST Mod v1.0-45-1-0-1650345896.7z"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFVI PR Advance GBA OST Mod v1.0",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY VI_Data",
+					"To": "FINAL FANTASY VI_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"IsManuallyCreated": true
+}

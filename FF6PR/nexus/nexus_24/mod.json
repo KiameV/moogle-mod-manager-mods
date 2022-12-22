@@ -16,7 +16,20 @@
 		"Kind": "Nexus"
 	},
 	"Compatibility": {
-		"Require": [],
+		"Require": [
+			{
+				"ModKind": "Hosted",
+				"Hosted": {
+					"ModID": "bepinex.ghorsington"
+				}
+			},
+			{
+				"ModKind": "Hosted",
+				"Hosted": {
+					"ModID": "unityplayer.enfyve"
+				}
+			}
+		],
 		"Forbid": []
 	},
 	"Downloadable": [
@@ -41,8 +54,8 @@
 			"DownloadName": "ffvi_music_player",
 			"Dir": [
 				{
-					"From": "ffvi_music_player/mono",
-					"To": "mono",
+					"From": "ffvi_music_player/FINAL FANTASY VI_Data",
+					"To": "FINAL FANTASY VI_Data",
 					"Recursive": true
 				}
 			]

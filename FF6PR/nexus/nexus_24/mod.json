@@ -1,0 +1,67 @@
+{
+	"ID": "nexus.24",
+	"Name": "Missing Tracks for Music Player",
+	"Author": "KayLock72",
+	"AuthorLink": "",
+	"ReleaseDate": "Mar 8, 2022",
+	"Category": "Utility",
+	"Description": "A mod that adds all the missing tracks to the music player.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/24",
+	"Version": "1.0",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/24/24-1646758591-305046204.png"
+	},
+	"ModKind": {
+		"Kind": "Nexus"
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModKind": "Hosted",
+				"Hosted": {
+					"ModID": "bepinex.ghorsington"
+				}
+			},
+			{
+				"ModKind": "Hosted",
+				"Hosted": {
+					"ModID": "unityplayer.enfyve"
+				}
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "ffvi_music_player",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 69,
+				"FileName": "ffvi_music_player-24-1-0-1646758667.7z"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "ffvi_music_player",
+			"Dir": [
+				{
+					"From": "ffvi_music_player/FINAL FANTASY VI_Data",
+					"To": "FINAL FANTASY VI_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"IsManuallyCreated": true
+}

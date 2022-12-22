@@ -1,0 +1,65 @@
+{
+	"ID": "nexus.27",
+	"Name": "Roboto Slab Font for FFPR",
+	"Author": "SkullHeartMachina",
+	"AuthorLink": "",
+	"ReleaseDate": "Mar 9, 2022",
+	"Category": "Script/Text",
+	"Description": "This is a simple font replacer for FFPR games to change the narrow, sans-serif default font to a wider, serif font designed to be easier to read.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/27",
+	"Version": "1.0",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/27/27-1646842870-1094971375.jpeg"
+	},
+	"ModKind": {
+		"Kind": "Nexus"
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModKind": "Hosted",
+				"Hosted": {
+					"ModID": "unityplayer.enfyve"
+				}
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "FFPR Roboto Slab Font",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 73,
+				"FileName": "FFPR Roboto Slab Font-27-1-0-1646843255.zip"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFPR Roboto Slab Font",
+			"File": [
+				{
+					"From": "font_en.bundle",
+					"To": "FINAL FANTASY VI_Data/StreamingAssets/font_en.bundle"
+				},
+				{
+					"From": "font_ja.bundle",
+					"To": "FINAL FANTASY VI_Data/StreamingAssets/font_ja.bundle"
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

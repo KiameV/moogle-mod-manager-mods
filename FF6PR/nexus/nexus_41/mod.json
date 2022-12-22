@@ -1,0 +1,61 @@
+{
+	"ID": "nexus.41",
+	"Name": "Darker UI FF6 PR",
+	"Author": "faospark",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 5, 2022",
+	"Category": "UI: Window Frames",
+	"Description": "A Darker Ui build with HDR/Curves/ Levels in mind . replaces the vibrant blue  and game ui borders.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/41",
+	"Version": "4.5",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/41/41-1649149778-273543089.png"
+	},
+	"ModKind": {
+		"Kind": "Nexus"
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModKind": "Hosted",
+				"Hosted": {
+					"ModID": "unityplayer.enfyve"
+				}
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "Darker UI FFVI",
+			"Version": "4.6",
+			"Nexus": {
+				"FileID": 277,
+				"FileName": "Darker UI FFVI-41-4-6-1669046948.zip"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Darker UI FFVI",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY VI_Data",
+					"To": "FINAL FANTASY VI_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"IsManuallyCreated": true
+}

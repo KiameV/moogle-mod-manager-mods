@@ -1,0 +1,70 @@
+{
+	"ID": "bepinex.ghorsington",
+	"Name": "BepInEx",
+	"Author": "ghorsington\r",
+	"AuthorLink": "",
+	"ReleaseDate": "Jul 16 2022",
+	"Category": "Utility",
+	"Description": "BepInEx is a plugin / modding framework for Unity Mono, IL2CPP and .NET framework games (XNA, FNA, MonoGame, etc.)",
+	"ReleaseNotes": "",
+	"Link": "https://github.com/BepInEx/BepInEx",
+	"Version": "v2022.07.16",
+	"Preview": {
+		"Url": "https://avatars2.githubusercontent.com/u/39589027?s=256"
+	},
+	"ModKind": {
+		"Kind": "Hosted",
+		"SubKind": "HostedAt"
+	},
+	"Compatibility": {
+		"Require": [],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "BepInEx_UnityIL2CPP_x64_3a54f7e_6.0.0-be.571",
+			"Version": "v2022.07.16",
+			"Hosted": {
+				"Source": [
+					"https://builds.bepinex.dev/projects/bepinex_be/571/BepInEx_UnityIL2CPP_x64_3a54f7e_6.0.0-be.571.zip"
+				]
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF1PR"
+		},
+		{
+			"Name": "FF2PR"
+		},
+		{
+			"Name": "FF3PR"
+		},
+		{
+			"Name": "FF4PR"
+		},
+		{
+			"Name": "FF5PR"
+		},
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "BepInEx_UnityIL2CPP_x64_3a54f7e_6.0.0-be.571",
+			"Dir": [
+				{
+					"From": ".",
+					"To": ".",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"IsManuallyCreated": true
+}

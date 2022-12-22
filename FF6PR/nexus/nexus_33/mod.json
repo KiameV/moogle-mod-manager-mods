@@ -1,0 +1,61 @@
+{
+	"ID": "nexus.33",
+	"Name": "Stone Door Removal",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Mar 31, 2022",
+	"Category": "Player/NPC Sprite",
+	"Description": "Removes the new stone door archways and replaces them!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/33",
+	"Version": "1.1a",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/33/33-1648710081-345305936.png"
+	},
+	"ModKind": {
+		"Kind": "Nexus"
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModKind": "Hosted",
+				"Hosted": {
+					"ModID": "unityplayer.enfyve"
+				}
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "FFVIPR_Stone_Door_Removal_metalliguy",
+			"Version": "1.1a",
+			"Nexus": {
+				"FileID": 269,
+				"FileName": "FFVIPR_Stone_Door_Removal_metalliguy-33-1-1a-1659874520.rar"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFVIPR_Stone_Door_Removal_metalliguy",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY VI_Data",
+					"To": "FINAL FANTASY VI_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"IsManuallyCreated": true
+}

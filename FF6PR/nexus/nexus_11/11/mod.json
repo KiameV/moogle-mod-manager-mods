@@ -4,7 +4,7 @@
 	"Author": "Triforce141",
 	"AuthorLink": "",
 	"ReleaseDate": "Feb 25, 2022",
-	"Category": "Tile Set",
+	"Category": "Battle Scene",
 	"Description": "Replaces the Pixel Remaster's overworld tileset with sprites from the 2014 mobile version, downscaled and color corrected to resemble the SNES original\n\nWater has been edited as of mod version 1.0 to reduce brightness and implement seafoam animation",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/11",
@@ -13,14 +13,17 @@
 		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/11/11-1647742954-1097254808.jpeg"
 	},
 	"ModKind": {
-		"Kind": "Nexus"
+		"Kind": "Nexus",
+		"Nexus": {
+			"ID": "11"
+		}
 	},
 	"Compatibility": {
 		"Require": [
 			{
-				"ModKind": "Hosted",
-				"Hosted": {
-					"ModID": "unityplayer.enfyve"
+				"ModKind": "Nexus",
+				"Nexus": {
+					"NexusModID": "unityplayer.enfyve"
 				}
 			}
 		],
@@ -33,8 +36,7 @@
 			"Nexus": {
 				"FileID": 236,
 				"FileName": "Overworld Mobile Tiles 1.02-11-1-02-1657042929.zip"
-			},
-			"DownloadedLoc": ""
+			}
 		}
 	],
 	"DonationLink": [],
@@ -56,7 +58,5 @@
 		}
 	],
 	"ConfigSelectionType": "Auto",
-	"Hide": false,
-	"VerifiedAsWorking": false,
 	"IsManuallyCreated": true
 }

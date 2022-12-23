@@ -1,0 +1,22 @@
+{
+  "id": "FF1PR",
+  "name": "Final Fantasy I Pixel Remaster",
+  "steamID": "1173770",
+  "baseDir": "FINAL FANTASY_Data",
+  "remote": {
+    "nexus": {
+      "id": 3934,
+      "path": "finalfantasypixelremaster"
+    },
+    "curseforge": {
+      "id": 5230,
+      "path": "final-fantasy-i"
+    }
+  },
+  "defaultInstallType": "Move",
+  "versions": [
+    {
+      "version": "1.0.4"
+    }
+  ]
+}

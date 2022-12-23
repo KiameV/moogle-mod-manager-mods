@@ -1,0 +1,61 @@
+{
+	"ID": "nexus.59",
+	"Name": "FF6 PR Classic Spell Naming Conventions",
+	"Author": "N0slen",
+	"AuthorLink": "",
+	"ReleaseDate": "Nov 1, 2022",
+	"Category": "Script/Text",
+	"Description": "Simple mod that changes most spell names back to the original localized versions (Bolt vs Thunder, Bolt 2 vs Thundaga, ect), exceptions being certain spells such as Holy and Esuna",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/59",
+	"Version": "2.0",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/59/59-1667268343-1171170757.jpeg"
+	},
+	"ModKind": {
+		"Kind": "Nexus"
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModKind": "Hosted",
+				"Hosted": {
+					"ModID": "memoria.albeoris"
+				}
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "FF6 PR Classic Spell Naming Conventions",
+			"Version": "2.0",
+			"Nexus": {
+				"FileID": 275,
+				"FileName": "FF6 PR Classic Spell Naming Conventions-59-2-0-1667944642.rar"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FF6 PR Classic Spell Naming Conventions",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY VI_Data",
+					"To": "FINAL FANTASY VI_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"IsManuallyCreated": true
+}

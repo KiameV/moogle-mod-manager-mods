@@ -1,0 +1,74 @@
+{
+	"ID": "nexus.12",
+	"Name": "Better Speaker Boxes",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Feb 26, 2022",
+	"Category": "UI: General",
+	"Description": "Replaces the Speaker Boxes with recoloured stock versions!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/12",
+	"Version": "1.0",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/12/12-1645846243-1937294916.png"
+	},
+	"ModKind": {
+		"Kind": "Nexus"
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModKind": "Hosted",
+				"Hosted": {
+					"ModID": "unityplayer.enfyve"
+				}
+			}
+		],
+		"Forbid": [
+			{
+				"ModKind": "Nexus",
+				"Nexus": {
+					"NexusModID": "nexus.26"
+				}
+			},
+			{
+				"ModKind": "Nexus",
+				"Nexus": {
+					"NexusModID": "nexus.26"
+				}
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "FFVIPR_Better_Speaker_Boxes_metalliguy",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 24,
+				"FileName": "FFVIPR_Better_Speaker_Boxes_metalliguy-12-1-0-1645846419.rar"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFVIPR_Better_Speaker_Boxes_metalliguy",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY VI_Data",
+					"To": "FINAL FANTASY VI_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"IsManuallyCreated": true
+}

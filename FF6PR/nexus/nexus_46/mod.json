@@ -1,0 +1,61 @@
+{
+	"ID": "nexus.46",
+	"Name": "Chrono Trigger UI",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 21, 2022",
+	"Category": "UI: Window Frames",
+	"Description": "Replaces the stock UI with a slick Chrono Trigger Theme!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/46",
+	"Version": "1.1",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/46/46-1650543024-701978857.png"
+	},
+	"ModKind": {
+		"Kind": "Nexus"
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModKind": "Hosted",
+				"Hosted": {
+					"ModID": "unityplayer.enfyve"
+				}
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "FFVIPR_Chrono_Trigger_UI_metalliguy",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 267,
+				"FileName": "FFVIPR_Chrono_Trigger_UI_metalliguy-46-1-1-1659422908.rar"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFVIPR_Chrono_Trigger_UI_metalliguy",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY VI_Data",
+					"To": "FINAL FANTASY VI_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"IsManuallyCreated": true
+}

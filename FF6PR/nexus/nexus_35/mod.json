@@ -1,0 +1,61 @@
+{
+	"ID": "nexus.35",
+	"Name": "Aria di Mezzo Carattere but it's Tidus midi",
+	"Author": "Fugsnarf",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 2, 2022",
+	"Category": "Player/NPC Sprite",
+	"Description": "Replaces Celes' Aria di Mezzo Carattere performance with cancer",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/35",
+	"Version": "1.0",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/35/35-1648858884-1603352188.png"
+	},
+	"ModKind": {
+		"Kind": "Nexus"
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModKind": "Hosted",
+				"Hosted": {
+					"ModID": "unityplayer.enfyve"
+				}
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "Aria but its Tidus midi",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 114,
+				"FileName": "Aria but its Tidus midi-35-1-0-1648858854.zip"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Aria but its Tidus midi",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY VI_Data",
+					"To": "FINAL FANTASY VI_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"IsManuallyCreated": true
+}

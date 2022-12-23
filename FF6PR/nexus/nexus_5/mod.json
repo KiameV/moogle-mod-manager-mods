@@ -1,0 +1,91 @@
+{
+	"ID": "nexus.5",
+	"Name": "SNES UI",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Feb 24, 2022",
+	"Category": "UI: Window Frames",
+	"Description": "Replaces the UI with the SNES UI! ",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/5",
+	"Version": "1.1",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/5/5-1645708446-1507673293.png"
+	},
+	"ModKind": {
+		"Kind": "Nexus"
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModKind": "Hosted",
+				"Hosted": {
+					"ModID": "unityplayer.enfyve"
+				}
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "FFVIPR_SNES_UI_metalliguy",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 37,
+				"FileName": "FFVIPR_SNES_UI_metalliguy-5-1-1-1646142278.rar"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Background Type",
+			"Description": "",
+			"Preview": {
+				"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/5/5-1645708446-1507673293.png"
+			},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Flat",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_UI_metalliguy",
+						"Dir": [
+							{
+								"From": "Flat/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Gradient",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_UI_metalliguy",
+						"Dir": [
+							{
+								"From": "Gradient/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"IsManuallyCreated": true
+}

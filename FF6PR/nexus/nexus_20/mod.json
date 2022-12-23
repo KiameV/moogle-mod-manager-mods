@@ -4,7 +4,7 @@
 	"Author": "metalliguyAU",
 	"AuthorLink": "",
 	"ReleaseDate": "Mar 7, 2022",
-	"Category": "UI: General",
+	"Category": "Battle Scene",
 	"Description": " Replaces the battle backgrounds with the OldVer ones! ",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/20",
@@ -57,5 +57,6 @@
 	],
 	"ConfigSelectionType": "Auto",
 	"Hide": false,
+	"VerifiedAsWorking": false,
 	"IsManuallyCreated": true
 }

@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.62",
+	"Name": "Aria di Mezzo Carattere -  instrumentals only",
+	"Author": "Cloudrift",
+	"AuthorLink": "",
+	"ReleaseDate": "Dec 9, 2022",
+	"Category": "Soundtrack",
+	"Description": "This mod either removes the vocals from the opera scene so that only the instrumentals play.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/62",
+	"Version": "1.0",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/62/62-1670618080-1214376413.jpeg"
+	},
+	"ModKind": {
+		"Kind": "Nexus"
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModKind": "Hosted",
+				"Hosted": {
+					"ModID": "magicite.silvris"
+				}
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "Aria-di-mezzo-carattere_instrumental.zip",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 281,
+				"FileName": "Aria-di-mezzo-carattere_instrumental.zip-62-1-0-1670618652.zip"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Aria-di-mezzo-carattere_instrumental.zip",
+			"Dir": [
+				{
+					"From": "Aria-di-mezzo-carattere_instrumental",
+					"To": "FINAL FANTASY VI_Data/StreamingAssets/Magicite",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

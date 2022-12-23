@@ -4,7 +4,7 @@
 	"Author": "metalliguyAU",
 	"AuthorLink": "",
 	"ReleaseDate": "Feb 24, 2022",
-	"Category": "UI: General",
+	"Category": "Battle Scene",
 	"Description": "Transforms the damage and heal indicators in battle to the FFVI style ones.\n\n(Hits and Misses only modified for English)",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/3",
@@ -57,5 +57,6 @@
 	],
 	"ConfigSelectionType": "Auto",
 	"Hide": false,
+	"VerifiedAsWorking": false,
 	"IsManuallyCreated": true
 }

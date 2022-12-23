@@ -4,7 +4,7 @@
 	"Author": "metalliguyAU",
 	"AuthorLink": "",
 	"ReleaseDate": "May 1, 2022",
-	"Category": "UI: General",
+	"Category": "Battle Scene",
 	"Description": "Replaces the battle backgrounds with SNES ones!",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/48",
@@ -57,5 +57,6 @@
 	],
 	"ConfigSelectionType": "Auto",
 	"Hide": false,
+	"VerifiedAsWorking": false,
 	"IsManuallyCreated": true
 }

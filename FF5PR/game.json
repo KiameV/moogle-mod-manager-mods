@@ -1,0 +1,22 @@
+{
+  "id": "FF5PR",
+  "name": "Final Fantasy V Pixel Remaster",
+  "steamID": "1173810",
+  "baseDir": "FINAL FANTASY V_Data",
+  "remote": {
+    "nexus": {
+      "id": 4137,
+      "path": "finalfantasy5pixelremaster"
+    },
+    "curseforge": {
+      "id": 5021,
+      "path": "final-fantasy-v"
+    }
+  },
+  "defaultInstallType": "Move",
+  "versions": [
+    {
+      "version": "1.0.8"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.20",
+	"Name": "OldVer Backgrounds",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Mar 7, 2022",
+	"Category": "Battle Scene",
+	"Description": " Replaces the battle backgrounds with the OldVer ones! ",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/20",
+	"Version": "2.1",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/20/20-1646629946-1052810213.png"
+	},
+	"ModKind": {
+		"Kind": "Nexus"
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModKind": "Hosted",
+				"Hosted": {
+					"ModID": "unityplayer.enfyve"
+				}
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "FFVIPR_OldVer_Backgrounds_metalliguy-20-2-0b-1648648408.rar",
+			"Version": "2.1",
+			"Nexus": {
+				"FileID": 231,
+				"FileName": "FFVIPR_OldVer_Backgrounds_metalliguy-20-2-0b-1648648408.rar-20-2-1-1657022140.rar"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFVIPR_OldVer_Backgrounds_metalliguy-20-2-0b-1648648408.rar",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY VI_Data",
+					"To": "FINAL FANTASY VI_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

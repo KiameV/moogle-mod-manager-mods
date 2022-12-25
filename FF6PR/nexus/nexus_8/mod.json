@@ -1,0 +1,286 @@
+{
+	"ID": "nexus.8",
+	"Name": "FFVI PR Pixel Art Button Prompts",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Feb 24, 2022",
+	"Category": "UI: General",
+	"Description": " This mod replaces the button prompts with pixel art ones. ",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/8",
+	"Version": "1.11",
+	"InstallType": "Move",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/8/8-1645737192-760842687.png"
+	},
+	"ModKind": {
+		"Kind": "Nexus"
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModKind": "Hosted",
+				"Hosted": {
+					"ModID": "unityplayer.enfyve"
+				}
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "DualShock 4 Prompts",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 12,
+				"FileName": "DualShock 4 Prompts-8-1-1-1645737640.zip"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "Switch Pro Controller Prompts",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 13,
+				"FileName": "Switch Pro Controller Prompts-8-1-1-1645737659.zip"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "Xbox 360 Controller Prompts",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 14,
+				"FileName": "Xbox 360 Controller Prompts-8-1-1-1645737671.zip"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "Xbox One Controller Prompts",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 15,
+				"FileName": "Xbox One Controller Prompts-8-1-1-1645737686.zip"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "Steam Controller Prompts",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 17,
+				"FileName": "Steam Controller Prompts-8-1-1-1645744461.zip"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "Steam Deck Prompts",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 18,
+				"FileName": "Steam Deck Prompts-8-1-1-1645744484.zip"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "Super Famicom Controller Prompts",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 84,
+				"FileName": "Super Famicom Controller Prompts-8-1-1-1647197568.zip"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "SNES Controller Prompts",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 85,
+				"FileName": "SNES Controller Prompts-8-1-1-1647197583.zip"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "DualSense Prompts",
+			"Version": "1.11",
+			"Nexus": {
+				"FileID": 138,
+				"FileName": "DualSense Prompts-8-1-11-1649941449.zip"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Input Type",
+			"Description": "",
+			"Preview": {},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "DualShock 4",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/8/8-1645737192-760842687.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "DualShock 4 Prompts",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Switch Pro Controller",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/8/8-1645737206-1661950293.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Switch Pro Controller Prompts",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Xbox 360 Controller",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/8/8-1645737418-1136593118.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Xbox 360 Controller Prompts",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Xbox One Controller",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/8/8-1645737221-1236451138.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Xbox One Controller Prompts",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Steam Controller",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/8/8-1645744373-1722504495.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Steam Controller Prompts",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Steam Deck",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/8/8-1645744392-1630435725.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Steam Deck Prompts",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Super Famicom Controller",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/8/8-1647197452-707354279.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Super Famicom Controller Prompts",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES Controller",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/8/8-1647197436-1187932230.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "SNES Controller Prompts",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "DualSense",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/8/8-1645737192-760842687.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "DualSense Prompts",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

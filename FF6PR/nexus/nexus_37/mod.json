@@ -1,0 +1,61 @@
+{
+	"ID": "nexus.37",
+	"Name": "Ultima Weapon Battle Text Fix",
+	"Author": "Mudstep",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 2, 2022",
+	"Category": "Script/Text",
+	"Description": "Fixes  a weird issue where Ultima Weapon's dialogue isn't fully shown in his battle.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/37",
+	"Version": "1.0",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/37/37-1648906195-1834193063.png"
+	},
+	"ModKind": {
+		"Kind": "Nexus"
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModKind": "Hosted",
+				"Hosted": {
+					"ModID": "memoria.albeoris"
+				}
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "MS - Ultima Weapon Battle Text Fix",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 116,
+				"FileName": "MS - Ultima Weapon Battle Text Fix-37-1-0-1648906311.zip"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "MS - Ultima Weapon Battle Text Fix",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY VI_Data",
+					"To": "FINAL FANTASY VI_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"IsManuallyCreated": true
+}

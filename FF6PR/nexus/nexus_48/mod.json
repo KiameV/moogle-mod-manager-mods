@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.48",
+	"Name": "SNES Battle Backgrounds",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "May 1, 2022",
+	"Category": "Battle Scene",
+	"Description": "Replaces the battle backgrounds with SNES ones!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/48",
+	"Version": "1.1",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/48/48-1651436754-459837795.png"
+	},
+	"ModKind": {
+		"Kind": "Nexus"
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModKind": "Hosted",
+				"Hosted": {
+					"ModID": "unityplayer.enfyve"
+				}
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "FFVIPR_SNES_Battle_Backgrounds_metalliguy",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 232,
+				"FileName": "FFVIPR_SNES_Battle_Backgrounds_metalliguy-48-1-1-1657022362.rar"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFVIPR_SNES_Battle_Backgrounds_metalliguy",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY VI_Data",
+					"To": "FINAL FANTASY VI_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

@@ -1,0 +1,99 @@
+{
+	"ID": "nexus.39",
+	"Name": "Ted Woolsey Uncensored Edition Script",
+	"Author": "Mudstep",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 2, 2022",
+	"Category": "Script/Text",
+	"Description": "This is a port of the Ted Woolsey Uncensored Edition romhack, which is a script romhack for the SNES version of Final Fantasy VI made by Rodimus Primal and others in the community. The modified script is based on Woolsey's original translation of FFVI, but many lines are modified and/or retranslated to get a result more accurate to the source material, while still keeping the nuance and charm of Woolsey's script. For this mod, I replaced around 98% of the game's text with counterparts found in TWUE. The other 2% consists of some GBA/Pixel Remaster exclusive script additions, around 100 or so lines I couldn't find the counterparts to, the lyrics in the Opera Scene, and some tutorial text. If you plan on using this with [Shiryu64's Classic Textbox Framework Mod](https://www.nexusmods.com/finalfantasy6pixelremaster/mods/18), there's an alternate file to download.\n\n\n\n\n\nPlease let me know if you encounter any errors or issues with this mod!\n\n\n\n\n\nInstallation: extract the contents of the .zip file into the game's directory.\n\n\n\n\n\n **MEMORIA IS REQUIRED**\n\n\nDownload it here: https://github.com/Albeoris/Memoria.FFPR",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/39",
+	"Version": "1.4",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/39/39-1648907463-7379306.png"
+	},
+	"ModKind": {
+		"Kind": "Nexus"
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModKind": "Hosted",
+				"Hosted": {
+					"ModID": "memoria.albeoris"
+				}
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "MS - FFVI PR TWUE Script 1.8 (Classic Textbox Framework)",
+			"Version": "1.8",
+			"Nexus": {
+				"FileID": 225,
+				"FileName": "MS - FFVI PR TWUE Script 1.8 (Classic Textbox Framework)-39-1-8-1654453997.zip"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "MS - FFVI PR TWUE Script 1.8",
+			"Version": "1.8",
+			"Nexus": {
+				"FileID": 226,
+				"FileName": "MS - FFVI PR TWUE Script 1.8-39-1-8-1654454033.zip"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Download",
+			"Description": "",
+			"Preview": {},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "MS - FFVI PR TWUE Script 1.8 (Classic Textbox Framework)",
+					"Description": "If planning to use Shiryu64's Classic Textbox Framework mod alongside this one.\n\u003cbr /\u003e\u003cbr /\u003e\u003cbr /\u003eFixed all grammatical, spelling, and formatting errors found.",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "MS - FFVI PR TWUE Script 1.8 (Classic Textbox Framework)",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "MS - FFVI PR TWUE Script 1.8",
+					"Description": "If not using Shiryu64's Classic Textbox Framework.",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "MS - FFVI PR TWUE Script 1.8",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

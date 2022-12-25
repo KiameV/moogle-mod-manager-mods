@@ -1,0 +1,61 @@
+{
+	"ID": "nexus.40",
+	"Name": "Archmage Reborn",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 4, 2022",
+	"Category": "Enemy Sprite",
+	"Description": "This mod replaces Kefka's battle sprite with a custom one based on his Brave Exvius sprite.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/40",
+	"Version": "1.0",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/40/40-1649027041-624362526.png"
+	},
+	"ModKind": {
+		"Kind": "Nexus"
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModKind": "Hosted",
+				"Hosted": {
+					"ModID": "unityplayer.enfyve"
+				}
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "Archmage Reborn",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 120,
+				"FileName": "Archmage Reborn-40-1-0-1649058467.zip"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Archmage Reborn",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY VI_Data",
+					"To": "FINAL FANTASY VI_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"IsManuallyCreated": true
+}

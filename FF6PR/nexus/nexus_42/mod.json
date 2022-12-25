@@ -1,0 +1,146 @@
+{
+	"ID": "nexus.42",
+	"Name": "Opera Omnia Style Portraits FFVI",
+	"Author": "faospark",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 5, 2022",
+	"Category": "UI: Menu Portraits",
+	"Description": "Opera Omnia (Chibi) Style Game Portraits Based on Dissidia Opera Omnia\n___\nTroubleshooting\n- make sure that Import of textures is disabled if using Memoria.\n___\nCredits\n- Enfyve for the custom unity player\n- TimmyTea for allowing me to use their portraits for the mod",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/42",
+	"Version": "5",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/42/42-1666784390-1834622958.png"
+	},
+	"ModKind": {
+		"Kind": "Nexus"
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModKind": "Hosted",
+				"Hosted": {
+					"ModID": "unityplayer.enfyve"
+				}
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "01 Blonde Amano Terra",
+			"Version": "1",
+			"Nexus": {
+				"FileID": 147,
+				"FileName": "01 Blonde Amano Terra-42-1-1650808254.zip"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "02 Amano Locke",
+			"Version": "1",
+			"Nexus": {
+				"FileID": 148,
+				"FileName": "02 Amano Locke-42-1-1650809276.zip"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "ArtomniaVIPR",
+			"Version": "5",
+			"Nexus": {
+				"FileID": 273,
+				"FileName": "ArtomniaVIPR-42-5-1666783994.zip"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "ArtomniaVIPR",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY VI_Data",
+					"To": "FINAL FANTASY VI_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Blonde Amano Terra",
+			"Description": "",
+			"Preview": {},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "Yes",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "01 Blonde Amano Terra",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Amano Locke"
+				},
+				{
+					"Name": "No",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": ""
+					},
+					"NextConfigurationName": "Amano Locke"
+				}
+			]
+		},
+		{
+			"Name": "Amano Locke",
+			"Description": "",
+			"Preview": {},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Yes",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "02 Amano Locke",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "No",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": ""
+					}
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

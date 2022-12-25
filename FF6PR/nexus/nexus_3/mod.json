@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.3",
+	"Name": "SNES Battle Numbers",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Feb 24, 2022",
+	"Category": "Battle Scene",
+	"Description": "Transforms the damage and heal indicators in battle to the FFVI style ones.\n\n(Hits and Misses only modified for English)",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/3",
+	"Version": "1.0",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/3/3-1645584266-617742248.png"
+	},
+	"ModKind": {
+		"Kind": "Nexus"
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModKind": "Hosted",
+				"Hosted": {
+					"ModID": "unityplayer.enfyve"
+				}
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "FFVIPR_SNES_Battle_Numbers_metalliguy",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 4,
+				"FileName": "FFVIPR_SNES_Battle_Numbers_metalliguy-3-1-0-1645584393.rar"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFVIPR_SNES_Battle_Numbers_metalliguy",
+			"Dir": [
+				{
+					"From": "StandaloneWindows64",
+					"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

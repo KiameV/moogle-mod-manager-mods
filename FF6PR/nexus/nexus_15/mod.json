@@ -104,8 +104,11 @@
 				},
 				{
 					"Name": "Extras Only",
-					"Description": "Select optional sprites for different characters using the base game's sprites as default",
+					"Description": "Only use if other Pixel Keeper sprites are already in use. Select optional sprites for different characters.",
 					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": ""
+					},
 					"NextConfigurationName": "Terra"
 				}
 			]

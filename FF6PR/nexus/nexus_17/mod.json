@@ -13,15 +13,15 @@
 		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/17/17-1646202780-453396893.jpeg"
 	},
 	"ModKind": {
-		"Kind": "Nexus"
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 17
 	},
 	"Compatibility": {
 		"Require": [
 			{
-				"ModKind": "Hosted",
-				"Hosted": {
-					"ModID": "unityplayer.enfyve"
-				}
+				"ModID": "unityplayer.enfyve"
 			}
 		],
 		"Forbid": []

@@ -10,10 +10,9 @@
 	"Link": "https://discord.com/channels/371784427162042368/871854852769193984/988618149693894706",
 	"Version": "v2022.06.20",
 	"ModKind": {
-		"Kind": "Hosted",
-		"Hosted": {
-			"ModFileLink": null
-		}
+		"Kinds": [
+			"HostedAt"
+		]
 	},
 	"Compatibility": {
 		"Require": [],
@@ -69,5 +68,7 @@
 		}
 	],
 	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
 	"IsManuallyCreated": true
 }

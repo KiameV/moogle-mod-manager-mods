@@ -13,15 +13,15 @@
 		"Url": "https://media.forgecdn.net/avatars/633/9/638033666522279760.png"
 	},
 	"ModKind": {
-		"Kind": "CurseForge"
+		"Kinds": [
+			"CurseForge"
+		],
+		"CurseForgeID": 698422
 	},
 	"Compatibility": {
 		"Require": [
 			{
-				"ModKind": "Hosted",
-				"Hosted": {
-					"ModID": "magicite.silvris"
-				}
+				"ModID": "magicite.silvris"
 			}
 		],
 		"Forbid": []
@@ -92,5 +92,7 @@
 		}
 	],
 	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
 	"IsManuallyCreated": true
 }

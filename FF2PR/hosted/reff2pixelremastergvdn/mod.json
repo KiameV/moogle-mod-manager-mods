@@ -13,7 +13,9 @@
 		"Url": "https://cdn.discordapp.com/attachments/866169152728858634/1044963352335622274/thumbnail2.png"
 	},
 	"ModKind": {
-		"Kind": "Hosted"
+		"Kinds": [
+			"HostedAt"
+		]
 	},
 	"Compatibility": {
 		"Require": [],
@@ -54,5 +56,7 @@
 		}
 	],
 	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
 	"IsManuallyCreated": true
 }

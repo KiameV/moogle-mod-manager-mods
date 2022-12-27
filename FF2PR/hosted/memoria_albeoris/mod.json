@@ -10,15 +10,14 @@
 	"Link": "https://github.com/Albeoris/Memoria.FFPR/releases/latest",
 	"Version": "v2022.08.07",
 	"ModKind": {
-		"Kind": "Hosted"
+		"Kinds": [
+			"HostedAt"
+		]
 	},
 	"Compatibility": {
 		"Require": [
 			{
-				"ModKind": "Hosted",
-				"Hosted": {
-					"ModID": "bepinex.ghorsington"
-				}
+				"ModID": "bepinex.ghorsington"
 			}
 		],
 		"Forbid": []
@@ -58,5 +57,7 @@
 		}
 	],
 	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
 	"IsManuallyCreated": true
 }

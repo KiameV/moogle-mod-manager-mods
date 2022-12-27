@@ -13,16 +13,16 @@
 		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/31/31-1647719423-1005745286.png"
 	},
 	"ModKind": {
-		"Kind": "Nexus"
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 31
 	},
 	"Compatibility": {
 		"Require": [],
 		"Forbid": [
 			{
-				"ModKind": "Nexus",
-				"Nexus": {
-					"NexusModID": "nexus.6"
-				}
+				"ModID": "nexus.6"
 			}
 		]
 	},
@@ -124,5 +124,7 @@
 		}
 	],
 	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
 	"IsManuallyCreated": true
 }

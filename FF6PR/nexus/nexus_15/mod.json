@@ -16,7 +16,8 @@
 	"ModKind": {
 		"Kinds": [
 			"Nexus"
-		]
+		],
+		"NexusID": 15
 	},
 	"Compatibility": {
 		"Require": [

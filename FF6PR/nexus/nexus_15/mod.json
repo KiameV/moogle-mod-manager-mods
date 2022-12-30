@@ -1,0 +1,1014 @@
+{
+	"ID": "nexus.15",
+	"Name": "SNES Overworld And Battle Sprites",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Feb 28, 2022",
+	"Category": "Player/NPC Sprite",
+	"Description": "Replaces ALL sprites with the original SNES sprites! ",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/15",
+	"Version": "2.1",
+	"InstallType": "Move",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1648588410-106783311.png"
+	},
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		]
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "FFVIPR_SNES_Sprites_metalliguy",
+			"Version": "2.4",
+			"Nexus": {
+				"FileID": 235,
+				"FileName": "FFVIPR_SNES_Sprites_metalliguy-15-2-4-1657041875.rar"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "FFVIPR_SNES_T-Edition_Sprites_metalliguy",
+			"Version": "1.3a",
+			"Nexus": {
+				"FileID": 279,
+				"FileName": "FFVIPR_SNES_T-Edition_Sprites_metalliguy-15-1-3a-1669193309.rar"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "FFVIPR_SNES_Sprites_Extras_metalliguy",
+			"Version": "2.1",
+			"Nexus": {
+				"FileID": 283,
+				"FileName": "FFVIPR_SNES_Sprites_Extras_metalliguy-15-2-1-1672311811.rar"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Sprite Options",
+			"Description": "",
+			"Preview": {},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "Modded Sprites",
+					"Description": "Use the base sprites",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1648588410-106783311.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_Sprites_metalliguy",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Plus Extras",
+					"Description": "Select optional sprites for different characters using the modded sprites as default",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_Sprites_metalliguy",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Terra"
+				},
+				{
+					"Name": "Extras Only",
+					"Description": "Only use if other Pixel Keeper sprites are already in use. Select optional sprites for different characters.",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": ""
+					},
+					"NextConfigurationName": "Terra"
+				}
+			]
+		},
+		{
+			"Name": "Terra",
+			"Description": "Terra Sprite",
+			"Preview": {},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Skip",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1648588410-106783311.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": ""
+					},
+					"NextConfigurationName": "Locke"
+				},
+				{
+					"Name": "Green Haired",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1652112906-1000866683.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_Sprites_Extras_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p001_Terra_Green",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Locke"
+				},
+				{
+					"Name": "Green Haired Half-Esper",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1652112906-1000866683.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_Sprites_Extras_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p001_Terra_HalfEsper",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Locke"
+				},
+				{
+					"Name": "Blonde Haired",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1652112927-162582906.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_Sprites_Extras_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p001_Terra_Blonde",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Locke"
+				},
+				{
+					"Name": "Blonde Haired Half-Esper",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1652112927-162582906.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_Sprites_Extras_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p001_Terra_Blonde_HalfEsper",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Locke"
+				},
+				{
+					"Name": "Blonde Haired SNES",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1652112927-162582906.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_Sprites_Extras_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p001_Terra_Blonde_SNES",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Locke"
+				},
+				{
+					"Name": "SNES T-Edition",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1657205271-1804723145.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_T-Edition_Sprites_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p001_Terra",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Locke"
+				}
+			]
+		},
+		{
+			"Name": "Locke",
+			"Description": "",
+			"Preview": {},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Skip",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1648588410-106783311.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": ""
+					},
+					"NextConfigurationName": "Cyan"
+				},
+				{
+					"Name": "DissidiaNT",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1652112906-1000866683.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_Sprites_Extras_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p002_Locke_DissidiaNT",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Cyan"
+				},
+				{
+					"Name": "SNES T-Edition",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1657205271-1804723145.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_T-Edition_Sprites_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p002_Locke",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Cyan"
+				}
+			]
+		},
+		{
+			"Name": "Cyan",
+			"Description": "",
+			"Preview": {},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Skip",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1648588410-106783311.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": ""
+					},
+					"NextConfigurationName": "Shadow"
+				},
+				{
+					"Name": "Amano",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1652112906-1000866683.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_Sprites_Extras_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p003_Cyan_Amano",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Shadow"
+				},
+				{
+					"Name": "SNES T-Edition",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1657205271-1804723145.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_T-Edition_Sprites_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p003_Cyan",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Shadow"
+				}
+			]
+		},
+		{
+			"Name": "Shadow",
+			"Description": "",
+			"Preview": {},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Skip",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1648588410-106783311.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": ""
+					},
+					"NextConfigurationName": "Edgar"
+				},
+				{
+					"Name": "Headband",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1652112906-1000866683.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_Sprites_Extras_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p004_Shadow_PRHeadband",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Edgar"
+				},
+				{
+					"Name": "Thief",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1652123249-953203764.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_Sprites_Extras_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p004_Shadow_Thief",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Edgar"
+				},
+				{
+					"Name": "SNES T-Edition",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1657205271-1804723145.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_T-Edition_Sprites_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p004_Shadow",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Edgar"
+				}
+			]
+		},
+		{
+			"Name": "Edgar",
+			"Description": "",
+			"Preview": {},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Skip",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1648588410-106783311.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": ""
+					},
+					"NextConfigurationName": "Sabin"
+				},
+				{
+					"Name": "Metal Edit",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1652123249-953203764.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_Sprites_Extras_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p005_Edgar_metalEdit",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Sabin"
+				},
+				{
+					"Name": "SNES T-Edition",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1657205271-1804723145.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_T-Edition_Sprites_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p005_Edgar",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Sabin"
+				}
+			]
+		},
+		{
+			"Name": "Sabin",
+			"Description": "",
+			"Preview": {},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Skip",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1648588410-106783311.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": ""
+					},
+					"NextConfigurationName": "Celes"
+				},
+				{
+					"Name": "Royal Aide",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1652123249-953203764.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_Sprites_Extras_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p006_Sabin_metalEdit",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Celes"
+				},
+				{
+					"Name": "SNES T-Edition",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1657205271-1804723145.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_T-Edition_Sprites_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p006_Sabin",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Celes"
+				}
+			]
+		},
+		{
+			"Name": "Celes",
+			"Description": "",
+			"Preview": {},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Skip",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1648588410-106783311.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": ""
+					},
+					"NextConfigurationName": "Strago"
+				},
+				{
+					"Name": "Concept WotV",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1652112906-1000866683.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_Sprites_Extras_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p007_Celes_Concept-WotV",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Strago"
+				},
+				{
+					"Name": "Prima Donna",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1672311884-1343929260.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_Sprites_Extras_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p007_Celes_PrimaDonna",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Strago"
+				},
+				{
+					"Name": "SNES T-Edition",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1657205271-1804723145.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_T-Edition_Sprites_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p007_Celes",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Strago"
+				}
+			]
+		},
+		{
+			"Name": "Strago",
+			"Description": "",
+			"Preview": {},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Skip",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1648588410-106783311.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": ""
+					},
+					"NextConfigurationName": "Relm"
+				},
+				{
+					"Name": "Amano",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1652112906-1000866683.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_Sprites_Extras_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p008_Strago_Amano",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Relm"
+				},
+				{
+					"Name": "SNES T-Edition",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1657205271-1804723145.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_T-Edition_Sprites_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p008_Strago",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Relm"
+				}
+			]
+		},
+		{
+			"Name": "Relm",
+			"Description": "",
+			"Preview": {},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Skip",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1648588410-106783311.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": ""
+					},
+					"NextConfigurationName": "Setzer"
+				},
+				{
+					"Name": "Amano",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1652112906-1000866683.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_Sprites_Extras_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p009_Relm_Amano",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Setzer"
+				},
+				{
+					"Name": "SNES T-Edition",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1657205271-1804723145.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_T-Edition_Sprites_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p009_Relm",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Setzer"
+				}
+			]
+		},
+		{
+			"Name": "Setzer",
+			"Description": "",
+			"Preview": {},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Skip",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1648588410-106783311.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": ""
+					},
+					"NextConfigurationName": "Mog"
+				},
+				{
+					"Name": "Half-JENOVA",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1652123249-953203764.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_Sprites_Extras_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p010_Setzer_Half-JENOVA",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Mog"
+				},
+				{
+					"Name": "SNES T-Edition",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1652123249-953203764.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_T-Edition_Sprites_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p010_Setzer",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Mog"
+				}
+			]
+		},
+		{
+			"Name": "Mog",
+			"Description": "",
+			"Preview": {},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Skip",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1648588410-106783311.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": ""
+					},
+					"NextConfigurationName": "Gau"
+				},
+				{
+					"Name": "Tinkerer",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1652123249-953203764.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_Sprites_Extras_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p011_Mog_Tinkerer",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Gau"
+				},
+				{
+					"Name": "SNES T-Edition",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1652123249-953203764.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_T-Edition_Sprites_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p011_Mog",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Gau"
+				}
+			]
+		},
+		{
+			"Name": "Gau",
+			"Description": "",
+			"Preview": {},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Skip",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1648588410-106783311.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": ""
+					},
+					"NextConfigurationName": "Gogo"
+				},
+				{
+					"Name": "SNES T-Edition",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1657205271-1804723145.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_T-Edition_Sprites_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p012_Gau",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Gogo"
+				}
+			]
+		},
+		{
+			"Name": "Gogo",
+			"Description": "",
+			"Preview": {},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Skip",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1648588410-106783311.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": ""
+					},
+					"NextConfigurationName": "Umaro"
+				},
+				{
+					"Name": "SNES T-Edition",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1657205271-1804723145.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_T-Edition_Sprites_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p013_Gogo",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Umaro"
+				}
+			]
+		},
+		{
+			"Name": "Umaro",
+			"Description": "",
+			"Preview": {},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Skip",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1648588410-106783311.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": ""
+					},
+					"NextConfigurationName": "Kefka"
+				},
+				{
+					"Name": "Ranger",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1652123249-953203764.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_Sprites_Extras_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p014_Umaro",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Kefka"
+				},
+				{
+					"Name": "SNES T-Edition",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1657205271-1804723145.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_T-Edition_Sprites_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p014_Umaro",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Kefka"
+				}
+			]
+		},
+		{
+			"Name": "Kefka",
+			"Description": "",
+			"Preview": {},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Skip",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1648588410-106783311.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": ""
+					}
+				},
+				{
+					"Name": "Amano",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1652123249-953203764.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_Sprites_Extras_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p018_Kefka_AmanoSNES",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Enemy Sprite Version",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/15/15-1652123249-953203764.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_SNES_Sprites_Extras_metalliguy",
+						"Dir": [
+							{
+								"From": "bc_ff6_p018_Kefka_EnemySpriteVers",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Radio",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

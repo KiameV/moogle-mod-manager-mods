@@ -1,0 +1,1379 @@
+{
+	"ID": "nexus.26",
+	"Name": "Textbox Portraits (Full Frame)",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Mar 9, 2022",
+	"Category": "",
+	"Description": "Adds full frame Portraits to the textboxes for the main characters!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/26",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565736-597895528.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565780-1285802872.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890189-2127363676.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890214-1714741670.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1646824847-1933768096.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1646824852-728279568.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565855-434300254.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 26
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "nexus.18"
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "FFVIPR_MODDING_FILES_Textbox_Portraits_metalliguy",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 186,
+				"FileName": "FFVIPR_MODDING_FILES_Textbox_Portraits_metalliguy-26-1-0-1651573739.rar"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "FFVIPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+			"Version": "2.1",
+			"Nexus": {
+				"FileID": 143,
+				"FileName": "FFVIPR_Textbox_Portraits_(Full_Frame)_metalliguy-26-2-1-1650566101.rar"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_metalliguy",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 144,
+				"FileName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_metalliguy-26-1-1-1650566164.rar"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "FFVIPR_Textbox_Portraits_(Full_Frame)_(Blonde_Terra)_metalliguy",
+			"Version": "2.1",
+			"Nexus": {
+				"FileID": 156,
+				"FileName": "FFVIPR_Textbox_Portraits_(Full_Frame)_(Blonde_Terra)_metalliguy-26-2-2-1650890761.rar"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_(Blonde_Terra)_metalliguy",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 157,
+				"FileName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_(Blonde_Terra)_metalliguy-26-1-1-1650890915.rar"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Boarder Type",
+			"Description": "Blonde Haired Terra",
+			"Preview": {},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "Bordered",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565780-1285802872.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": ""
+					},
+					"NextConfigurationName": "Bordered UI Type"
+				},
+				{
+					"Name": "Borderless",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565736-597895528.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": ""
+					},
+					"NextConfigurationName": "Borderless UI Type"
+				}
+			]
+		},
+		{
+			"Name": "Bordered UI Type",
+			"Description": "Blonde Haired Terra",
+			"Preview": {},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Chrono UI + OO",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565780-1285802872.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_metalliguy",
+						"Dir": [
+							{
+								"From": "Chrono UI + OO",
+								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Chrono UI + OO (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890214-1714741670.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "Chrono UI + OO",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Chrono UI + OldVer",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565780-1285802872.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_metalliguy",
+						"Dir": [
+							{
+								"From": "Chrono UI + OldVer",
+								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Chrono UI + OldVer (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890214-1714741670.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "Chrono UI + OldVer",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Chrono UI + SNES",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565780-1285802872.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_metalliguy",
+						"Dir": [
+							{
+								"From": "Chrono UI + SNES",
+								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Chrono UI + SNES (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890214-1714741670.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "Chrono UI + SNES",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Darker UI + OO",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565780-1285802872.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_metalliguy",
+						"Dir": [
+							{
+								"From": "Darker UI + OO",
+								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Darker UI + OO (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890214-1714741670.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "Darker UI + OO",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Darker UI + OldVer",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565780-1285802872.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_metalliguy",
+						"Dir": [
+							{
+								"From": "Darker UI + OldVer",
+								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Darker UI + OldVer (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890214-1714741670.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "Darker UI + OldVer",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Darker UI + SNES",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565780-1285802872.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_metalliguy",
+						"Dir": [
+							{
+								"From": "Darker UI + SNES",
+								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Darker UI + SNES (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890214-1714741670.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "Darker UI + SNES",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "FFVI UI + OO",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565780-1285802872.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_metalliguy",
+						"Dir": [
+							{
+								"From": "FFVI UI + OO",
+								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "FFVI UI + OO (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890214-1714741670.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "FFVI UI + OO",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "FFVI UI + OldVer",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565780-1285802872.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_metalliguy",
+						"Dir": [
+							{
+								"From": "FFVI UI + OldVer",
+								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "FFVI UI + OldVer (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890214-1714741670.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "FFVI UI + OldVer",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "FFVI UI + SNES",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565780-1285802872.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_metalliguy",
+						"Dir": [
+							{
+								"From": "FFVI UI + SNES",
+								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "FFVI UI + SNES (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890214-1714741670.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "FFVI UI + SNES",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES (flat) UI + OO",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565780-1285802872.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_metalliguy",
+						"Dir": [
+							{
+								"From": "SNES (flat) UI + OO",
+								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES (flat) UI + OO (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890214-1714741670.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "SNES (flat) UI + OO",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES (flat) UI + OldVer",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565780-1285802872.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_metalliguy",
+						"Dir": [
+							{
+								"From": "SNES (flat) UI + OldVer",
+								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES (flat) UI + OldVer (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890214-1714741670.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "SNES (flat) UI + OldVer",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES (flat) UI + SNES",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565780-1285802872.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_metalliguy",
+						"Dir": [
+							{
+								"From": "SNES (flat) UI + SNES",
+								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES (flat) UI + SNES (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890214-1714741670.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "SNES (flat) UI + SNES",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES (gradient) UI + OO",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565780-1285802872.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_metalliguy",
+						"Dir": [
+							{
+								"From": "SNES (gradient) UI + OO",
+								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES (gradient) UI + OO (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890214-1714741670.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "SNES (gradient) UI + OO",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES (gradient) UI + OldVer",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565780-1285802872.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_metalliguy",
+						"Dir": [
+							{
+								"From": "SNES (gradient) UI + OldVer",
+								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES (gradient) UI + OldVer (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890214-1714741670.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "SNES (gradient) UI + OldVer",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES (gradient) UI + SNES",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565780-1285802872.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_metalliguy",
+						"Dir": [
+							{
+								"From": "SNES (gradient) UI + SNES",
+								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES (gradient) UI + SNES (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890214-1714741670.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "SNES (gradient) UI + SNES",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Stock UI + OO",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565780-1285802872.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_metalliguy",
+						"Dir": [
+							{
+								"From": "Stock UI + OO",
+								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Stock UI + OO (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890214-1714741670.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "Stock UI + OO",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Stock UI + OldVer",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565780-1285802872.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_metalliguy",
+						"Dir": [
+							{
+								"From": "Stock UI + OldVer",
+								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Stock UI + OldVer (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890214-1714741670.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "Stock UI + OldVer",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Stock UI + SNES",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565780-1285802872.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_metalliguy",
+						"Dir": [
+							{
+								"From": "Stock UI + SNES",
+								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Stock UI + SNES (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890214-1714741670.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame_Bordered)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "Stock UI + SNES",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"Name": "Borderless UI Type",
+			"Description": "Blonde Haired Terra",
+			"Preview": {},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Chrono UI + OO",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565736-597895528.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+						"Dir": [
+							{
+								"From": "Chrono UI + OO",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Chrono UI + OO (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890189-2127363676.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "Chrono UI + OO",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Chrono UI + OldVer",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565736-597895528.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+						"Dir": [
+							{
+								"From": "Chrono UI + OldVer",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Chrono UI + OldVer (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890189-2127363676.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "Chrono UI + OldVer",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Chrono UI + SNES",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565736-597895528.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+						"Dir": [
+							{
+								"From": "Chrono UI + SNES",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Chrono UI + SNES (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890189-2127363676.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "Chrono UI + SNES",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Darker UI + OO",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565736-597895528.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+						"Dir": [
+							{
+								"From": "Darker UI + OO",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Darker UI + OO (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890189-2127363676.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "Darker UI + OO",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Darker UI + OldVer",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565736-597895528.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+						"Dir": [
+							{
+								"From": "Darker UI + OldVer",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Darker UI + OldVer (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890189-2127363676.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "Darker UI + OldVer",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Darker UI + SNES",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565736-597895528.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+						"Dir": [
+							{
+								"From": "Darker UI + SNES",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Darker UI + SNES (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890189-2127363676.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "Darker UI + SNES",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "FFVI UI + OO",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565736-597895528.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+						"Dir": [
+							{
+								"From": "FFVI UI + OO",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "FFVI UI + OO (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890189-2127363676.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "FFVI UI + OO",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "FFVI UI + OldVer",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565736-597895528.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+						"Dir": [
+							{
+								"From": "FFVI UI + OldVer",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "FFVI UI + OldVer (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890189-2127363676.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "FFVI UI + OldVer",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "FFVI UI + SNES",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565736-597895528.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+						"Dir": [
+							{
+								"From": "FFVI UI + SNES",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "FFVI UI + SNES (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890189-2127363676.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "FFVI UI + SNES",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES (flat) UI + OO",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565736-597895528.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+						"Dir": [
+							{
+								"From": "SNES (flat) UI + OO",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES (flat) UI + OO (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890189-2127363676.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "SNES (flat) UI + OO",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES (flat) UI + OldVer",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565736-597895528.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+						"Dir": [
+							{
+								"From": "SNES (flat) UI + OldVer",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES (flat) UI + OldVer (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890189-2127363676.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "SNES (flat) UI + OldVer",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES (flat) UI + SNES",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565736-597895528.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+						"Dir": [
+							{
+								"From": "SNES (flat) UI + SNES",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES (flat) UI + SNES (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890189-2127363676.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "SNES (flat) UI + SNES",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES (gradient) UI + OO",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565736-597895528.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+						"Dir": [
+							{
+								"From": "SNES (gradient) UI + OO",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES (gradient) UI + OO (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890189-2127363676.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "SNES (gradient) UI + OO",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES (gradient) UI + OldVer",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565736-597895528.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+						"Dir": [
+							{
+								"From": "SNES (gradient) UI + OldVer",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES (gradient) UI + OldVer (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890189-2127363676.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "SNES (gradient) UI + OldVer",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES (gradient) UI + SNES",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565736-597895528.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+						"Dir": [
+							{
+								"From": "SNES (gradient) UI + SNES",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES (gradient) UI + SNES (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890189-2127363676.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "SNES (gradient) UI + SNES",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Stock UI + OO",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565736-597895528.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+						"Dir": [
+							{
+								"From": "Stock UI + OO",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Stock UI + OO (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890189-2127363676.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "Stock UI + OO",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Stock UI + OldVer",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565736-597895528.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+						"Dir": [
+							{
+								"From": "Stock UI + OldVer",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Stock UI + OldVer (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890189-2127363676.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "Stock UI + OldVer",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Stock UI + SNES",
+					"Description": "Green Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650565736-597895528.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+						"Dir": [
+							{
+								"From": "Stock UI + SNES",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Stock UI + SNES (Blonde)",
+					"Description": "Blonde Haired Terra",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/26/26-1650890189-2127363676.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Full_Frame)_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "Stock UI + SNES",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": true
+							}
+						]
+					}
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

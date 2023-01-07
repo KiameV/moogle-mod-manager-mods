@@ -148,7 +148,7 @@
 						"Dir": [
 							{
 								"From": "Chrono UI + OO",
-								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
 								"Recursive": true
 							}
 						]
@@ -182,7 +182,7 @@
 						"Dir": [
 							{
 								"From": "Chrono UI + OldVer",
-								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
 								"Recursive": true
 							}
 						]
@@ -216,7 +216,7 @@
 						"Dir": [
 							{
 								"From": "Chrono UI + SNES",
-								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
 								"Recursive": true
 							}
 						]
@@ -250,7 +250,7 @@
 						"Dir": [
 							{
 								"From": "Darker UI + OO",
-								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
 								"Recursive": true
 							}
 						]
@@ -284,7 +284,7 @@
 						"Dir": [
 							{
 								"From": "Darker UI + OldVer",
-								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
 								"Recursive": true
 							}
 						]
@@ -318,7 +318,7 @@
 						"Dir": [
 							{
 								"From": "Darker UI + SNES",
-								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
 								"Recursive": true
 							}
 						]
@@ -352,7 +352,7 @@
 						"Dir": [
 							{
 								"From": "FFVI UI + OO",
-								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
 								"Recursive": true
 							}
 						]
@@ -386,7 +386,7 @@
 						"Dir": [
 							{
 								"From": "FFVI UI + OldVer",
-								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
 								"Recursive": true
 							}
 						]
@@ -420,7 +420,7 @@
 						"Dir": [
 							{
 								"From": "FFVI UI + SNES",
-								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
 								"Recursive": true
 							}
 						]
@@ -454,7 +454,7 @@
 						"Dir": [
 							{
 								"From": "SNES (flat) UI + OO",
-								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
 								"Recursive": true
 							}
 						]
@@ -488,7 +488,7 @@
 						"Dir": [
 							{
 								"From": "SNES (flat) UI + OldVer",
-								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
 								"Recursive": true
 							}
 						]
@@ -522,7 +522,7 @@
 						"Dir": [
 							{
 								"From": "SNES (flat) UI + SNES",
-								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
 								"Recursive": true
 							}
 						]
@@ -556,7 +556,7 @@
 						"Dir": [
 							{
 								"From": "SNES (gradient) UI + OO",
-								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
 								"Recursive": true
 							}
 						]
@@ -590,7 +590,7 @@
 						"Dir": [
 							{
 								"From": "SNES (gradient) UI + OldVer",
-								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
 								"Recursive": true
 							}
 						]
@@ -624,7 +624,7 @@
 						"Dir": [
 							{
 								"From": "SNES (gradient) UI + SNES",
-								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
 								"Recursive": true
 							}
 						]
@@ -658,7 +658,7 @@
 						"Dir": [
 							{
 								"From": "Stock UI + OO",
-								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
 								"Recursive": true
 							}
 						]
@@ -692,7 +692,7 @@
 						"Dir": [
 							{
 								"From": "Stock UI + OldVer",
-								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
 								"Recursive": true
 							}
 						]
@@ -726,7 +726,7 @@
 						"Dir": [
 							{
 								"From": "Stock UI + SNES",
-								"To": "INAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64",
 								"Recursive": true
 							}
 						]

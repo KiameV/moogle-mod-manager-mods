@@ -9,6 +9,7 @@
 	"ReleaseNotes": "",
 	"Link": "https://github.com/BepInEx/BepInEx",
 	"Version": "v2022.07.16",
+	"InstallType": "ImmediateDecompress",
 	"Preview": {
 		"Url": "https://avatars2.githubusercontent.com/u/39589027?s=256"
 	},

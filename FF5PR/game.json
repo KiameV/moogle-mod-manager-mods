@@ -3,6 +3,7 @@
   "name": "Final Fantasy V Pixel Remaster",
   "steamID": "1173810",
   "baseDir": "FINAL FANTASY V_Data",
+  "authorHintDir": "FF PR",
   "remote": {
     "nexus": {
       "id": 4137,
@@ -18,5 +19,23 @@
     {
       "version": "1.0.8"
     }
+  ],
+  "categories": [
+	"Battle Scene",
+	"Enemy Sprite",
+	"Game Overhauls",
+	"Gameplay",
+	"General",
+	"Fonts",
+	"Player/NPC Sprite",
+	"Script/Text",
+	"Soundtrack",
+	"Tile Set",
+	"Title Screen",
+	"UI: General",
+	"UI: Menu Portraits",
+	"UI: Textbox Portraits",
+	"UI: Window Frames",
+	"Utility"
   ]
 }

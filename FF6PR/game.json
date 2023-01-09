@@ -3,6 +3,7 @@
   "name": "Final Fantasy VI Pixel Remaster",
   "steamID": "1173820",
   "baseDir": "FINAL FANTASY VI_Data",
+  "authorHintDir": "FF PR",
   "remote": {
     "nexus": {
       "id": 4335,
@@ -22,5 +23,23 @@
         "manifest": 8518548388693516132
       }
     }
+  ],
+  "categories": [
+	"Battle Scene",
+	"Enemy Sprite",
+	"Game Overhauls",
+	"Gameplay",
+	"General",
+	"Fonts",
+	"Player/NPC Sprite",
+	"Script/Text",
+	"Soundtrack",
+	"Tile Set",
+	"Title Screen",
+	"UI: General",
+	"UI: Menu Portraits",
+	"UI: Textbox Portraits",
+	"UI: Window Frames",
+	"Utility"
   ]
 }

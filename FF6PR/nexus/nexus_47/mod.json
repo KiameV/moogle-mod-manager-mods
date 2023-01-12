@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.47",
+	"Name": "Blonde Terra Menu Portrait",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 24, 2022",
+	"Category": "UI: Menu Portraits",
+	"Description": "Addes a Blonde Terra Portrait to the main PR portraits!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/47",
+	"Version": "1.0",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/47/47-1650807135-1826388676.png"
+	},
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 47
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "FFVIPR_Blonde_Terra_PR_Menu_Portrait_metalliguy",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 146,
+				"FileName": "FFVIPR_Blonde_Terra_PR_Menu_Portrait_metalliguy-47-1-0-1650807262.rar"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFVIPR_Blonde_Terra_PR_Menu_Portrait_metalliguy",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY VI_Data",
+					"To": "FINAL FANTASY VI_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

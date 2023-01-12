@@ -55,7 +55,7 @@
 				{
 					"From": "-CC Upscale Latest",
 					"To": "map/mapbin",
-					"Recursive": true,
+					"Recursive": false,
 					"ToArchive": "data/hd.dat"
 				}
 			]

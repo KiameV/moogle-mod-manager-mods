@@ -8,7 +8,7 @@
 	"Description": "High-fidelity hand-retouched HD background upscales for Chrono Cross RDE. This project is a WIP.",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/chronocrosstheradicaldreamersedition/mods/52",
-	"Version": "0.2",
+	"Version": "0.3",
 	"InstallType": "MoveToArchive",
 	"Previews": [
 		{
@@ -30,11 +30,11 @@
 	},
 	"Downloadable": [
 		{
-			"Name": "CC HandEdited BG Upscale v02",
-			"Version": "0.2",
+			"Name": "CC HandEdited BG Upscale v03",
+			"Version": "0.3",
 			"Nexus": {
-				"FileID": 134,
-				"FileName": "CC HandEdited BG Upscale v02-52-0-2-1653244497.zip"
+				"FileID": 145,
+				"FileName": "CC HandEdited BG Upscale v03-52-0-3-1673627703.zip"
 			},
 			"DownloadedLoc": ""
 		}
@@ -47,10 +47,10 @@
 	],
 	"AlwaysDownload": [
 		{
-			"DownloadName": "CC HandEdited BG Upscale v02",
+			"DownloadName": "CC HandEdited BG Upscale v03",
 			"Dir": [
 				{
-					"From": "-CC Upscale Latest",
+					"From": "SilverLimit CCBG/Files/",
 					"To": "map/mapbin",
 					"Recursive": false,
 					"ToArchive": "data/hd.dat"

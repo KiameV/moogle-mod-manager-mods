@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.10",
+	"Name": "FFVI PR SNES Custom Tileset",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Feb 25, 2022",
+	"Category": "Tile Set",
+	"Description": "This mod replaces the overly bright GBA tileset of both overworlds with a slightly color corrected port of the SNES one. ",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/10",
+	"Version": "1.051",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/10/10-1646580947-1638905230.png"
+	},
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 10
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "FFVI PR Custom Tileset",
+			"Version": "1.051",
+			"Nexus": {
+				"FileID": 250,
+				"FileName": "FFVI PR Custom Tileset-10-1-051-1657218101.zip"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFVI PR Custom Tileset",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY VI_Data",
+					"To": "FINAL FANTASY VI_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

@@ -1,0 +1,111 @@
+{
+	"ID": "nexus.51",
+	"Name": "Shiryu's Custom UI (FFVI)",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "May 8, 2022",
+	"Category": "UI: Window Frames",
+	"Description": "This mod replaces the UI with a custom one inspired by some aspects of the previous games with a modern and a retro option.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/51",
+	"Version": "1.3",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/51/51-1657379508-541191916.png"
+	},
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 51
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "Shiryu's Custom UI (FFVI)",
+			"Version": "1.3",
+			"Nexus": {
+				"FileID": 270,
+				"FileName": "Shiryu's Custom UI (FFVI)-51-1-3-1661506752.rar"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Style",
+			"Description": "",
+			"Preview": {},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "Modern",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/51/51-1657379114-82633306.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Shiryu's Custom UI (FFVI)",
+						"Dir": [
+							{
+								"From": "Modern/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Retro",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/51/51-1657378834-260161202.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Shiryu's Custom UI (FFVI)",
+						"Dir": [
+							{
+								"From": "Retro/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Retro - Gradient",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/51/51-1657378574-1374255612.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Shiryu's Custom UI (FFVI)",
+						"Dir": [
+							{
+								"From": "Retro - Gradient/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

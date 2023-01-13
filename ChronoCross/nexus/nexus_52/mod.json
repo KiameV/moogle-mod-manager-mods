@@ -52,7 +52,7 @@
 				{
 					"From": "SilverLimit CCBG/Files/",
 					"To": "map/mapbin",
-					"Recursive": true,
+					"Recursive": false,
 					"ToArchive": "data/hd.dat"
 				}
 			]

@@ -23,7 +23,6 @@
 	],
 	"ModKind": {
 		"Kinds": [
-			"HostedAt",
 			"GoogleDrive"
 		]
 	},

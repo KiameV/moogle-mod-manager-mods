@@ -23,7 +23,7 @@
 	],
 	"ModKind": {
 		"Kinds": [
-			"HostedAt"
+			"GoogleDrive"
 		]
 	},
 	"Compatibility": {
@@ -32,12 +32,11 @@
 	},
 	"Downloadable": [
 		{
-			"Name": "background-pack-v2.zip",
+			"Name": "background-pack-v2",
 			"Version": "2",
-			"Hosted": {
-				"Source": [
-					"https://drive.google.com/file/d/1v5xHVM25RAm-QCMyu8QAyvr5x1X22-Ch/view?usp=sharing"
-				]
+			"GoogleDrive": {
+				"Name": "background-pack-v2.zip ",
+				"Url": "https://drive.google.com/file/d/1v5xHVM25RAm-QCMyu8QAyvr5x1X22-Ch/view?usp=sharing"
 			},
 			"DownloadedLoc": ""
 		}
@@ -55,7 +54,7 @@
 	],
 	"AlwaysDownload": [
 		{
-			"DownloadName": "background-pack-v2.zip",
+			"DownloadName": "background-pack-v2",
 			"Dir": [
 				{
 					"From": "background-pack-v2.zip/converted chip2 fixed/",

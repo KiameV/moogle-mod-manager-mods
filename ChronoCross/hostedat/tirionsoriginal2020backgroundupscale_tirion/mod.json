@@ -32,7 +32,7 @@
 	},
 	"Downloadable": [
 		{
-			"Name": "view?usp=sharing",
+			"Name": "background-pack-v2.zip",
 			"Version": "2",
 			"Hosted": {
 				"Source": [
@@ -55,7 +55,7 @@
 	],
 	"AlwaysDownload": [
 		{
-			"DownloadName": "view?usp=sharing",
+			"DownloadName": "background-pack-v2.zip",
 			"Dir": [
 				{
 					"From": "background-pack-v2.zip/converted chip2 fixed/",

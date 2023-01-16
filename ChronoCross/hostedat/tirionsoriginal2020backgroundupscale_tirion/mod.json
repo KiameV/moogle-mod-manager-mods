@@ -57,7 +57,7 @@
 			"DownloadName": "background-pack-v2",
 			"Dir": [
 				{
-					"From": "background-pack-v2.zip/converted chip2 fixed/",
+					"From": "converted chip2 fixed/",
 					"To": "map/mapbin/",
 					"Recursive": true,
 					"ToArchive": "data/hd.dat"

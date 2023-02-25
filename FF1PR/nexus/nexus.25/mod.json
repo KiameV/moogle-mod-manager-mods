@@ -40,8 +40,6 @@
 		{
 			"DownloadName": "CozyUI - FF1 PR Edition",
 			"Dir": [
-				null,
-				null,
 				{
 					"From": "FINAL FANTASY_Data",
 					"To": "FINAL FANTASY_Data",

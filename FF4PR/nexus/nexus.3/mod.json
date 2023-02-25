@@ -40,8 +40,6 @@
 		{
 			"DownloadName": "FFIV PSP Backgrounds",
 			"Dir": [
-				null,
-				null,
 				{
 					"From": "FINAL FANTASY IV_Data",
 					"To": "FINAL FANTASY IV_Data",

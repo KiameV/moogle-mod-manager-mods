@@ -40,8 +40,6 @@
 		{
 			"DownloadName": "FFVI Battle Numbers",
 			"Dir": [
-				null,
-				null,
 				{
 					"From": "StandaloneWindows64",
 					"To": "FINAL FANTASY_Data/StreamingAssets/aa/",

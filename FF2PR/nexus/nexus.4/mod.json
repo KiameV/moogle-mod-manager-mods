@@ -40,8 +40,6 @@
 		{
 			"DownloadName": "GBA Overworld Sprites",
 			"Dir": [
-				null,
-				null,
 				{
 					"From": "FINAL FANTASY II_Data",
 					"To": "FINAL FANTASY II_Data",

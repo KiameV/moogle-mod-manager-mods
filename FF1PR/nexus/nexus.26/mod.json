@@ -40,8 +40,6 @@
 		{
 			"DownloadName": "Dawn of Souls Title Screen",
 			"Dir": [
-				null,
-				null,
 				{
 					"From": "FINAL FANTASY_Data",
 					"To": "FINAL FANTASY_Data",

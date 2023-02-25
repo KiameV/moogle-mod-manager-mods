@@ -1,0 +1,57 @@
+{
+	"ID": "nexus.3",
+	"Name": "PSP Battle Backgrounds",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Sep 14, 2021",
+	"Category": "",
+	"Description": "Replaces all battle backgrounds with the PSP backgrounds!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy4pixelremaster/mods/3",
+	"Version": "1.0",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4022/images/3/3-1631287838-1365386655.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 3
+	},
+	"Downloadable": [
+		{
+			"Name": "FFIV PSP Backgrounds",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 3,
+				"FileName": "FFIV PSP Backgrounds-3-1-0-1631287947.rar"
+			}
+		}
+	],
+	"DonationLink": null,
+	"Games": [
+		{
+			"Name": "FF4PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFIV PSP Backgrounds",
+			"Dir": [
+				null,
+				null,
+				{
+					"From": "FINAL FANTASY IV_Data",
+					"To": "FINAL FANTASY IV_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": false
+}

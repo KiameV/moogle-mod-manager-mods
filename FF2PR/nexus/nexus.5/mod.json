@@ -1,0 +1,57 @@
+{
+	"ID": "nexus.5",
+	"Name": "GBA Portrait Sprites",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Aug 15, 2021",
+	"Category": "",
+	"Description": "Replaces playable character portraits with the ones from the GBA version!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy2pixelremaster/mods/5",
+	"Version": "1.0",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3958/images/5/5-1629012796-2113399232.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 5
+	},
+	"Downloadable": [
+		{
+			"Name": "GBA Portraits",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 6,
+				"FileName": "GBA Portraits-5-1-0-1629012977.rar"
+			}
+		}
+	],
+	"DonationLink": null,
+	"Games": [
+		{
+			"Name": "FF2PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "GBA Portraits",
+			"Dir": [
+				null,
+				null,
+				{
+					"From": "FINAL FANTASY II_Data",
+					"To": "FINAL FANTASY II_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": false
+}

@@ -1,0 +1,57 @@
+{
+	"ID": "nexus.26",
+	"Name": "Dawn of Souls Title Screen",
+	"Author": "deleted124635168",
+	"AuthorLink": "",
+	"ReleaseDate": "Sep 17, 2021",
+	"Category": "",
+	"Description": "Final Fantasy Dawn of Souls Title Screen",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasypixelremaster/mods/26",
+	"Version": "1.0",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/26/26-1631888395-1224286599.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 26
+	},
+	"Downloadable": [
+		{
+			"Name": "Dawn of Souls Title Screen",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 57,
+				"FileName": "Dawn of Souls Title Screen-26-1-0-1631888495.zip"
+			}
+		}
+	],
+	"DonationLink": null,
+	"Games": [
+		{
+			"Name": "FF1PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Dawn of Souls Title Screen",
+			"Dir": [
+				null,
+				null,
+				{
+					"From": "FINAL FANTASY_Data",
+					"To": "FINAL FANTASY_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": false
+}

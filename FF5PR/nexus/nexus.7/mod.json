@@ -1,0 +1,57 @@
+{
+	"ID": "nexus.7",
+	"Name": "FFV PR Dark Cloud for Blinded Status",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Nov 12, 2021",
+	"Category": "",
+	"Description": "Replaces the sunglasses of the blind status.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy5pixelremaster/mods/7",
+	"Version": "1.1",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/7/7-1636651192-1075108512.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 7
+	},
+	"Downloadable": [
+		{
+			"Name": "FFV PR Dark Cloud for Blinded Status",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 130,
+				"FileName": "FFV PR Dark Cloud for Blinded Status-7-1-1-1664999116.rar"
+			}
+		}
+	],
+	"DonationLink": null,
+	"Games": [
+		{
+			"Name": "FF5PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFV PR Dark Cloud for Blinded Status",
+			"Dir": [
+				null,
+				null,
+				{
+					"From": "FINAL FANTASY V_Data",
+					"To": "FINAL FANTASY V_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": false
+}

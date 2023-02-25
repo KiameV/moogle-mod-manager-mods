@@ -1,0 +1,57 @@
+{
+	"ID": "nexus.3",
+	"Name": "FFVI UI Overhaul Mod",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Nov 12, 2021",
+	"Category": "",
+	"Description": "Replaces the UI with a FFVI inspired theme!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy5pixelremaster/mods/3",
+	"Version": "1.2a",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/3/3-1636638688-519121524.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 3
+	},
+	"Downloadable": [
+		{
+			"Name": "FFVPR_FFVI_UI_metalliguy",
+			"Version": "1.2a",
+			"Nexus": {
+				"FileID": 121,
+				"FileName": "FFVPR_FFVI_UI_metalliguy-3-1-2a-1660741346.rar"
+			}
+		}
+	],
+	"DonationLink": null,
+	"Games": [
+		{
+			"Name": "FF5PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFVPR_FFVI_UI_metalliguy",
+			"Dir": [
+				null,
+				null,
+				{
+					"From": "FINAL FANTASY V_Data",
+					"To": "FINAL FANTASY V_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": false
+}

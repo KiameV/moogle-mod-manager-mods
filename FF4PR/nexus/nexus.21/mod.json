@@ -1,0 +1,57 @@
+{
+	"ID": "nexus.21",
+	"Name": "Moon Artifacts Begone",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Sep 17, 2021",
+	"Category": "",
+	"Description": "This mod replaces the artifact ridden Red Moon tileset with a custom one made with the PSP assets.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy4pixelremaster/mods/21",
+	"Version": "1.2",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4022/images/21/21-1631984902-2073869007.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 21
+	},
+	"Downloadable": [
+		{
+			"Name": "Moon Artifacts Begone",
+			"Version": "1.2",
+			"Nexus": {
+				"FileID": 192,
+				"FileName": "Moon Artifacts Begone-21-1-2-1659863496.zip"
+			}
+		}
+	],
+	"DonationLink": null,
+	"Games": [
+		{
+			"Name": "FF4PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Moon Artifacts Begone",
+			"Dir": [
+				null,
+				null,
+				{
+					"From": "FINAL FANTASY IV_Data",
+					"To": "FINAL FANTASY IV_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": false
+}

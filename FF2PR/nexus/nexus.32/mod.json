@@ -1,0 +1,57 @@
+{
+	"ID": "nexus.32",
+	"Name": "PSP Portraits",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Feb 26, 2022",
+	"Category": "",
+	"Description": "Replaces all portraits with the PSP versions!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy2pixelremaster/mods/32",
+	"Version": "1.0",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3958/images/32/32-1645865002-417900293.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 32
+	},
+	"Downloadable": [
+		{
+			"Name": "FFIIPR_PSP_Portraits_metalliguy",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 74,
+				"FileName": "FFIIPR_PSP_Portraits_metalliguy-32-1-0-1645865096.rar"
+			}
+		}
+	],
+	"DonationLink": null,
+	"Games": [
+		{
+			"Name": "FF2PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFIIPR_PSP_Portraits_metalliguy",
+			"Dir": [
+				null,
+				null,
+				{
+					"From": "FINAL FANTASY II_Data",
+					"To": "FINAL FANTASY II_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": false
+}

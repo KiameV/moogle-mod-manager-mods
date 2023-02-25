@@ -1,0 +1,57 @@
+{
+	"ID": "nexus.7",
+	"Name": "FFVI UI Overhaul Mod",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Aug 15, 2021",
+	"Category": "",
+	"Description": "Transform all menu UI and text boxes into a sleek, FFVI inspired look!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy2pixelremaster/mods/7",
+	"Version": "1.2a",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3958/images/7/7-1646544896-969018469.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 7
+	},
+	"Downloadable": [
+		{
+			"Name": "FFIIPR_FFVI_UI_metalliguy",
+			"Version": "1.2a",
+			"Nexus": {
+				"FileID": 111,
+				"FileName": "FFIIPR_FFVI_UI_metalliguy-7-1-2a-1661280811.rar"
+			}
+		}
+	],
+	"DonationLink": null,
+	"Games": [
+		{
+			"Name": "FF2PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFIIPR_FFVI_UI_metalliguy",
+			"Dir": [
+				null,
+				null,
+				{
+					"From": "FINAL FANTASY II_Data",
+					"To": "FINAL FANTASY II_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": false
+}

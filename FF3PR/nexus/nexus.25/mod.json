@@ -1,0 +1,57 @@
+{
+	"ID": "nexus.25",
+	"Name": "White Tile Removal",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Feb 26, 2022",
+	"Category": "",
+	"Description": "Removes the White Tiles that appear in secret passages!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy3pixelremaster/mods/25",
+	"Version": "1.0a",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3942/images/25/25-1646542359-2124020198.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 25
+	},
+	"Downloadable": [
+		{
+			"Name": "FFIIIPR_White_TIle_Removal_metalliguy",
+			"Version": "1.0a",
+			"Nexus": {
+				"FileID": 101,
+				"FileName": "FFIIIPR_White_TIle_Removal_metalliguy-25-1-0a-1660984522.rar"
+			}
+		}
+	],
+	"DonationLink": null,
+	"Games": [
+		{
+			"Name": "FF3PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFIIIPR_White_TIle_Removal_metalliguy",
+			"Dir": [
+				null,
+				null,
+				{
+					"From": "FINAL FANTASY III_Data",
+					"To": "FINAL FANTASY III_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": false
+}

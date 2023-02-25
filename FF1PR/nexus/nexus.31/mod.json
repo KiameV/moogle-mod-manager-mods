@@ -1,0 +1,57 @@
+{
+	"ID": "nexus.31",
+	"Name": "Shiryu's Custom Bestiary Mod (FFI)",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Oct 2, 2021",
+	"Category": "",
+	"Description": "This mod restores the sprites from the GBA version that were changed and recolors the bestiary with custom colors.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasypixelremaster/mods/31",
+	"Version": "1.0",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/31/31-1633171965-1861002559.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 31
+	},
+	"Downloadable": [
+		{
+			"Name": "Shiryu's Custom Bestiary Mod (FFI)",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 71,
+				"FileName": "Shiryu's Custom Bestiary Mod-31-1-0-1633171927.rar"
+			}
+		}
+	],
+	"DonationLink": null,
+	"Games": [
+		{
+			"Name": "FF1PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Shiryu's Custom Bestiary Mod (FFI)",
+			"Dir": [
+				null,
+				null,
+				{
+					"From": "FINAL FANTASY_Data",
+					"To": "FINAL FANTASY_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": false
+}

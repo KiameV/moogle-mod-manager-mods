@@ -1,0 +1,57 @@
+{
+	"ID": "nexus.15",
+	"Name": "NeonOnionKnight's Replacers - Dissidia Onion Knights",
+	"Author": "NeonOnionKnight",
+	"AuthorLink": "",
+	"ReleaseDate": "Aug 28, 2021",
+	"Category": "",
+	"Description": "This mod replaces assets in the Final Fantasy 3: Pixel Remaster game in attempt to address hit-and-miss design choices.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy3pixelremaster/mods/15",
+	"Version": "1.0",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3942/images/15/15-1630192697-780711122.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 15
+	},
+	"Downloadable": [
+		{
+			"Name": "NeonOnionKnightsReplacers-DissidiaOnionKnights",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 29,
+				"FileName": "NeonOnionKnightsReplacers-DissidiaOnionKnights-15-1-0-1630192811.zip"
+			}
+		}
+	],
+	"DonationLink": null,
+	"Games": [
+		{
+			"Name": "FF3PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "NeonOnionKnightsReplacers-DissidiaOnionKnights",
+			"Dir": [
+				null,
+				null,
+				{
+					"From": "FINAL FANTASY III_Data",
+					"To": "FINAL FANTASY III_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": false
+}

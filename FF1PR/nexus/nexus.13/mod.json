@@ -1,0 +1,57 @@
+{
+	"ID": "nexus.13",
+	"Name": "FF Record Keeper Character Sprites",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Aug 15, 2021",
+	"Category": "",
+	"Description": "Replaces all classes and overworld sprites with Record Keeper sprites!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasypixelremaster/mods/13",
+	"Version": "1.0",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/13/13-1629009981-1993616804.gif"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 13
+	},
+	"Downloadable": [
+		{
+			"Name": "FFI FFRK Sprites",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 29,
+				"FileName": "FFI FFRK Sprites-13-1-0-1629010230.zip"
+			}
+		}
+	],
+	"DonationLink": null,
+	"Games": [
+		{
+			"Name": "FF1PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFI FFRK Sprites",
+			"Dir": [
+				null,
+				null,
+				{
+					"From": "StandaloneWindows64",
+					"To": "FINAL FANTASY_Data/StreamingAssets/aa/",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": false
+}

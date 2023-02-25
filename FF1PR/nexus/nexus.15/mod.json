@@ -1,0 +1,57 @@
+{
+	"ID": "nexus.15",
+	"Name": "FFVI Battle Damage Numbers",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Aug 15, 2021",
+	"Category": "",
+	"Description": "Transforms the damage and heal indicators in battle to the FFVI style ones!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasypixelremaster/mods/15",
+	"Version": "1.0",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/15/15-1629019867-1943254142.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 15
+	},
+	"Downloadable": [
+		{
+			"Name": "FFVI Battle Numbers",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 31,
+				"FileName": "FFVI Battle Numbers-15-1-0-1629019988.rar"
+			}
+		}
+	],
+	"DonationLink": null,
+	"Games": [
+		{
+			"Name": "FF1PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFVI Battle Numbers",
+			"Dir": [
+				null,
+				null,
+				{
+					"From": "StandaloneWindows64",
+					"To": "FINAL FANTASY_Data/StreamingAssets/aa/",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": false
+}

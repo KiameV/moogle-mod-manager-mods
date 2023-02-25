@@ -1,0 +1,57 @@
+{
+	"ID": "nexus.5",
+	"Name": "SNES Intro",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Nov 12, 2021",
+	"Category": "",
+	"Description": "Converts the new intro sequence into it's classic pixel glory!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy5pixelremaster/mods/5",
+	"Version": "1.0",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/5/5-1636644499-108665131.jpeg"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 5
+	},
+	"Downloadable": [
+		{
+			"Name": "FFV SNES Intro",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 6,
+				"FileName": "FFV SNES Intro-5-1-0-1636644596.rar"
+			}
+		}
+	],
+	"DonationLink": null,
+	"Games": [
+		{
+			"Name": "FF5PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFV SNES Intro",
+			"Dir": [
+				null,
+				null,
+				{
+					"From": "FINAL FANTASY V_Data",
+					"To": "FINAL FANTASY V_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": false
+}

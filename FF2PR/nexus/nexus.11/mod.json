@@ -1,0 +1,57 @@
+{
+	"ID": "nexus.11",
+	"Name": "FFII PR Dark Cloud for Blinded Status",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Aug 20, 2021",
+	"Category": "",
+	"Description": "Replaces the sunglasses of the blind status.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy2pixelremaster/mods/11",
+	"Version": "1.1",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3958/images/11/11-1629483322-564696099.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 11
+	},
+	"Downloadable": [
+		{
+			"Name": "FFII PR Dark Cloud for Blinded Status",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 115,
+				"FileName": "FFII PR Dark Cloud for Blinded Status-11-1-1-1664998640.rar"
+			}
+		}
+	],
+	"DonationLink": null,
+	"Games": [
+		{
+			"Name": "FF2PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFII PR Dark Cloud for Blinded Status",
+			"Dir": [
+				null,
+				null,
+				{
+					"From": "FINAL FANTASY II_Data",
+					"To": "FINAL FANTASY II_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": false
+}

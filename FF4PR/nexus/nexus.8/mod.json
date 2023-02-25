@@ -1,0 +1,57 @@
+{
+	"ID": "nexus.8",
+	"Name": "Better Speaker Boxes",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Sep 14, 2021",
+	"Category": "",
+	"Description": "Replaces all \"Speaker Boxes\" with re-coloured default versions!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy4pixelremaster/mods/8",
+	"Version": "1.0",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4022/images/8/8-1631290374-974864885.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 8
+	},
+	"Downloadable": [
+		{
+			"Name": "FFIV Speaker Boxes",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 8,
+				"FileName": "FFIV Speaker Boxes-8-1-0-1631290459.rar"
+			}
+		}
+	],
+	"DonationLink": null,
+	"Games": [
+		{
+			"Name": "FF4PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFIV Speaker Boxes",
+			"Dir": [
+				null,
+				null,
+				{
+					"From": "FINAL FANTASY IV_Data",
+					"To": "FINAL FANTASY IV_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": false
+}

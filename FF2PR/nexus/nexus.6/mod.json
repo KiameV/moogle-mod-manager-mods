@@ -1,0 +1,57 @@
+{
+	"ID": "nexus.6",
+	"Name": "PSP Background Mod",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Aug 15, 2021",
+	"Category": "",
+	"Description": "Replaces battle backgrounds with those from the PSP version!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy2pixelremaster/mods/6",
+	"Version": "1.0a",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3958/images/6/6-1629013144-2047163033.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 6
+	},
+	"Downloadable": [
+		{
+			"Name": "FFIIPR_PSP_BattleBackgrounds_metalliguy",
+			"Version": "1.0a",
+			"Nexus": {
+				"FileID": 109,
+				"FileName": "FFIIPR_PSP_BattleBackgrounds_metalliguy-6-1-0a-1661179775.rar"
+			}
+		}
+	],
+	"DonationLink": null,
+	"Games": [
+		{
+			"Name": "FF2PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFIIPR_PSP_BattleBackgrounds_metalliguy",
+			"Dir": [
+				null,
+				null,
+				{
+					"From": "FINAL FANTASY II_Data",
+					"To": "FINAL FANTASY II_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": false
+}

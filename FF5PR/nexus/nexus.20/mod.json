@@ -1,0 +1,57 @@
+{
+	"ID": "nexus.20",
+	"Name": "Better Speaker Boxes",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Feb 26, 2022",
+	"Category": "",
+	"Description": "Replaces the Speaker Boxes with recoloured stock versions!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy5pixelremaster/mods/20",
+	"Version": "1.0",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/20/20-1646541567-123049823.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 20
+	},
+	"Downloadable": [
+		{
+			"Name": "FFVPR_Better_Speaker_Boxes_metalliguy",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 87,
+				"FileName": "FFVPR_Better_Speaker_Boxes_metalliguy-20-1-0-1645862843.rar"
+			}
+		}
+	],
+	"DonationLink": null,
+	"Games": [
+		{
+			"Name": "FF5PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFVPR_Better_Speaker_Boxes_metalliguy",
+			"Dir": [
+				null,
+				null,
+				{
+					"From": "FINAL FANTASY V_Data",
+					"To": "FINAL FANTASY V_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": false
+}

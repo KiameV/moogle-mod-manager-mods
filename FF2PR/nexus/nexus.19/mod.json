@@ -1,0 +1,57 @@
+{
+	"ID": "nexus.19",
+	"Name": "Jeff's UI - FF2 PR",
+	"Author": "deleted124635168",
+	"AuthorLink": "",
+	"ReleaseDate": "Sep 19, 2021",
+	"Category": "",
+	"Description": "New UI for Final Fantasy PR games (see screenshots).",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy2pixelremaster/mods/19",
+	"Version": "1.0",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3958/images/19/19-1632078344-1154341794.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 19
+	},
+	"Downloadable": [
+		{
+			"Name": "Jeff's UI - FF2 PR",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 38,
+				"FileName": "Jeff's UI - FF2 PR-19-1-0-1632078429.zip"
+			}
+		}
+	],
+	"DonationLink": null,
+	"Games": [
+		{
+			"Name": "FF2PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Jeff's UI - FF2 PR",
+			"Dir": [
+				null,
+				null,
+				{
+					"From": "FINAL FANTASY II_Data",
+					"To": "FINAL FANTASY II_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": false
+}

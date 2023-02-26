@@ -1,0 +1,144 @@
+{
+	"ID": "nexus.17",
+	"Name": "Opera English to other languages",
+	"Author": "piano221",
+	"AuthorLink": "",
+	"ReleaseDate": "Mar 2, 2022",
+	"Category": "Script/Text",
+	"Description": "Replace the opera voices in english for any other languages.\n\nCredit to Garnet divine for the italian file.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/17",
+	"Version": "2",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/17/17-1646202780-453396893.jpeg"
+	},
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 17
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "Opera English to another language",
+			"Version": "2",
+			"Nexus": {
+				"FileID": 47,
+				"FileName": "Opera English to another language-17-2-1646376573.7z"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Language",
+			"Description": "",
+			"Preview": {},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "French",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Opera English to another language",
+						"File": [
+							{
+								"From": "FRE/ff6_bgm_assets_all_181eb630118efa8542dab51f7e8d2795.bundle",
+								"To": "FINAL FANTASY VI PR/FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/ff6_bgm_assets_all_181eb630118efa8542dab51f7e8d2795.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Italian",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Opera English to another language",
+						"File": [
+							{
+								"From": "ITA/ff6_bgm_assets_all_181eb630118efa8542dab51f7e8d2795.bundle",
+								"To": "FINAL FANTASY VI PR/FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/ff6_bgm_assets_all_181eb630118efa8542dab51f7e8d2795.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Japanese",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Opera English to another language",
+						"File": [
+							{
+								"From": "JPN/ff6_bgm_assets_all_181eb630118efa8542dab51f7e8d2795.bundle",
+								"To": "FINAL FANTASY VI PR/FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/ff6_bgm_assets_all_181eb630118efa8542dab51f7e8d2795.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Korean",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Opera English to another language",
+						"File": [
+							{
+								"From": "KOR/ff6_bgm_assets_all_181eb630118efa8542dab51f7e8d2795.bundle",
+								"To": "FINAL FANTASY VI PR/FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/ff6_bgm_assets_all_181eb630118efa8542dab51f7e8d2795.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Spanish",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Opera English to another language",
+						"File": [
+							{
+								"From": "SPA/ff6_bgm_assets_all_181eb630118efa8542dab51f7e8d2795.bundle",
+								"To": "FINAL FANTASY VI PR/FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/ff6_bgm_assets_all_181eb630118efa8542dab51f7e8d2795.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "German",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Opera English to another language",
+						"File": [
+							{
+								"From": "DEU/ff6_bgm_assets_all_181eb630118efa8542dab51f7e8d2795.bundle",
+								"To": "FINAL FANTASY VI PR/FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/ff6_bgm_assets_all_181eb630118efa8542dab51f7e8d2795.bundle"
+							}
+						]
+					}
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

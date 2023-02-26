@@ -1,0 +1,206 @@
+{
+	"ID": "nexus.40",
+	"Name": "Replacement NPCs for Palette Swaps and All Merchants",
+	"Author": "MrEsturk",
+	"AuthorLink": "",
+	"ReleaseDate": "Jan 23, 2022",
+	"Category": "Player/NPC Sprite",
+	"Description": "Replaces the generic merchants with new sprites recreating what those merchants looked like in the NES version of the game.\n\nReplaces the palette swap clones of the Mohawk Dude and Generic Merchant with unique NPCs. Also replaces the dancing girls bikini with a leotard.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasypixelremaster/mods/40",
+	"Version": "1.1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/40/40-1643415488-952475965.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/40/40-1643420505-1187798495.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/40/40-1643415530-867147885.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/40/40-1643415536-406712129.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/40/40-1643427271-1276010376.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/40/40-1642932733-686897821.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/40/40-1642932744-1036001677.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/40/40-1643415548-608761736.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/40/40-1643415542-900015601.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 40
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "Main File (Bundle Version)",
+			"Version": "1.1.0",
+			"Nexus": {
+				"FileID": 110,
+				"FileName": "Main File (Bundle Version)-40-1-1-0-1643415891.zip"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "Main File (Memoria Version)",
+			"Version": "1.1.0",
+			"Nexus": {
+				"FileID": 111,
+				"FileName": "Main File (Memoria Version)-40-1-1-0-1643415974.zip"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "Town NPC mod",
+			"Version": "1.1.0",
+			"Nexus": {
+				"FileID": 112,
+				"FileName": "Town NPC mod-40-1-1-0-1643416095.zip"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF1PR"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Sprites",
+			"Description": "",
+			"Preview": {},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "Normal Mage",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/40/40-1642932733-686897821.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Main File (Bundle Version)",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY_Data",
+								"To": "FINAL FANTASY_Data",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Replace Towns NPC:"
+				},
+				{
+					"Name": "Alt Mage",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/40/40-1642932744-1036001677.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Main File (Bundle Version)",
+						"File": [
+							{
+								"From": "FINAL FANTASY_Data/StreamingAssets/Assets/GameAssets/Serial/Data/Master/mapobject.csv",
+								"To": "FINAL FANTASY_Data/StreamingAssets/Assets/GameAssets/Serial/Data/Master/mapobject.csv"
+							},
+							{
+								"From": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_n043_c00_assets_all_ddcc5d6d50f34aff97177c26ef7d5f9a.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_n043_c00_assets_all_ddcc5d6d50f34aff97177c26ef7d5f9a.bundle"
+							},
+							{
+								"From": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_n108_c01_assets_all_36f7dd8629d7ede1ae1bbf804e1f68d8.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_n108_c01_assets_all_36f7dd8629d7ede1ae1bbf804e1f68d8.bundle"
+							},
+							{
+								"From": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_n108_c02_assets_all_192158587a9aa3a4f8de7e6145ebb996.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_n108_c02_assets_all_192158587a9aa3a4f8de7e6145ebb996.bundle"
+							},
+							{
+								"From": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_n109_c00_assets_all_f5b00a0123455715d5b3b2fdf226477a.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_n109_c00_assets_all_f5b00a0123455715d5b3b2fdf226477a.bundle"
+							},
+							{
+								"From": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_n114_c00_assets_all_546bb4a6b26c1e1db54a37ff7f6f93f3.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_n114_c00_assets_all_546bb4a6b26c1e1db54a37ff7f6f93f3.bundle"
+							},
+							{
+								"From": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_n114_c01_assets_all_62c1b8d623150768622a70a14d22724f.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_n114_c01_assets_all_62c1b8d623150768622a70a14d22724f.bundle"
+							},
+							{
+								"From": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_n114_c02_assets_all_3a4f867a3a1ef01fbe4abbe7a53348fb.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_n114_c02_assets_all_3a4f867a3a1ef01fbe4abbe7a53348fb.bundle"
+							}
+						],
+						"Dir": [
+							{
+								"From": "AltMages/FINAL FANTASY_Data",
+								"To": "FINAL FANTASY_Data",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Replace Towns NPC:"
+				}
+			]
+		},
+		{
+			"Name": "Replace Town NPCs",
+			"Description": "Swaps out some of the overused town NPC sprites with the alternate male and redhaired dancer NPC sprites in certain towns. Optional as it could cause conflicts with other mods that alter the town maps.",
+			"Preview": {},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "No",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": ""
+					}
+				},
+				{
+					"Name": "Yes",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Town NPC mod",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY_Data",
+								"To": "FINAL FANTASY_Data",
+								"Recursive": true
+							}
+						]
+					}
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

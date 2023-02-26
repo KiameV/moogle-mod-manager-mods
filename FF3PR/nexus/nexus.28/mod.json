@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.28",
+	"Name": "Classic Party Positioning",
+	"Author": "Fugsnarf",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 6, 2022",
+	"Category": "Battle Scene",
+	"Description": "Alters the positioning of the party members in battle to be more like the Famicom original.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy3pixelremaster/mods/28",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3942/images/28/28-1649209905-1410013385.jpeg"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 28
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "Classic Party Positioning",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 81,
+				"FileName": "Classic Party Positioning-28-1-0-1649210015.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF3PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Classic Party Positioning",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY III_Data",
+					"To": "FINAL FANTASY III_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

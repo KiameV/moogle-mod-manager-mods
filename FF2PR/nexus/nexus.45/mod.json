@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.45",
+	"Name": "PS1-PSP Origins Soundtrack",
+	"Author": "Fugsnarf",
+	"AuthorLink": "",
+	"ReleaseDate": "Nov 20, 2022",
+	"Category": "Soundtrack",
+	"Description": "Switch the soundtrack to the PS1 Origins / PSP version.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy2pixelremaster/mods/45",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3958/images/45/45-1668949638-1608875755.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 45
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "PS1-PSP Soundtrack",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 119,
+				"FileName": "PS1-PSP Soundtrack-45-1-0-1668949887.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF2PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "PS1-PSP Soundtrack",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY II_Data",
+					"To": "FINAL FANTASY II_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

@@ -25,6 +25,9 @@
 		"Require": [
 			{
 				"ModID": "unityplayer.enfyve"
+			},
+			{
+				"ModID": "magicite.silvris"
 			}
 		]
 	},

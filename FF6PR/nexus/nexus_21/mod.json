@@ -9,9 +9,12 @@
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/21",
 	"Version": "1.1",
-	"Preview": {
-		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/21/21-1646718902-1578755443.jpeg"
-	},
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/21/21-1646718902-1578755443.jpeg"
+		}
+	],
 	"ModKind": {
 		"Kinds": [
 			"Nexus"
@@ -23,8 +26,7 @@
 			{
 				"ModID": "unityplayer.enfyve"
 			}
-		],
-		"Forbid": []
+		]
 	},
 	"Downloadable": [
 		{
@@ -33,10 +35,10 @@
 			"Nexus": {
 				"FileID": 65,
 				"FileName": "Celes Amano outfit PR style-21-1-1-1646719057.7z"
-			}
+			},
+			"DownloadedLoc": ""
 		}
 	],
-	"DonationLink": [],
 	"Games": [
 		{
 			"Name": "FF6PR"

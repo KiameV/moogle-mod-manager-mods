@@ -9,9 +9,12 @@
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/21",
 	"Version": "1.1",
-	"Preview": {
-		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/21/21-1646718902-1578755443.jpeg"
-	},
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/21/21-1646718902-1578755443.jpeg"
+		}
+	],
 	"ModKind": {
 		"Kinds": [
 			"Nexus"
@@ -23,8 +26,7 @@
 			{
 				"ModID": "unityplayer.enfyve"
 			}
-		],
-		"Forbid": []
+		]
 	},
 	"Downloadable": [
 		{
@@ -33,10 +35,10 @@
 			"Nexus": {
 				"FileID": 65,
 				"FileName": "Celes Amano outfit PR style-21-1-1-1646719057.7z"
-			}
+			},
+			"DownloadedLoc": ""
 		}
 	],
-	"DonationLink": [],
 	"Games": [
 		{
 			"Name": "FF6PR"
@@ -48,15 +50,15 @@
 			"File": [
 				{
 					"From": "bc_ff6_p007_assets_all_f9860944bfa59b6e9c15205cb82e790d.bundle",
-					"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/"
+					"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/bc_ff6_p007_assets_all_f9860944bfa59b6e9c15205cb82e790d.bundle"
 				},
 				{
 					"From": "mo_ff6_n071_c00_assets_all_79a4c379c973095905270f1ee606ff56.bundle",
-					"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/"
+					"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff6_n071_c00_assets_all_79a4c379c973095905270f1ee606ff56.bundle"
 				},
 				{
 					"From": "mo_ff6_p007_assets_all_d6cfb96dbc47a8f7c66b53e7a92961a2.bundle",
-					"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/"
+					"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff6_p007_assets_all_d6cfb96dbc47a8f7c66b53e7a92961a2.bundle"
 				}
 			]
 		}

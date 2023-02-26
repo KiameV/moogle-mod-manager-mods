@@ -1,0 +1,105 @@
+{
+	"ID": "nexus.49",
+	"Name": "Final Fantasy VI Pixel Keeper Retro Pack",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "May 7, 2022",
+	"Category": "Player/NPC Sprite",
+	"Description": " This mod demasters the unique sprites from the Pixel Keeper mod to match the SNES style. ",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/49",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/49/49-1651928711-1039254759.png"
+	},
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 49
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "Final Fantasy VI Pixel Keeper Retro Pack",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 251,
+				"FileName": "Final Fantasy VI Pixel Keeper Retro Pack-49-1-0-1657303905.rar"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "Alt. Sprite - Amano Terra (Green Hair)",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 252,
+				"FileName": "Alt. Sprite - Amano Terra (Green Hair)-49-1-0-1657303929.rar"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Final Fantasy VI Pixel Keeper Retro Pack",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY VI_Data",
+					"To": "FINAL FANTASY VI_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Terra hair color",
+			"Description": "",
+			"Preview": {},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "Green",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Alt. Sprite - Amano Terra (Green Hair)",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Blonde",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": ""
+					}
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

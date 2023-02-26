@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.50",
+	"Name": "FF4 Brave Exvius Archfiends",
+	"Author": "ProtomanZxAdvent CyggdrasilGaming",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 4, 2022",
+	"Category": "Enemy Sprite",
+	"Description": "This mod replaces the elemental archfiends sprites with the ones from Brave Exvius",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy4pixelremaster/mods/50",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4022/images/50/50-1649113468-751249430.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 50
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "FF4 Brave Exvius Archfiends",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 157,
+				"FileName": "FF4 Brave Exvius Archfiends-50-1-0-1649113851.7z"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF4PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FF4 Brave Exvius Archfiends",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY IV_Data",
+					"To": "FINAL FANTASY IV_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

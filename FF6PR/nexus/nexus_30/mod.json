@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.30",
+	"Name": "Classic UI",
+	"Author": "Lopsho",
+	"AuthorLink": "",
+	"ReleaseDate": "Mar 19, 2022",
+	"Category": "UI: Window Frames",
+	"Description": "This mod makes UI look closer to the classic SNES one.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/30",
+	"Version": "1.0",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/30/30-1647717704-1062723761.png"
+	},
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 30
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "Lopsho's Classic SNES UI",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 93,
+				"FileName": "Lopsho's Classic SNES UI-30-1-0-1647718556.zip"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Lopsho's Classic SNES UI",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY VI_Data",
+					"To": "FINAL FANTASY VI_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

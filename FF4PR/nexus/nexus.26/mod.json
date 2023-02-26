@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.26",
+	"Name": "GBA Portraits Enhanced",
+	"Author": "EvilJerk",
+	"AuthorLink": "",
+	"ReleaseDate": "Sep 28, 2021",
+	"Category": "UI: Menu Portraits",
+	"Description": "Replaces character portraits with the GBA versions with custom enhancements.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy4pixelremaster/mods/26",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4022/images/26/26-1632797221-71628027.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 26
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "Final Fantasy IV GBA Portraits Enhanced",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 75,
+				"FileName": "Final Fantasy IV GBA Portraits Enhance-26-1-0-1632797563.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF4PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Final Fantasy IV GBA Portraits Enhanced",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY IV_Data",
+					"To": "FINAL FANTASY IV_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

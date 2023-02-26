@@ -1,0 +1,45 @@
+{
+  "id": "FF6PR",
+  "name": "Final Fantasy VI Pixel Remaster",
+  "steamID": "1173820",
+  "baseDir": "FINAL FANTASY VI_Data",
+  "authorHintDir": "FF PR",
+  "remote": {
+    "nexus": {
+      "id": 4335,
+      "path": "finalfantasy6pixelremaster"
+    },
+    "curseforge": {
+      "id": 4773,
+      "path": "final-fantasy-vi"
+    }
+  },
+  "defaultInstallType": "Move",
+  "versions": [
+    {
+      "version": "1.0.6",
+      "steam": {
+        "build": 8999274,
+        "manifest": 8518548388693516132
+      }
+    }
+  ],
+  "categories": [
+	"Battle Scene",
+	"Enemy Sprite",
+	"Game Overhauls",
+	"Gameplay",
+	"General",
+	"Fonts",
+	"Player/NPC Sprite",
+	"Script/Text",
+	"Soundtrack",
+	"Tile Set",
+	"Title Screen",
+	"UI: General",
+	"UI: Menu Portraits",
+	"UI: Textbox Portraits",
+	"UI: Window Frames",
+	"Utility"
+  ]
+}

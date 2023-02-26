@@ -1,0 +1,171 @@
+{
+	"ID": "nexus.7",
+	"Name": "Old Ver Menu Portraits",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Feb 24, 2022",
+	"Category": "UI: Menu Portraits",
+	"Description": "Replaces the menu portraits with the Old Ver. ones!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/7",
+	"Version": "1.2",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/7/7-1645653690-47567622.png"
+	},
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 7
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "FFVIPR_OldVer_Menu_Portraits_metalliguy",
+			"Version": "1.2",
+			"Nexus": {
+				"FileID": 38,
+				"FileName": "FFVIPR_OldVer_Menu_Portraits_metalliguy-7-1-2-1646146380.rar"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "FFVIPR_OldVer_Menu_Portraits_(Blonde_Terra)_metalliguy",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 153,
+				"FileName": "FFVIPR_OldVer_Menu_Portraits_(Blonde_Terra)_metalliguy-7-1-0-1650822620.rar"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Terra Hair Color",
+			"Description": "",
+			"Preview": {},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "Green",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": ""
+					},
+					"NextConfigurationName": "Zoom Level - Green"
+				},
+				{
+					"Name": "Blonde",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": ""
+					},
+					"NextConfigurationName": "Zoom Level - Blonde"
+				}
+			]
+		},
+		{
+			"Name": "Zoom Level - Green",
+			"Description": "",
+			"Preview": {},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Normal",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/7/7-1646146492-852124364.jpeg"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_OldVer_Menu_Portraits_metalliguy",
+						"Dir": [
+							{
+								"From": "Normal/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Zoomed",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/7/7-1646146408-1983021444.jpeg"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_OldVer_Menu_Portraits_metalliguy",
+						"Dir": [
+							{
+								"From": "Zoomed/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"Name": "Zoom Level - Blonde",
+			"Description": "",
+			"Preview": {},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Normal",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/7/7-1650817359-2066272494.jpeg"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_OldVer_Menu_Portraits_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "Normal/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Zoomed",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/7/7-1650817400-631734790.jpeg"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_OldVer_Menu_Portraits_(Blonde_Terra)_metalliguy",
+						"Dir": [
+							{
+								"From": "Zoomed/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

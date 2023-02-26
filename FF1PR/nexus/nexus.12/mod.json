@@ -4,11 +4,12 @@
 	"Author": "metalliguyAU",
 	"AuthorLink": "",
 	"ReleaseDate": "Aug 15, 2021",
-	"Category": "",
+	"Category": "UI: General",
 	"Description": "Transform all menu UI and text boxes into a sleek, FFVI inspired look!",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasypixelremaster/mods/12",
 	"Version": "1.1a",
+	"InstallType": "Move",
 	"Previews": [
 		{
 			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/12/12-1646546043-369059711.png"
@@ -20,6 +21,13 @@
 		],
 		"NexusID": 12
 	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
 	"Downloadable": [
 		{
 			"Name": "FFIPR_FFVI_UI_metalliguy",
@@ -30,7 +38,6 @@
 			}
 		}
 	],
-	"DonationLink": null,
 	"Games": [
 		{
 			"Name": "FF1PR"
@@ -48,7 +55,7 @@
 			]
 		}
 	],
-	"ConfigSelectionType": "",
+	"ConfigSelectionType": "Auto",
 	"Hide": false,
 	"VerifiedAsWorking": false,
 	"IsManuallyCreated": true

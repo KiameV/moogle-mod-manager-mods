@@ -4,11 +4,12 @@
 	"Author": "metalliguyAU",
 	"AuthorLink": "",
 	"ReleaseDate": "Aug 15, 2021",
-	"Category": "",
+	"Category": "Player/NPC Sprite",
 	"Description": "Replaces all battle sprites with Record Keeper sprites!",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasy2pixelremaster/mods/3",
 	"Version": "1.0",
+	"InstallType": "Move",
 	"Previews": [
 		{
 			"Url": "https://staticdelivery.nexusmods.com/mods/3958/images/3/3-1629011964-1648387134.png"
@@ -20,6 +21,13 @@
 		],
 		"NexusID": 3
 	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
 	"Downloadable": [
 		{
 			"Name": "FFII FFRK Sprites",
@@ -30,7 +38,6 @@
 			}
 		}
 	],
-	"DonationLink": null,
 	"Games": [
 		{
 			"Name": "FF2PR"
@@ -48,7 +55,7 @@
 			]
 		}
 	],
-	"ConfigSelectionType": "",
+	"ConfigSelectionType": "Auto",
 	"Hide": false,
 	"VerifiedAsWorking": false,
 	"IsManuallyCreated": true

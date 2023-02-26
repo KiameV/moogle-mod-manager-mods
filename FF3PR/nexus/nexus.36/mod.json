@@ -4,11 +4,12 @@
 	"Author": "Fugsnarf",
 	"AuthorLink": "",
 	"ReleaseDate": "Nov 20, 2022",
-	"Category": "",
+	"Category": "Soundtrack",
 	"Description": "Switch the entire soundtrack to that of the 3D Remake",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasy3pixelremaster/mods/36",
 	"Version": "1.0",
+	"InstallType": "Move",
 	"Previews": [
 		{
 			"Url": "https://staticdelivery.nexusmods.com/mods/3942/images/36/36-1668968822-1617533534.png"
@@ -20,6 +21,13 @@
 		],
 		"NexusID": 36
 	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
 	"Downloadable": [
 		{
 			"Name": "3D Remake Soundtrack",
@@ -30,7 +38,6 @@
 			}
 		}
 	],
-	"DonationLink": null,
 	"Games": [
 		{
 			"Name": "FF3PR"
@@ -40,8 +47,6 @@
 		{
 			"DownloadName": "3D Remake Soundtrack",
 			"Dir": [
-				null,
-				null,
 				{
 					"From": "FINAL FANTASY III_Data",
 					"To": "FINAL FANTASY III_Data",
@@ -50,8 +55,8 @@
 			]
 		}
 	],
-	"ConfigSelectionType": "",
+	"ConfigSelectionType": "Auto",
 	"Hide": false,
 	"VerifiedAsWorking": false,
-	"IsManuallyCreated": false
+	"IsManuallyCreated": true
 }

@@ -4,11 +4,12 @@
 	"Author": "metalliguyAU",
 	"AuthorLink": "",
 	"ReleaseDate": "Nov 12, 2021",
-	"Category": "",
+	"Category": "UI: General",
 	"Description": "Replaces the UI with the SNES UI!",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasy5pixelremaster/mods/4",
 	"Version": "1.0",
+	"InstallType": "Move",
 	"Previews": [
 		{
 			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/4/4-1636995629-908473269.png"
@@ -20,6 +21,13 @@
 		],
 		"NexusID": 4
 	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
 	"Downloadable": [
 		{
 			"Name": "FFV SNES UI",
@@ -30,7 +38,6 @@
 			}
 		}
 	],
-	"DonationLink": null,
 	"Games": [
 		{
 			"Name": "FF5PR"
@@ -48,7 +55,7 @@
 			]
 		}
 	],
-	"ConfigSelectionType": "",
+	"ConfigSelectionType": "Auto",
 	"Hide": false,
 	"VerifiedAsWorking": false,
 	"IsManuallyCreated": true

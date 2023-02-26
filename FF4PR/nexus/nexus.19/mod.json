@@ -4,11 +4,12 @@
 	"Author": "Shiryu",
 	"AuthorLink": "",
 	"ReleaseDate": "Sep 16, 2021",
-	"Category": "",
+	"Category": "Enemy Sprite",
 	"Description": "This mod replaces the sprite of both forms of Zeromus, the final boss, with its PSP and Brave Exvius sprites respectively.",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasy4pixelremaster/mods/19",
 	"Version": "1.0",
+	"InstallType": "Move",
 	"Previews": [
 		{
 			"Url": "https://staticdelivery.nexusmods.com/mods/4022/images/19/19-1631825212-1090290367.png"
@@ -20,6 +21,13 @@
 		],
 		"NexusID": 19
 	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
 	"Downloadable": [
 		{
 			"Name": "Total Malice",
@@ -30,7 +38,6 @@
 			}
 		}
 	],
-	"DonationLink": null,
 	"Games": [
 		{
 			"Name": "FF4PR"
@@ -40,8 +47,6 @@
 		{
 			"DownloadName": "Total Malice",
 			"Dir": [
-				null,
-				null,
 				{
 					"From": "FINAL FANTASY IV_Data",
 					"To": "FINAL FANTASY IV_Data",
@@ -50,8 +55,8 @@
 			]
 		}
 	],
-	"ConfigSelectionType": "",
+	"ConfigSelectionType": "Auto",
 	"Hide": false,
 	"VerifiedAsWorking": false,
-	"IsManuallyCreated": false
+	"IsManuallyCreated": true
 }

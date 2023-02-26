@@ -4,11 +4,12 @@
 	"Author": "Shiryu",
 	"AuthorLink": "",
 	"ReleaseDate": "Oct 2, 2021",
-	"Category": "",
+	"Category": "Enemy Sprite",
 	"Description": "This mod restores the sprites from the GBA version that were changed and recolors the bestiary with custom colors.",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasypixelremaster/mods/31",
 	"Version": "1.0",
+	"InstallType": "Move",
 	"Previews": [
 		{
 			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/31/31-1633171965-1861002559.png"
@@ -20,6 +21,13 @@
 		],
 		"NexusID": 31
 	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
 	"Downloadable": [
 		{
 			"Name": "Shiryu's Custom Bestiary Mod (FFI)",
@@ -30,7 +38,6 @@
 			}
 		}
 	],
-	"DonationLink": null,
 	"Games": [
 		{
 			"Name": "FF1PR"
@@ -48,7 +55,7 @@
 			]
 		}
 	],
-	"ConfigSelectionType": "",
+	"ConfigSelectionType": "Auto",
 	"Hide": false,
 	"VerifiedAsWorking": false,
 	"IsManuallyCreated": true

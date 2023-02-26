@@ -4,11 +4,12 @@
 	"Author": "deleted124635168",
 	"AuthorLink": "",
 	"ReleaseDate": "Sep 13, 2021",
-	"Category": "",
+	"Category": "UI: General",
 	"Description": "Clean, decluttered UI for Final Fantasy 1 PR. Classic Squaresoft Logo included.",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasypixelremaster/mods/25",
 	"Version": "1.0",
+	"InstallType": "Move",
 	"Previews": [
 		{
 			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/25/25-1631574538-1116312667.png"
@@ -20,6 +21,13 @@
 		],
 		"NexusID": 25
 	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
 	"Downloadable": [
 		{
 			"Name": "CozyUI - FF1 PR Edition",
@@ -30,7 +38,6 @@
 			}
 		}
 	],
-	"DonationLink": null,
 	"Games": [
 		{
 			"Name": "FF1PR"
@@ -48,7 +55,7 @@
 			]
 		}
 	],
-	"ConfigSelectionType": "",
+	"ConfigSelectionType": "Auto",
 	"Hide": false,
 	"VerifiedAsWorking": false,
 	"IsManuallyCreated": true

@@ -4,11 +4,12 @@
 	"Author": "Shiryu",
 	"AuthorLink": "",
 	"ReleaseDate": "Aug 20, 2021",
-	"Category": "",
+	"Category": "Battle Scene",
 	"Description": "Replaces the sunglasses of the blind status.",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasy2pixelremaster/mods/11",
 	"Version": "1.1",
+	"InstallType": "Move",
 	"Previews": [
 		{
 			"Url": "https://staticdelivery.nexusmods.com/mods/3958/images/11/11-1629483322-564696099.png"
@@ -20,6 +21,13 @@
 		],
 		"NexusID": 11
 	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
 	"Downloadable": [
 		{
 			"Name": "FFII PR Dark Cloud for Blinded Status",
@@ -30,7 +38,6 @@
 			}
 		}
 	],
-	"DonationLink": null,
 	"Games": [
 		{
 			"Name": "FF2PR"
@@ -40,8 +47,6 @@
 		{
 			"DownloadName": "FFII PR Dark Cloud for Blinded Status",
 			"Dir": [
-				null,
-				null,
 				{
 					"From": "FINAL FANTASY II_Data",
 					"To": "FINAL FANTASY II_Data",
@@ -50,7 +55,7 @@
 			]
 		}
 	],
-	"ConfigSelectionType": "",
+	"ConfigSelectionType": "Auto",
 	"Hide": false,
 	"VerifiedAsWorking": false,
 	"IsManuallyCreated": true

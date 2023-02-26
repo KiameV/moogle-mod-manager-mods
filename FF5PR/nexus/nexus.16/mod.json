@@ -4,11 +4,12 @@
 	"Author": "metalliguyAU",
 	"AuthorLink": "",
 	"ReleaseDate": "Nov 20, 2021",
-	"Category": "",
+	"Category": "Battle Scene",
 	"Description": "Replaces all battle backgrounds with the FFV Old Version backgrounds!",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasy5pixelremaster/mods/16",
 	"Version": "1.0a",
+	"InstallType": "Move",
 	"Previews": [
 		{
 			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/16/16-1637400901-1015429992.png"
@@ -20,6 +21,13 @@
 		],
 		"NexusID": 16
 	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
 	"Downloadable": [
 		{
 			"Name": "FFVPR_OldVer_Backgrounds_metalliguy",
@@ -30,7 +38,6 @@
 			}
 		}
 	],
-	"DonationLink": null,
 	"Games": [
 		{
 			"Name": "FF5PR"
@@ -40,8 +47,6 @@
 		{
 			"DownloadName": "FFVPR_OldVer_Backgrounds_metalliguy",
 			"Dir": [
-				null,
-				null,
 				{
 					"From": "FINAL FANTASY V_Data",
 					"To": "FINAL FANTASY V_Data",
@@ -50,7 +55,7 @@
 			]
 		}
 	],
-	"ConfigSelectionType": "",
+	"ConfigSelectionType": "Auto",
 	"Hide": false,
 	"VerifiedAsWorking": false,
 	"IsManuallyCreated": true

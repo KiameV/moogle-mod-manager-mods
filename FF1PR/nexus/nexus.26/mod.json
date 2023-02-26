@@ -4,11 +4,12 @@
 	"Author": "deleted124635168",
 	"AuthorLink": "",
 	"ReleaseDate": "Sep 17, 2021",
-	"Category": "",
+	"Category": "UI: General",
 	"Description": "Final Fantasy Dawn of Souls Title Screen",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasypixelremaster/mods/26",
 	"Version": "1.0",
+	"InstallType": "Move",
 	"Previews": [
 		{
 			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/26/26-1631888395-1224286599.png"
@@ -20,6 +21,13 @@
 		],
 		"NexusID": 26
 	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
 	"Downloadable": [
 		{
 			"Name": "Dawn of Souls Title Screen",
@@ -30,7 +38,6 @@
 			}
 		}
 	],
-	"DonationLink": null,
 	"Games": [
 		{
 			"Name": "FF1PR"
@@ -48,7 +55,7 @@
 			]
 		}
 	],
-	"ConfigSelectionType": "",
+	"ConfigSelectionType": "Auto",
 	"Hide": false,
 	"VerifiedAsWorking": false,
 	"IsManuallyCreated": true

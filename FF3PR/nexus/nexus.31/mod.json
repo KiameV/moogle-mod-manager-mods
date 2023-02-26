@@ -4,11 +4,12 @@
 	"Author": "Kirbyranitar",
 	"AuthorLink": "",
 	"ReleaseDate": "Apr 30, 2022",
-	"Category": "",
+	"Category": "Player/NPC Sprite",
 	"Description": "Make the pink Onion Knight become Yellow, as it was in a Japanese-exclusive title called \"Dragon Quest \u0026amp; Final Fantasy in Itadaki Street Special\" for the PlayStation 2 where they made a cameo. (This mod includes recolors for Toad and Mini.)",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasy3pixelremaster/mods/31",
 	"Version": "0.10.0",
+	"InstallType": "Move",
 	"Previews": [
 		{
 			"Url": "https://staticdelivery.nexusmods.com/mods/3942/images/31/31-1651340060-2010145238.png"
@@ -20,6 +21,13 @@
 		],
 		"NexusID": 31
 	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
 	"Downloadable": [
 		{
 			"Name": "FF3_YellowPlayer4",
@@ -30,7 +38,6 @@
 			}
 		}
 	],
-	"DonationLink": null,
 	"Games": [
 		{
 			"Name": "FF3PR"
@@ -40,8 +47,6 @@
 		{
 			"DownloadName": "FF3_YellowPlayer4",
 			"Dir": [
-				null,
-				null,
 				{
 					"From": "FINAL FANTASY III_Data",
 					"To": "FINAL FANTASY III_Data",
@@ -50,8 +55,8 @@
 			]
 		}
 	],
-	"ConfigSelectionType": "",
+	"ConfigSelectionType": "Auto",
 	"Hide": false,
 	"VerifiedAsWorking": false,
-	"IsManuallyCreated": false
+	"IsManuallyCreated": true
 }

@@ -4,11 +4,12 @@
 	"Author": "metalliguyAU",
 	"AuthorLink": "",
 	"ReleaseDate": "Nov 12, 2021",
-	"Category": "",
+	"Category": "UI: General",
 	"Description": "Replaces the UI with a FFVI inspired theme!",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasy5pixelremaster/mods/3",
 	"Version": "1.2a",
+	"InstallType": "Move",
 	"Previews": [
 		{
 			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/3/3-1636638688-519121524.png"
@@ -20,6 +21,13 @@
 		],
 		"NexusID": 3
 	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
 	"Downloadable": [
 		{
 			"Name": "FFVPR_FFVI_UI_metalliguy",
@@ -30,7 +38,6 @@
 			}
 		}
 	],
-	"DonationLink": null,
 	"Games": [
 		{
 			"Name": "FF5PR"
@@ -48,7 +55,7 @@
 			]
 		}
 	],
-	"ConfigSelectionType": "",
+	"ConfigSelectionType": "Auto",
 	"Hide": false,
 	"VerifiedAsWorking": false,
 	"IsManuallyCreated": true

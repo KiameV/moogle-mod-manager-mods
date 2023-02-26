@@ -4,11 +4,12 @@
 	"Author": "metalliguyAU",
 	"AuthorLink": "",
 	"ReleaseDate": "Feb 26, 2022",
-	"Category": "",
+	"Category": "UI: Window Frames",
 	"Description": "Replaces the Speaker Boxes with recoloured stock versions!",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasy5pixelremaster/mods/20",
 	"Version": "1.0",
+	"InstallType": "Move",
 	"Previews": [
 		{
 			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/20/20-1646541567-123049823.png"
@@ -20,6 +21,13 @@
 		],
 		"NexusID": 20
 	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
 	"Downloadable": [
 		{
 			"Name": "FFVPR_Better_Speaker_Boxes_metalliguy",
@@ -30,7 +38,6 @@
 			}
 		}
 	],
-	"DonationLink": null,
 	"Games": [
 		{
 			"Name": "FF5PR"
@@ -40,8 +47,6 @@
 		{
 			"DownloadName": "FFVPR_Better_Speaker_Boxes_metalliguy",
 			"Dir": [
-				null,
-				null,
 				{
 					"From": "FINAL FANTASY V_Data",
 					"To": "FINAL FANTASY V_Data",
@@ -50,8 +55,8 @@
 			]
 		}
 	],
-	"ConfigSelectionType": "",
+	"ConfigSelectionType": "Auto",
 	"Hide": false,
 	"VerifiedAsWorking": false,
-	"IsManuallyCreated": false
+	"IsManuallyCreated": true
 }

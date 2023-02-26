@@ -4,11 +4,12 @@
 	"Author": "deleted124635168",
 	"AuthorLink": "",
 	"ReleaseDate": "Sep 19, 2021",
-	"Category": "",
+	"Category": "UI: General",
 	"Description": "New UI for Final Fantasy PR games (see screenshots).",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasypixelremaster/mods/27",
 	"Version": "1.0",
+	"InstallType": "Move",
 	"Previews": [
 		{
 			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/27/27-1632079206-1826239231.png"
@@ -20,6 +21,13 @@
 		],
 		"NexusID": 27
 	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
 	"Downloadable": [
 		{
 			"Name": "Jeff's UI - FF1 PR",
@@ -30,7 +38,6 @@
 			}
 		}
 	],
-	"DonationLink": null,
 	"Games": [
 		{
 			"Name": "FF1PR"
@@ -48,7 +55,7 @@
 			]
 		}
 	],
-	"ConfigSelectionType": "",
+	"ConfigSelectionType": "Auto",
 	"Hide": false,
 	"VerifiedAsWorking": false,
 	"IsManuallyCreated": true

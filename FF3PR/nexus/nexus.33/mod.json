@@ -4,11 +4,12 @@
 	"Author": "granvillimus",
 	"AuthorLink": "",
 	"ReleaseDate": "Aug 19, 2022",
-	"Category": "",
+	"Category": "Tile Set",
 	"Description": "Implements new grass tiles into the overworld. Also recolors mountains, desert and trees.",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasy3pixelremaster/mods/33",
 	"Version": "1",
+	"InstallType": "Move",
 	"Previews": [
 		{
 			"Url": "https://staticdelivery.nexusmods.com/mods/3942/images/33/33-1660883565-1415927037.png"
@@ -20,6 +21,13 @@
 		],
 		"NexusID": 33
 	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
 	"Downloadable": [
 		{
 			"Name": "FF3_Overworld_Tile_Edits",
@@ -30,7 +38,6 @@
 			}
 		}
 	],
-	"DonationLink": null,
 	"Games": [
 		{
 			"Name": "FF3PR"
@@ -40,8 +47,6 @@
 		{
 			"DownloadName": "FF3_Overworld_Tile_Edits",
 			"Dir": [
-				null,
-				null,
 				{
 					"From": "FINAL FANTASY III_Data",
 					"To": "FINAL FANTASY III_Data",
@@ -50,8 +55,8 @@
 			]
 		}
 	],
-	"ConfigSelectionType": "",
+	"ConfigSelectionType": "Auto",
 	"Hide": false,
 	"VerifiedAsWorking": false,
-	"IsManuallyCreated": false
+	"IsManuallyCreated": true
 }

@@ -4,11 +4,12 @@
 	"Author": "metalliguyAU",
 	"AuthorLink": "",
 	"ReleaseDate": "Nov 19, 2021",
-	"Category": "",
+	"Category": "Player/NPC Sprite",
 	"Description": "Converts the Overworld Sprites to their SNES versions!",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasy5pixelremaster/mods/14",
 	"Version": "1.3",
+	"InstallType": "Move",
 	"Previews": [
 		{
 			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/14/14-1637343235-1062166037.png"
@@ -20,6 +21,13 @@
 		],
 		"NexusID": 14
 	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
 	"Downloadable": [
 		{
 			"Name": "FFV Overworld Sprites",
@@ -30,7 +38,6 @@
 			}
 		}
 	],
-	"DonationLink": null,
 	"Games": [
 		{
 			"Name": "FF5PR"
@@ -40,8 +47,6 @@
 		{
 			"DownloadName": "FFV Overworld Sprites",
 			"Dir": [
-				null,
-				null,
 				{
 					"From": "FINAL FANTASY V_Data",
 					"To": "FINAL FANTASY V_Data",
@@ -50,7 +55,7 @@
 			]
 		}
 	],
-	"ConfigSelectionType": "",
+	"ConfigSelectionType": "Auto",
 	"Hide": false,
 	"VerifiedAsWorking": false,
 	"IsManuallyCreated": true

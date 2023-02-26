@@ -4,11 +4,12 @@
 	"Author": "metalliguyAU",
 	"AuthorLink": "",
 	"ReleaseDate": "Aug 15, 2021",
-	"Category": "",
+	"Category": "UI: Textbox Portraits",
 	"Description": "Replaces playable character portraits with the ones from the GBA version!",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasy2pixelremaster/mods/5",
 	"Version": "1.0",
+	"InstallType": "Move",
 	"Previews": [
 		{
 			"Url": "https://staticdelivery.nexusmods.com/mods/3958/images/5/5-1629012796-2113399232.png"
@@ -20,6 +21,13 @@
 		],
 		"NexusID": 5
 	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
 	"Downloadable": [
 		{
 			"Name": "GBA Portraits",
@@ -30,7 +38,6 @@
 			}
 		}
 	],
-	"DonationLink": null,
 	"Games": [
 		{
 			"Name": "FF2PR"
@@ -48,7 +55,7 @@
 			]
 		}
 	],
-	"ConfigSelectionType": "",
+	"ConfigSelectionType": "Auto",
 	"Hide": false,
 	"VerifiedAsWorking": false,
 	"IsManuallyCreated": true

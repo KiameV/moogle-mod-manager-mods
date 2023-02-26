@@ -4,11 +4,12 @@
 	"Author": "metalliguyAU",
 	"AuthorLink": "",
 	"ReleaseDate": "Aug 15, 2021",
-	"Category": "",
+	"Category": "Battle Scene",
 	"Description": "Replaces battle backgrounds with those from the PSP version!",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasy2pixelremaster/mods/6",
 	"Version": "1.0a",
+	"InstallType": "Move",
 	"Previews": [
 		{
 			"Url": "https://staticdelivery.nexusmods.com/mods/3958/images/6/6-1629013144-2047163033.png"
@@ -20,6 +21,13 @@
 		],
 		"NexusID": 6
 	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
 	"Downloadable": [
 		{
 			"Name": "FFIIPR_PSP_BattleBackgrounds_metalliguy",
@@ -30,7 +38,6 @@
 			}
 		}
 	],
-	"DonationLink": null,
 	"Games": [
 		{
 			"Name": "FF2PR"
@@ -48,7 +55,7 @@
 			]
 		}
 	],
-	"ConfigSelectionType": "",
+	"ConfigSelectionType": "Auto",
 	"Hide": false,
 	"VerifiedAsWorking": false,
 	"IsManuallyCreated": true

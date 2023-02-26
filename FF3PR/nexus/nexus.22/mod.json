@@ -4,11 +4,12 @@
 	"Author": "metalliguyAU",
 	"AuthorLink": "",
 	"ReleaseDate": "Oct 1, 2021",
-	"Category": "",
+	"Category": "Enemy Sprite",
 	"Description": ":eyes_emoji:",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasy3pixelremaster/mods/22",
 	"Version": "1.0",
+	"InstallType": "Move",
 	"Previews": [
 		{
 			"Url": "https://staticdelivery.nexusmods.com/mods/3942/images/22/22-1633070677-674589293.png"
@@ -20,6 +21,13 @@
 		],
 		"NexusID": 22
 	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
 	"Downloadable": [
 		{
 			"Name": "FFIII Lewd Enemies",
@@ -30,7 +38,6 @@
 			}
 		}
 	],
-	"DonationLink": null,
 	"Games": [
 		{
 			"Name": "FF3PR"
@@ -48,7 +55,7 @@
 			]
 		}
 	],
-	"ConfigSelectionType": "",
+	"ConfigSelectionType": "Auto",
 	"Hide": false,
 	"VerifiedAsWorking": false,
 	"IsManuallyCreated": true

@@ -4,11 +4,12 @@
 	"Author": "metalliguyAU",
 	"AuthorLink": "",
 	"ReleaseDate": "Aug 15, 2021",
-	"Category": "",
+	"Category": "UI: General",
 	"Description": "Transform all menu UI and text boxes into a sleek, FFVI inspired look!",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasy2pixelremaster/mods/7",
 	"Version": "1.2a",
+	"InstallType": "Move",
 	"Previews": [
 		{
 			"Url": "https://staticdelivery.nexusmods.com/mods/3958/images/7/7-1646544896-969018469.png"
@@ -20,6 +21,13 @@
 		],
 		"NexusID": 7
 	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
 	"Downloadable": [
 		{
 			"Name": "FFIIPR_FFVI_UI_metalliguy",
@@ -30,7 +38,6 @@
 			}
 		}
 	],
-	"DonationLink": null,
 	"Games": [
 		{
 			"Name": "FF2PR"
@@ -48,7 +55,7 @@
 			]
 		}
 	],
-	"ConfigSelectionType": "",
+	"ConfigSelectionType": "Auto",
 	"Hide": false,
 	"VerifiedAsWorking": false,
 	"IsManuallyCreated": true

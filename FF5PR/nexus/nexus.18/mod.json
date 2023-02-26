@@ -4,11 +4,12 @@
 	"Author": "metalliguyAU",
 	"AuthorLink": "",
 	"ReleaseDate": "Nov 24, 2021",
-	"Category": "",
+	"Category": "Tile Set",
 	"Description": "Gamma corrects the field tilesets!",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasy5pixelremaster/mods/18",
 	"Version": "1.4b",
+	"InstallType": "Move",
 	"Previews": [
 		{
 			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/18/18-1637763369-51815135.png"
@@ -20,6 +21,13 @@
 		],
 		"NexusID": 18
 	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
 	"Downloadable": [
 		{
 			"Name": "FFVPR_Gamma_Corrected_Tilesets_metalliguy",
@@ -30,7 +38,6 @@
 			}
 		}
 	],
-	"DonationLink": null,
 	"Games": [
 		{
 			"Name": "FF5PR"
@@ -40,8 +47,6 @@
 		{
 			"DownloadName": "FFVPR_Gamma_Corrected_Tilesets_metalliguy",
 			"Dir": [
-				null,
-				null,
 				{
 					"From": "FINAL FANTASY V_Data",
 					"To": "FINAL FANTASY V_Data",
@@ -50,8 +55,8 @@
 			]
 		}
 	],
-	"ConfigSelectionType": "",
+	"ConfigSelectionType": "Auto",
 	"Hide": false,
 	"VerifiedAsWorking": false,
-	"IsManuallyCreated": false
+	"IsManuallyCreated": true
 }

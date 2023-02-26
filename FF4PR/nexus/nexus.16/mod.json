@@ -4,11 +4,12 @@
 	"Author": "Shiryu",
 	"AuthorLink": "",
 	"ReleaseDate": "Sep 14, 2021",
-	"Category": "",
+	"Category": "Tile Set",
 	"Description": "Replaces the default tileset with a custom one and corrects the contrast from some elements of the overworld.",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasy4pixelremaster/mods/16",
 	"Version": "1.3",
+	"InstallType": "Move",
 	"Previews": [
 		{
 			"Url": "https://staticdelivery.nexusmods.com/mods/4022/images/16/16-1659365376-731333971.png"
@@ -20,6 +21,13 @@
 		],
 		"NexusID": 16
 	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
 	"Downloadable": [
 		{
 			"Name": "FFIV PR Custom Tileset",
@@ -30,7 +38,6 @@
 			}
 		}
 	],
-	"DonationLink": null,
 	"Games": [
 		{
 			"Name": "FF4PR"
@@ -40,8 +47,6 @@
 		{
 			"DownloadName": "FFIV PR Custom Tileset",
 			"Dir": [
-				null,
-				null,
 				{
 					"From": "FINAL FANTASY IV_Data",
 					"To": "FINAL FANTASY IV_Data",
@@ -50,7 +55,7 @@
 			]
 		}
 	],
-	"ConfigSelectionType": "",
+	"ConfigSelectionType": "Auto",
 	"Hide": false,
 	"VerifiedAsWorking": false,
 	"IsManuallyCreated": true

@@ -4,11 +4,12 @@
 	"Author": "AlterPayot",
 	"AuthorLink": "",
 	"ReleaseDate": "Apr 19, 2022",
-	"Category": "",
+	"Category": "Soundtrack",
 	"Description": "Replaces the Pixel Remaster OST with GBA OST.",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasypixelremaster/mods/53",
 	"Version": "2.0",
+	"InstallType": "Move",
 	"Previews": [
 		{
 			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/53/53-1650360052-1278137788.png"
@@ -20,6 +21,13 @@
 		],
 		"NexusID": 53
 	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
 	"Downloadable": [
 		{
 			"Name": "FFI PR Dawn of Souls GBA OST Mod v2.0",
@@ -30,7 +38,6 @@
 			}
 		}
 	],
-	"DonationLink": null,
 	"Games": [
 		{
 			"Name": "FF1PR"
@@ -48,7 +55,7 @@
 			]
 		}
 	],
-	"ConfigSelectionType": "",
+	"ConfigSelectionType": "Auto",
 	"Hide": false,
 	"VerifiedAsWorking": false,
 	"IsManuallyCreated": true

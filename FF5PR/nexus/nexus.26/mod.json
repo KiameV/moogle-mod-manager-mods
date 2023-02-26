@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.26",
+	"Name": "Synthetic Origins FFV Pixel Remaster OST Mod",
+	"Author": "tssf and AlterPayot",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 5, 2022",
+	"Category": "Soundtrack",
+	"Description": "Replaces the Pixel Remaster OST with tssf's Synthetic Origins: FFV OST.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy5pixelremaster/mods/26",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/26/26-1649121704-1788202381.jpeg"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 26
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "Synthetic Origins FFV PR OST Mod v1.0",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 105,
+				"FileName": "Synthetic Origins FFV PR OST Mod v1.0-26-1-0-1649122035.7z"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF5PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Synthetic Origins FFV PR OST Mod v1.0",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY V_Data",
+					"To": "FINAL FANTASY V_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

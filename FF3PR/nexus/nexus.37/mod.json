@@ -4,11 +4,12 @@
 	"Author": "ProtomanZxAdvent CyggdrasilGaming",
 	"AuthorLink": "",
 	"ReleaseDate": "Dec 6, 2022",
-	"Category": "",
+	"Category": "UI: General",
 	"Description": "A mod that changes the UI icons and colors to the Dragon Quest style while staying in the FF PR style",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasy3pixelremaster/mods/37",
 	"Version": "1.00",
+	"InstallType": "Move",
 	"Previews": [
 		{
 			"Url": "https://staticdelivery.nexusmods.com/mods/3942/images/37/37-1670322185-900177510.png"
@@ -20,6 +21,13 @@
 		],
 		"NexusID": 37
 	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
 	"Downloadable": [
 		{
 			"Name": "Dragon Quest Styled UI Icons",
@@ -30,7 +38,6 @@
 			}
 		}
 	],
-	"DonationLink": null,
 	"Games": [
 		{
 			"Name": "FF3PR"
@@ -40,8 +47,6 @@
 		{
 			"DownloadName": "Dragon Quest Styled UI Icons",
 			"Dir": [
-				null,
-				null,
 				{
 					"From": "FINAL FANTASY III_Data",
 					"To": "FINAL FANTASY III_Data",
@@ -50,8 +55,8 @@
 			]
 		}
 	],
-	"ConfigSelectionType": "",
+	"ConfigSelectionType": "Auto",
 	"Hide": false,
 	"VerifiedAsWorking": false,
-	"IsManuallyCreated": false
+	"IsManuallyCreated": true
 }

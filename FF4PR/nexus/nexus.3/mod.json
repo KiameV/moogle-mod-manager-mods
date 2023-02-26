@@ -4,11 +4,12 @@
 	"Author": "metalliguyAU",
 	"AuthorLink": "",
 	"ReleaseDate": "Sep 14, 2021",
-	"Category": "",
+	"Category": "Battle Scene",
 	"Description": "Replaces all battle backgrounds with the PSP backgrounds!",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasy4pixelremaster/mods/3",
 	"Version": "1.0",
+	"InstallType": "Move",
 	"Previews": [
 		{
 			"Url": "https://staticdelivery.nexusmods.com/mods/4022/images/3/3-1631287838-1365386655.png"
@@ -20,6 +21,13 @@
 		],
 		"NexusID": 3
 	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
 	"Downloadable": [
 		{
 			"Name": "FFIV PSP Backgrounds",
@@ -30,7 +38,6 @@
 			}
 		}
 	],
-	"DonationLink": null,
 	"Games": [
 		{
 			"Name": "FF4PR"
@@ -48,7 +55,7 @@
 			]
 		}
 	],
-	"ConfigSelectionType": "",
+	"ConfigSelectionType": "Auto",
 	"Hide": false,
 	"VerifiedAsWorking": false,
 	"IsManuallyCreated": true

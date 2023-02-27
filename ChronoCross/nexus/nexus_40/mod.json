@@ -1,0 +1,92 @@
+{
+	"ID": "nexus.40",
+	"Name": "Lune Joker window frame",
+	"Author": "Deykkcaos and Ezequiel",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 24, 2022",
+	"Category": "UI: Dialog Frames",
+	"Description": "Lune Joker window frame, a small harle  on buttons .",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/chronocrosstheradicaldreamersedition/mods/40",
+	"Version": "1.0",
+	"InstallType": "MoveToArchive",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4420/images/40/40-1650769885-1103219356.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 40
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "Lune Joker",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 83,
+				"FileName": "Lune Joker-40-1-0-1650771074.7z"
+			}
+		},
+		{
+			"Name": "Less star bright",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 131,
+				"FileName": "Less star bright-40-1-1-1652720436.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "ChronoCross"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Choose",
+			"Description": "",
+			"Preview": {},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "Lune Joker",
+					"Description": "ty for your download.",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Lune Joker",
+						"File": [
+							{
+								"From": "w10.png",
+								"To": "window/w10.png",
+								"ToArchive": "data/hd.dat"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Less star bright",
+					"Description": "a version with less stars on background ( reading help )\n\u003cbr /\u003e",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Less star bright",
+						"File": [
+							{
+								"From": "w04.png",
+								"To": "window/w04.png",
+								"ToArchive": "data/hd.dat"
+							}
+						]
+					}
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

@@ -1,0 +1,102 @@
+{
+	"ID": "nexus.18",
+	"Name": "Classic Text Box Framework (FFVI)",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Mar 4, 2022",
+	"Category": "Utility",
+	"Description": "This mod removes the speaker box and moves the speaker name to the text box for a more classic look. It also works as a framework for the textbox portrait mods.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/18",
+	"Version": "2.2",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/18/18-1646385592-1737242806.png"
+	},
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 18
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "memoria.albeoris"
+			},
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "Classic Text Box Framework",
+			"Version": "2.2",
+			"Nexus": {
+				"FileID": 237,
+				"FileName": "Classic Text Box Framework-18-2-2-1657045966.zip"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "Classic Text Box Framework - English Capitalized Speakers",
+			"Version": "2.2",
+			"Nexus": {
+				"FileID": 238,
+				"FileName": "Classic Text Box Framework - English Capitalised Speakers-18-2-2-1657045993.zip"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Text Style",
+			"Description": "",
+			"Preview": {},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "First Letter Capitalied Names",
+					"Description": "The .bundle requires the 1.06 version of the game.",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Classic Text Box Framework",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Capitalised Names",
+					"Description": "Please read the instructions for the extra steps required for this version. The .bundle requires the 1.06 version of the game.",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Classic Text Box Framework - English Capitalized Speakers",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.33",
+	"Name": "Overworld Tileset Tweaks",
+	"Author": "granvillimus",
+	"AuthorLink": "",
+	"ReleaseDate": "Aug 19, 2022",
+	"Category": "Tile Set",
+	"Description": "Implements new grass tiles into the overworld. Also recolors mountains, desert and trees.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy3pixelremaster/mods/33",
+	"Version": "1",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3942/images/33/33-1660883565-1415927037.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 33
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "FF3_Overworld_Tile_Edits",
+			"Version": "1",
+			"Nexus": {
+				"FileID": 98,
+				"FileName": "FF3_Overworld_Tile_Edits-33-1-1660884609.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF3PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FF3_Overworld_Tile_Edits",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY III_Data",
+					"To": "FINAL FANTASY III_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

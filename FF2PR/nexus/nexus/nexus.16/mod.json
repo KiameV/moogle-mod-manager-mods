@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.16",
+	"Name": "Total Hell",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Sep 6, 2021",
+	"Category": "",
+	"Description": "This mod replaces the sprite of the Emperor, the final boss, with its Brave Exvius sprite and a matching overworld sprite.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy2pixelremaster/mods/16",
+	"Version": "1.1",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3958/images/16/16-1661182273-751688796.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 16
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "Total Hell",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 110,
+				"FileName": "Total Hell-16-1-1-1661182300.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF2PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Total Hell",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY II_Data",
+					"To": "FINAL FANTASY II_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

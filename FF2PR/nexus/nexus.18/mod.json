@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.18",
+	"Name": "Final Fantasy II SaGa Title Screen",
+	"Author": "deleted124635168",
+	"AuthorLink": "",
+	"ReleaseDate": "Sep 18, 2021",
+	"Category": "UI: General",
+	"Description": "I was bored, so I made this title screen. And FF2 is basically a SaGa game anyway (no matter what the fanboiis tell you).",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy2pixelremaster/mods/18",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3958/images/18/18-1631995448-1131543949.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 18
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "Final Fantasy II SaGa Title Screen",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 37,
+				"FileName": "Final Fantasy II SaGa Title Screen-18-1-0-1631994002.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF2PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Final Fantasy II SaGa Title Screen",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY II_Data",
+					"To": "FINAL FANTASY II_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

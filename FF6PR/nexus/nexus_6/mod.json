@@ -1,0 +1,568 @@
+{
+	"ID": "nexus.6",
+	"Name": "Textbox Portraits",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Feb 24, 2022",
+	"Category": "UI: Textbox Portraits",
+	"Description": "Adds Portraits to the textboxes for the main characters!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/6",
+	"Version": "1.0",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/6/6-1650565647-480471206.png"
+	},
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 6
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "nexus.18"
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "FFVIPR_Textbox_Portraits_metalliguy",
+			"Version": "2.2",
+			"Nexus": {
+				"FileID": 142,
+				"FileName": "FFVIPR_Textbox_Portraits_metalliguy-6-2-1-1650566071.rar"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "FFVIPR_Textbox_Portraits_(Blonde_Terra)_metalliguy",
+			"Version": "2.2",
+			"Nexus": {
+				"FileID": 154,
+				"FileName": "FFVIPR_Textbox_Portraits_(Blonde_Terra)_metalliguy.rar"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "FFVIPR_MODDING_FILES_Textbox_Portraits_metalliguy",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 185,
+				"FileName": "FFVIPR_Textbox_Portraits_(Blonde_Terra)_metalliguy.rar"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Terra Hair Color",
+			"Description": "",
+			"Preview": {},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "Green",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/6/6-1650565647-480471206.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": ""
+					},
+					"NextConfigurationName": "Portrait Style - Green"
+				},
+				{
+					"Name": "Blonde",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/6/6-1650828089-1592119160.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": ""
+					},
+					"NextConfigurationName": "Portrait Style - Blonde"
+				}
+			]
+		},
+		{
+			"Name": "Portrait Style - Green",
+			"Description": "",
+			"Preview": {
+				"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/6/6-1650565647-480471206.png"
+			},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Darker UI (Old Ver)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_metalliguy",
+						"File": [
+							{
+								"From": "Darker UI + OldVer/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Darker UI (Opera Omnia)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_metalliguy",
+						"File": [
+							{
+								"From": "Darker UI + OO/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Darker UI (SNES)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_metalliguy",
+						"File": [
+							{
+								"From": "Darker UI + SNES/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "FFVI UI (Old Ver)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_metalliguy",
+						"File": [
+							{
+								"From": "FFVI UI + OldVer/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "FFVI UI (Opera Omnia)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_metalliguy",
+						"File": [
+							{
+								"From": "FFVI UI + OO/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "FFVI UI (SNES)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_metalliguy",
+						"File": [
+							{
+								"From": "FFVI UI + OldVer/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES UI (Old Ver)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_metalliguy",
+						"File": [
+							{
+								"From": "SNES (flat) UI + OldVer/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES UI (Opera Omnia)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_metalliguy",
+						"File": [
+							{
+								"From": "SNES (flat) UI + OO/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES UI (SNES)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_metalliguy",
+						"File": [
+							{
+								"From": "SNES (flat) UI + SNES/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES UI Gradient (Old Ver)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_metalliguy",
+						"File": [
+							{
+								"From": "SNES (gradient) UI + OldVer/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES UI Gradient (Opera Omnia)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_metalliguy",
+						"File": [
+							{
+								"From": "SNES (gradient) UI + OO/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES UI Gradient (SNES)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_metalliguy",
+						"File": [
+							{
+								"From": "SNES (gradient) UI + SNES/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Chrono UI (Old Ver)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_metalliguy",
+						"File": [
+							{
+								"From": "Chrono UI + OldVer/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Chrono UI (Opera Omnia)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_metalliguy",
+						"File": [
+							{
+								"From": "Chrono UI + OO/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Chrono UI (SNES)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_metalliguy",
+						"File": [
+							{
+								"From": "Chrono UI + OldVer/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Stock UI (Opera Omnia)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_metalliguy",
+						"File": [
+							{
+								"From": "Stock UI + OO/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"Name": "Portrait Style - Blonde",
+			"Description": "",
+			"Preview": {
+				"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/6/6-1650828089-1592119160.png"
+			},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Darker UI (Old Ver)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Blonde_Terra)_metalliguy",
+						"File": [
+							{
+								"From": "Darker UI + OldVer/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Darker UI (Opera Omnia)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Blonde_Terra)_metalliguy",
+						"File": [
+							{
+								"From": "Darker UI + OO/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Darker UI (SNES)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Blonde_Terra)_metalliguy",
+						"File": [
+							{
+								"From": "Darker UI + SNES/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "FFVI UI (Old Ver)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Blonde_Terra)_metalliguy",
+						"File": [
+							{
+								"From": "FFVI UI + OldVer/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "FFVI UI (Opera Omnia)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Blonde_Terra)_metalliguy",
+						"File": [
+							{
+								"From": "FFVI UI + OO/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "FFVI UI (SNES)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Blonde_Terra)_metalliguy",
+						"File": [
+							{
+								"From": "FFVI UI + OldVer/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES UI (Old Ver)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Blonde_Terra)_metalliguy",
+						"File": [
+							{
+								"From": "SNES (flat) UI + OldVer/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES UI (Opera Omnia)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Blonde_Terra)_metalliguy",
+						"File": [
+							{
+								"From": "SNES (flat) UI + OO/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES UI (SNES)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Blonde_Terra)_metalliguy",
+						"File": [
+							{
+								"From": "SNES (flat) UI + SNES/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES UI Gradient (Old Ver)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Blonde_Terra)_metalliguy",
+						"File": [
+							{
+								"From": "SNES (gradient) UI + OldVer/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES UI Gradient (Opera Omnia)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Blonde_Terra)_metalliguy",
+						"File": [
+							{
+								"From": "SNES (gradient) UI + OO/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES UI Gradient (SNES)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Blonde_Terra)_metalliguy",
+						"File": [
+							{
+								"From": "SNES (gradient) UI + SNES/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Chrono UI (Old Ver)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Blonde_Terra)_metalliguy",
+						"File": [
+							{
+								"From": "Chrono UI + OldVer/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Chrono UI (Opera Omnia)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Blonde_Terra)_metalliguy",
+						"File": [
+							{
+								"From": "Chrono UI + OO/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Chrono UI (SNES)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Blonde_Terra)_metalliguy",
+						"File": [
+							{
+								"From": "Chrono UI + OldVer/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Stock UI (Opera Omnia)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVIPR_Textbox_Portraits_(Blonde_Terra)_metalliguy",
+						"File": [
+							{
+								"From": "Stock UI + OO/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle",
+								"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/common_message_assets_all_ac89d5b7f6637ca100a32c3b2c2e3aa4.bundle"
+							}
+						]
+					}
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

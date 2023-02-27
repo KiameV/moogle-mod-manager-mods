@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.41",
+	"Name": "Final Fantasy II Origins Monsterology",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Aug 3, 2022",
+	"Category": "Enemy Sprite",
+	"Description": "This mod replaces the full bestiary and the overworld sprites of the monsters with the ones from PS1.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy2pixelremaster/mods/41",
+	"Version": "1.01",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3958/images/41/41-1659541878-862745083.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 41
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "Final Fantasy II Origins Monsterology",
+			"Version": "1.01",
+			"Nexus": {
+				"FileID": 106,
+				"FileName": "Final Fantasy II Origins Monsterology-41-1-01-1659561453.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF2PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Final Fantasy II Origins Monsterology",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY II_Data",
+					"To": "FINAL FANTASY II_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

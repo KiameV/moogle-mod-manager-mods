@@ -1,0 +1,174 @@
+{
+	"ID": "nexus.56",
+	"Name": "Piano Audio Replacement",
+	"Author": "Edale",
+	"AuthorLink": "",
+	"ReleaseDate": "May 14, 2022",
+	"Category": "Soundtrack",
+	"Description": "Replaces all music in the game with piano versions of the songs.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/chronocrosstheradicaldreamersedition/mods/56",
+	"Version": "2.0",
+	"InstallType": "MoveToArchive",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4420/images/56/56-1652530323-2037576184.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 56
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "Chrono Cross Piano SD - English",
+			"Version": "2.0",
+			"Nexus": {
+				"FileID": 143,
+				"FileName": "Chrono Cross Piano SD - English-56-2-0-1670878192.7z"
+			}
+		},
+		{
+			"Name": "Chrono Cross Piano v2 hotfix",
+			"Version": "2.0",
+			"Nexus": {
+				"FileID": 144,
+				"FileName": "Chrono Cross Piano v2 hotfix-56-2-0-1670882025.7z"
+			}
+		},
+		{
+			"Name": "Chrono Cross Piano Snooty HD - Multi",
+			"Version": "2.0",
+			"Nexus": {
+				"FileID": 140,
+				"FileName": "Chrono Cross Piano Snooty HD - Multi-56-2-0-1670791293.zip"
+			}
+		},
+		{
+			"Name": "Chrono Cross Piano Snooty HD - English",
+			"Version": "2.0",
+			"Nexus": {
+				"FileID": 141,
+				"FileName": "Chrono Cross Piano Snooty HD - English-56-2-0-1670816592.zip"
+			}
+		},
+		{
+			"Name": "Chrono Cross Piano SD - Multi",
+			"Version": "2.0",
+			"Nexus": {
+				"FileID": 142,
+				"FileName": "Chrono Cross Piano SD - Multi-56-2-0-1670871030.7z"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "ChronoCross"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Choose Version",
+			"Description": "",
+			"Preview": {},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "HD Video - Multi",
+					"Description": "Snooty HD AI Upscale videos.\n\u003cbr /\u003e\u003cbr /\u003eContains the opening video in all languages.",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Chrono Cross Piano Snooty HD - Multi",
+						"Dir": [
+							{
+								"From": "movie",
+								"To": ".",
+								"Recursive": true,
+								"ToArchive": "/data/movie.dat"
+							},
+							{
+								"From": "sound",
+								"To": "sound",
+								"Recursive": true,
+								"ToArchive": "/data/cdrom.dat"
+							}
+						]
+					}
+				},
+				{
+					"Name": "HD Video - English",
+					"Description": "Snooty HD AI Upscale videos.\n\u003cbr /\u003e\u003cbr /\u003eOnly has the English version of the opening video.",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Chrono Cross Piano Snooty HD - English",
+						"Dir": [
+							{
+								"From": "movie",
+								"To": ".",
+								"Recursive": true,
+								"ToArchive": "/data/movie.dat"
+							},
+							{
+								"From": "sound",
+								"To": "sound",
+								"Recursive": true,
+								"ToArchive": "/data/cdrom.dat"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Original Video - Multi",
+					"Description": "Original quality video.\n\u003cbr /\u003e\u003cbr /\u003eContains the opening video in all languages.",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Chrono Cross Piano SD - Multi",
+						"Dir": [
+							{
+								"From": "sound",
+								"To": "sound",
+								"Recursive": true,
+								"ToArchive": "/data/cdrom.dat"
+							},
+							{
+								"From": "movie",
+								"To": ".",
+								"Recursive": true,
+								"ToArchive": "/data/movie.dat"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Original Video - English",
+					"Description": "Original quality videos.\n\u003cbr /\u003e\u003cbr /\u003eOnly has the English version of the opening video.",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Chrono Cross Piano SD - English",
+						"Dir": [
+							{
+								"From": "sound",
+								"To": "sound",
+								"Recursive": true,
+								"ToArchive": "/data/cdrom.dat"
+							},
+							{
+								"From": "movie",
+								"To": ".",
+								"Recursive": false,
+								"ToArchive": "/data/movie.dat"
+							}
+						]
+					}
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

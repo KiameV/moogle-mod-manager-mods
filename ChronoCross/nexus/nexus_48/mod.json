@@ -1,0 +1,67 @@
+{
+	"ID": "nexus.48",
+	"Name": "CC Arranged BGM",
+	"Author": "Dario",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 27, 2022",
+	"Category": "Soundtrack",
+	"Description": "Complete Music Overhaul",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/chronocrosstheradicaldreamersedition/mods/48",
+	"Version": "a3",
+	"InstallType": "MoveToArchive",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4420/images/48/48-1651086914-153251951.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 48
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "CCRDE BGM Mod",
+			"Version": "a3",
+			"Nexus": {
+				"FileID": 98,
+				"FileName": "CCRDE BGM Mod-48-a3-1651110628.7z"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "a3 Update",
+			"Version": "a3",
+			"Nexus": {
+				"FileID": 99,
+				"FileName": "a3 Update-48-a3-1651110894.7z"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"Games": [
+		{
+			"Name": "ChronoCross"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "CCRDE BGM Mod",
+			"Dir": [
+				{
+					"From": "",
+					"To": "/sound/bgm/",
+					"Recursive": true,
+					"ToArchive": "/data/cdrom.dat"
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Select",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

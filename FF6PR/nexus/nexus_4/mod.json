@@ -1,0 +1,66 @@
+{
+	"ID": "nexus.4",
+	"Name": "FFVI UI Overhaul Mod",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Feb 24, 2022",
+	"Category": "UI: General",
+	"Description": "Fixed the Auto/Quick save backgrounds; Huge thanks to Silvris for the fix",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/4",
+	"Version": "1.1",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/4/4-1645644445-303885338.png"
+	},
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 4
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		],
+		"Forbid": [
+			{
+				"ModID": "nexus.12"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "FFVIPR_FFVI_UI_metalliguy",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 268,
+				"FileName": "FFVIPR_FFVI_UI_metalliguy-4-1-1-1659427559.rar"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFVIPR_FFVI_UI_metalliguy",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY VI_Data",
+					"To": "FINAL FANTASY VI_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.33",
+	"Name": "SNES UI",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Mar 6, 2022",
+	"Category": "UI: General",
+	"Description": "Replaces the UI with a FFIV SNES UI!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy2pixelremaster/mods/33",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3958/images/33/33-1646556779-439686955.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 33
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "FFIIPR_SNES_UI_metalliguy",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 76,
+				"FileName": "FFIIPR_SNES_UI_metalliguy-33-1-0-1646556950.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF2PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFIIPR_SNES_UI_metalliguy",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY II_Data",
+					"To": "FINAL FANTASY II_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

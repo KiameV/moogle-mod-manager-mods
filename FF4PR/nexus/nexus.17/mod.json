@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.17",
+	"Name": "Moon and Consistency",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Sep 15, 2021",
+	"Category": "Enemy Sprite",
+	"Description": "This mod modifies and recolors the sprites of the mayor bosses for consistency with previous games and restores the SNES sprites of those that were shrunk for the GBA port.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy4pixelremaster/mods/17",
+	"Version": "Final",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4022/images/17/17-1636138928-1368322614.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 17
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "Moon and Consistency",
+			"Version": "Final",
+			"Nexus": {
+				"FileID": 106,
+				"FileName": "Moon and Consistency-17-Final-1636138915.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF4PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Moon and Consistency",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY IV_Data",
+					"To": "FINAL FANTASY IV_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

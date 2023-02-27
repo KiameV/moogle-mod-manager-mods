@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.35",
+	"Name": "Opera Omnia Style Portraits",
+	"Author": "faospark",
+	"AuthorLink": "",
+	"ReleaseDate": "Mar 28, 2022",
+	"Category": "",
+	"Description": "Opera Omnia (Chibii) style Portraits",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy2pixelremaster/mods/35",
+	"Version": "2",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3958/images/35/35-1675341585-1221281834.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 35
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "Opera Omnia Portraits FF2",
+			"Version": "2",
+			"Nexus": {
+				"FileID": 124,
+				"FileName": "Opera Omnia Portraits FF2-35-2-1675341981.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF2PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Opera Omnia Portraits FF2",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY II_Data",
+					"To": "FINAL FANTASY II_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

@@ -87,13 +87,13 @@
 								"From": "movie",
 								"To": ".",
 								"Recursive": true,
-								"ToArchive": "/data/movie.dat"
+								"ToArchive": "data/movie.dat"
 							},
 							{
 								"From": "sound",
 								"To": "sound",
 								"Recursive": true,
-								"ToArchive": "/data/cdrom.dat"
+								"ToArchive": "data/cdrom.dat"
 							}
 						]
 					}
@@ -109,13 +109,13 @@
 								"From": "movie",
 								"To": ".",
 								"Recursive": true,
-								"ToArchive": "/data/movie.dat"
+								"ToArchive": "data/movie.dat"
 							},
 							{
 								"From": "sound",
 								"To": "sound",
 								"Recursive": true,
-								"ToArchive": "/data/cdrom.dat"
+								"ToArchive": "data/cdrom.dat"
 							}
 						]
 					}
@@ -131,13 +131,13 @@
 								"From": "sound",
 								"To": "sound",
 								"Recursive": true,
-								"ToArchive": "/data/cdrom.dat"
+								"ToArchive": "data/cdrom.dat"
 							},
 							{
 								"From": "movie",
 								"To": ".",
 								"Recursive": true,
-								"ToArchive": "/data/movie.dat"
+								"ToArchive": "data/movie.dat"
 							}
 						]
 					}
@@ -150,16 +150,16 @@
 						"DownloadName": "Chrono Cross Piano SD - English",
 						"Dir": [
 							{
+								"From": "movie",
+								"To": ".",
+								"Recursive": true,
+								"ToArchive": "data/movie.dat"
+							},
+							{
 								"From": "sound",
 								"To": "sound",
 								"Recursive": true,
-								"ToArchive": "/data/cdrom.dat"
-							},
-							{
-								"From": "movie",
-								"To": ".",
-								"Recursive": false,
-								"ToArchive": "/data/movie.dat"
+								"ToArchive": "data/cdrom.dat"
 							}
 						]
 					}

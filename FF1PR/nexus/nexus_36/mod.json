@@ -1,0 +1,59 @@
+{
+	"ID": "nexus.36",
+	"Name": "FFI Pixel DEmaster",
+	"Author": "Axel Voss",
+	"AuthorLink": "",
+	"ReleaseDate": "Nov 12, 2021",
+	"Category": "General",
+	"Description": "Replaces party member and monster sprites, as well as battle background, with their 8-bit counterparts. Eventually, I plan to DEmaster all graphics, sound effects and music in the game to resemble those of the original NES/Famicom game!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasypixelremaster/mods/36",
+	"Version": "0.2",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/36/36-1636665267-1312127939.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/36/36-1636665249-504341796.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 36
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "FFI Pixel DEmaster",
+			"Version": "0.2",
+			"Nexus": {
+				"FileID": 76,
+				"FileName": "FFI Pixel DEmaster-36-0-2-1636699391.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF1PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFI Pixel DEmaster",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY_Data",
+					"To": "FINAL FANTASY_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

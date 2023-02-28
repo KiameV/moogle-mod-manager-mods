@@ -1,0 +1,84 @@
+{
+	"ID": "nexus.43",
+	"Name": "Menu alt",
+	"Author": "1vierock",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 24, 2022",
+	"Category": "UI: General",
+	"Description": "just a small files for Menu ^^",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/chronocrosstheradicaldreamersedition/mods/43",
+	"Version": "1",
+	"InstallType": "MoveToArchive",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4420/images/43/43-1650814337-1579065377.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 43
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "Menu icon",
+			"Version": "1",
+			"Nexus": {
+				"FileID": 87,
+				"FileName": "Menu icon-43-1-1650814384.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "ChronoCross"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Choose",
+			"Description": "",
+			"Preview": {},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "Wheel",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Menu icon",
+						"File": [
+							{
+								"From": "menutim_02.png",
+								"To": "menu/menutim/menutim_02.png",
+								"ToArchive": "data/hd.dat"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Handle",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Menu icon",
+						"File": [
+							{
+								"From": "handle.png",
+								"To": "menu/handle.png",
+								"ToArchive": "data/hd.dat"
+							}
+						]
+					}
+				}
+			],
+			"ConfigSelectionType": "Multi"
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

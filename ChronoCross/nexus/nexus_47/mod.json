@@ -1,0 +1,114 @@
+{
+	"ID": "nexus.47",
+	"Name": "Alt Teleporter or Relief Charm Menu",
+	"Author": "faospark",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 26, 2022",
+	"Category": "UI: General",
+	"Description": "Replaces the UI of the teleporter and relief charm Menu",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/chronocrosstheradicaldreamersedition/mods/47",
+	"Version": "1",
+	"InstallType": "MoveToArchive",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4420/images/47/47-1650973514-363301951.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 47
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "Alt-Teleporter-RCharm",
+			"Version": "1",
+			"Nexus": {
+				"FileID": 94,
+				"FileName": "Alt-Teleporter-RCharm-47-1-1650973180.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "ChronoCross"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Alt-Teleporter-RCharm",
+			"File": [
+				{
+					"From": "Basic/menu/memmenu_cur.png",
+					"To": "menu/memmenu_cur.png",
+					"ToArchive": "data/hd.dat"
+				}
+			]
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Choose",
+			"Description": "",
+			"Preview": {},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "Another Eden",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Alt-Teleporter-RCharm",
+						"Dir": [
+							{
+								"From": "Another Eden/menu/shapes",
+								"To": "menu/shapes",
+								"Recursive": true,
+								"ToArchive": "data/hd.dat"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Aqua",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Alt-Teleporter-RCharm",
+						"Dir": [
+							{
+								"From": "Aqua/menu/shapes",
+								"To": "menu/shapes",
+								"Recursive": true,
+								"ToArchive": "data/hd.dat"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Basic",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Alt-Teleporter-RCharm",
+						"Dir": [
+							{
+								"From": "Basic/menu/shapes",
+								"To": "menu/shapes",
+								"Recursive": true,
+								"ToArchive": "data/hd.dat"
+							}
+						]
+					}
+				}
+			],
+			"ConfigSelectionType": "Radio"
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

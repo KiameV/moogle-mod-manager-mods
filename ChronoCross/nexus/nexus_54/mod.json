@@ -1,0 +1,211 @@
+{
+	"ID": "nexus.54",
+	"Name": "CC Radical Portraits",
+	"Author": "faospark",
+	"AuthorLink": "",
+	"ReleaseDate": "May 10, 2022",
+	"Category": "UI: Player Portraits",
+	"Description": "Color corrections and rescaled Portraits",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/chronocrosstheradicaldreamersedition/mods/54",
+	"Version": "1",
+	"InstallType": "MoveToArchive",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4420/images/54/54-1677085467-1815834482.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 54
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "Another-Eden-Glenn",
+			"Version": "1",
+			"Nexus": {
+				"FileID": 150,
+				"FileName": "Another-Eden-Glenn-54-1-1677504727.zip"
+			}
+		},
+		{
+			"Name": "Another-Eden-Kid",
+			"Version": "1",
+			"Nexus": {
+				"FileID": 151,
+				"FileName": "Another-Eden-Kid-54-1-1677507237.zip"
+			}
+		},
+		{
+			"Name": "Another-Eden-Harle",
+			"Version": "1",
+			"Nexus": {
+				"FileID": 152,
+				"FileName": "Another-Eden-Harle-54-1-1677507369.zip"
+			}
+		},
+		{
+			"Name": "Another-Eden-Starsky",
+			"Version": "1",
+			"Nexus": {
+				"FileID": 153,
+				"FileName": "Another-Eden-Starsky-54-1-1677507422.zip"
+			}
+		},
+		{
+			"Name": "CCR Portraits",
+			"Version": "3",
+			"Nexus": {
+				"FileID": 154,
+				"FileName": "CCR Portraits-54-3-1677511707.zip"
+			}
+		},
+		{
+			"Name": "Another-Eden-Serge",
+			"Version": "1",
+			"Nexus": {
+				"FileID": 119,
+				"FileName": "Another-Eden-Serge-54-1-1652192970.zip"
+			}
+		},
+		{
+			"Name": "Another-Eden-Lynx",
+			"Version": "1",
+			"Nexus": {
+				"FileID": 148,
+				"FileName": "Another-Eden-Lynx-54-1-1677250256.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "ChronoCross"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "CCR Portraits",
+			"Dir": [
+				{
+					"From": "CCR Portraits",
+					"To": "",
+					"Recursive": true,
+					"ToArchive": "data/hd.dat"
+				}
+			]
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Choose",
+			"Description": "",
+			"Preview": {},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "Another-Eden-Serge",
+					"Description": "Optional Battle and In Menu Portrait based from another eden",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Another-Eden-Serge",
+						"Dir": [
+							{
+								"From": "",
+								"To": "",
+								"Recursive": true,
+								"ToArchive": "data/hd.dat"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Another-Eden-Lynx",
+					"Description": "Another Eden Lynx",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Another-Eden-Lynx",
+						"Dir": [
+							{
+								"From": "Another-Eden-Lynx",
+								"To": "",
+								"Recursive": true,
+								"ToArchive": "data/hd.dat"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Another-Eden-Glenn",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Another-Eden-Glenn",
+						"Dir": [
+							{
+								"From": "Another-Eden-Glenn",
+								"To": "",
+								"Recursive": true,
+								"ToArchive": "data/hd.dat"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Another-Eden-Harle",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Another-Eden-Harle",
+						"Dir": [
+							{
+								"From": "Another-Eden-Harle",
+								"To": "",
+								"Recursive": true,
+								"ToArchive": "data/hd.dat"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Another-Eden-Kid",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Another-Eden-Kid",
+						"Dir": [
+							{
+								"From": "Another-Eden-Kid",
+								"To": "",
+								"Recursive": true,
+								"ToArchive": "data/hd.dat"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Another-Eden-Starsky",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Another-Eden-Starsky",
+						"Dir": [
+							{
+								"From": "Another-Eden-Starsky",
+								"To": "",
+								"Recursive": true,
+								"ToArchive": "data/hd.dat"
+							}
+						]
+					}
+				}
+			],
+			"ConfigSelectionType": "Multi"
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

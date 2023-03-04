@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.17",
+	"Name": "FFVI UI Overhaul Mod",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Sep 5, 2021",
+	"Category": "UI: General",
+	"Description": "Transform all menu UI and text boxes into a sleek, FFVI inspired look!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy3pixelremaster/mods/17",
+	"Version": "1.2a",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3942/images/17/17-1646543241-598988337.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 17
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "FFIIIPR_FFVI_UI_metalliguy",
+			"Version": "1.2a",
+			"Nexus": {
+				"FileID": 100,
+				"FileName": "FFIIIPR_FFVI_UI_metalliguy-17-1-2a-1660983524.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF3PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFIIIPR_FFVI_UI_metalliguy",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY III_Data",
+					"To": "FINAL FANTASY III_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

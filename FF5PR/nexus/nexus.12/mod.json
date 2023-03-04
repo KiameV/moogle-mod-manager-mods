@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.12",
+	"Name": "SNES Backgrounds",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Nov 16, 2021",
+	"Category": "Battle Scene",
+	"Description": "Replaces the battle backgrounds with custom SNES backgrounds!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy5pixelremaster/mods/12",
+	"Version": "1.0a",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/12/12-1637086558-1734234378.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 12
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "FFVPR_SNES_Backgrounds_metalliguy",
+			"Version": "1.0a",
+			"Nexus": {
+				"FileID": 126,
+				"FileName": "FFVPR_SNES_Backgrounds_metalliguy-12-1-0a-1660747292.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF5PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFVPR_SNES_Backgrounds_metalliguy",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY V_Data",
+					"To": "FINAL FANTASY V_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

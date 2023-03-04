@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.9",
+	"Name": "Final Fantasy V Pixel Keeper Overworld Sprites",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Nov 13, 2021",
+	"Category": "Player/NPC Sprite",
+	"Description": "This mod tweaks the overworld sprites of the playable characters for consistency with their battle sprites.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy5pixelremaster/mods/9",
+	"Version": "1.03",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/9/9-1636823424-1634965159.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 9
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "Final Fantasy V Pixel Keeper Overworld Sprites",
+			"Version": "1.03",
+			"Nexus": {
+				"FileID": 66,
+				"FileName": "Final Fantasy V Pixel Keeper Overworld Sprites-9-1-03-1638315651.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF5PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Final Fantasy V Pixel Keeper Overworld Sprites",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY V_Data",
+					"To": "FINAL FANTASY V_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

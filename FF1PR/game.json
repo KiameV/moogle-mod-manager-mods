@@ -1,0 +1,41 @@
+{
+  "id": "FF1PR",
+  "name": "Final Fantasy I Pixel Remaster",
+  "steamID": "1173770",
+  "baseDir": "FINAL FANTASY_Data",
+  "authorHintDir": "FF PR",
+  "remote": {
+    "nexus": {
+      "id": 3934,
+      "path": "finalfantasypixelremaster"
+    },
+    "curseforge": {
+      "id": 5230,
+      "path": "final-fantasy-i"
+    }
+  },
+  "defaultInstallType": "Move",
+  "versions": [
+    {
+      "version": "1.0.4"
+    }
+  ],
+  "categories": [
+	"Battle Scene",
+	"Enemy Sprite",
+	"Game Overhauls",
+	"Gameplay",
+	"General",
+	"Fonts",
+	"Player/NPC Sprite",
+	"Script/Text",
+	"Soundtrack",
+	"Tile Set",
+	"Title Screen",
+	"UI: General",
+	"UI: Menu Portraits",
+	"UI: Textbox Portraits",
+	"UI: Window Frames",
+	"Utility"
+  ]
+}

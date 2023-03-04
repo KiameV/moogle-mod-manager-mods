@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.48",
+	"Name": "Amano-Shibuya Cecil Harvey Dark Knight Sprite Replacement",
+	"Author": "HimuraJubei",
+	"AuthorLink": "",
+	"ReleaseDate": "Mar 27, 2022",
+	"Category": "Player/NPC Sprite",
+	"Description": "Character redesign for Cecil Harvey's Dark Knight form that pays tribute to Yoshitaka Amano's original character designs, but still keeps the overall aesthetic of Kazuko Shibuya's original/PR sprites. These sprites are meant to work with Final Fantasy IV Pixel Remaster's art style. This also includes reworked sprites for his three dark swords.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy4pixelremaster/mods/48",
+	"Version": "1.1",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4022/images/48/48-1648341242-1524663132.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 48
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "Amano-Shibuya Cecil Dark Knight 1.1",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 160,
+				"FileName": "Amano-Shibuya Cecil Dark Knight 1.1-48-1-1-1649386120.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF4PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Amano-Shibuya Cecil Dark Knight 1.1",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY IV_Data",
+					"To": "FINAL FANTASY IV_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

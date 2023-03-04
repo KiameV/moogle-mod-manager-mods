@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.22",
+	"Name": "FFIII Lewd Enemies",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Oct 1, 2021",
+	"Category": "Enemy Sprite",
+	"Description": ":eyes_emoji:",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy3pixelremaster/mods/22",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3942/images/22/22-1633070677-674589293.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 22
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "FFIII Lewd Enemies",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 50,
+				"FileName": "FFIII Lewd Enemies-22-1-0-1633070801.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF3PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFIII Lewd Enemies",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY III_Data",
+					"To": "FINAL FANTASY III_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

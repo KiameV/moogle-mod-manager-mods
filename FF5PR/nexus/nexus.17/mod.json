@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.17",
+	"Name": "Total Void",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Nov 20, 2021",
+	"Category": "Enemy Sprite",
+	"Description": "This mod replaces the sprite of Neo Exdeath, the final boss, with its Brave Exvius sprite.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy5pixelremaster/mods/17",
+	"Version": "1.1",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/17/17-1637408350-469202921.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 17
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "Total Void",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 115,
+				"FileName": "Total Void-17-1-1-1653284158.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF5PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Total Void",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY V_Data",
+					"To": "FINAL FANTASY V_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

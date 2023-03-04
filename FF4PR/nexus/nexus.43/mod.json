@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.43",
+	"Name": "FF IV Battle 1 Music Replacement",
+	"Author": "koiboi100",
+	"AuthorLink": "",
+	"ReleaseDate": "Jan 8, 2022",
+	"Category": "Soundtrack",
+	"Description": "BGM Music Replacement Mod \u003cbr /\u003e Battle 1 Only",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy4pixelremaster/mods/43",
+	"Version": "1",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4022/images/43/43-1641666007-648379392.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 43
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "FF IV Battle 1 BGM Replacement MOD",
+			"Version": "1",
+			"Nexus": {
+				"FileID": 123,
+				"FileName": "FF IV Battle 1 BGM Replacement MOD-43-1-1641667420.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF4PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FF IV Battle 1 BGM Replacement MOD",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY IV_Data",
+					"To": "FINAL FANTASY IV_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

@@ -24,6 +24,38 @@
 	"Compatibility": {},
 	"Downloadable": [
 		{
+			"Name": "CCR Portraits",
+			"Version": "3.5",
+			"Nexus": {
+				"FileID": 156,
+				"FileName": "CCR Portraits-54-3-5-1677916962.zip"
+			}
+		},
+		{
+			"Name": "Fanart-Karsh-Marcy-Zoah",
+			"Version": "1",
+			"Nexus": {
+				"FileID": 157,
+				"FileName": "Fanart-Karsh-Marcy-Zoah-54-1-1677917481.zip"
+			}
+		},
+		{
+			"Name": "Another-Eden-Serge",
+			"Version": "1",
+			"Nexus": {
+				"FileID": 119,
+				"FileName": "Another-Eden-Serge-54-1-1652192970.zip"
+			}
+		},
+		{
+			"Name": "Another-Eden-Lynx",
+			"Version": "1",
+			"Nexus": {
+				"FileID": 148,
+				"FileName": "Another-Eden-Lynx-54-1-1677250256.zip"
+			}
+		},
+		{
 			"Name": "Another-Eden-Glenn",
 			"Version": "1",
 			"Nexus": {
@@ -53,30 +85,6 @@
 			"Nexus": {
 				"FileID": 153,
 				"FileName": "Another-Eden-Starsky-54-1-1677507422.zip"
-			}
-		},
-		{
-			"Name": "CCR Portraits",
-			"Version": "3",
-			"Nexus": {
-				"FileID": 154,
-				"FileName": "CCR Portraits-54-3-1677511707.zip"
-			}
-		},
-		{
-			"Name": "Another-Eden-Serge",
-			"Version": "1",
-			"Nexus": {
-				"FileID": 119,
-				"FileName": "Another-Eden-Serge-54-1-1652192970.zip"
-			}
-		},
-		{
-			"Name": "Another-Eden-Lynx",
-			"Version": "1",
-			"Nexus": {
-				"FileID": 148,
-				"FileName": "Another-Eden-Lynx-54-1-1677250256.zip"
 			}
 		}
 	],
@@ -200,9 +208,25 @@
 							}
 						]
 					}
+				},
+				{
+					"Name": "Fanart-Karsh-Marcy-Zoah",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Fanart-Karsh-Marcy-Zoah",
+						"Dir": [
+							{
+								"From": "Fanart-Karsh-Marcy-Zoah",
+								"To": "",
+								"Recursive": true,
+								"ToArchive": "data/hd.dat"
+							}
+						]
+					}
 				}
 			],
-			"ConfigSelectionType": "Multi"
+			"ConfigSelectionType": "Auto"
 		}
 	],
 	"Hide": false,

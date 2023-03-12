@@ -1,0 +1,61 @@
+{
+	"ID": "nexus.21",
+	"Name": "Cornelia Sans font",
+	"Author": "Alice Grimaude",
+	"AuthorLink": "",
+	"ReleaseDate": "Sep 1, 2021",
+	"Category": "Fonts",
+	"Description": "This is a pixel font attempting to recreate the dialogue text font from Final Fantasy Origins on PS1.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasypixelremaster/mods/21",
+	"Version": "v5",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/21/21-1630519967-343929915.jpeg"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 21
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "Cornelia Sans",
+			"Version": "v5",
+			"Nexus": {
+				"FileID": 167,
+				"FileName": "Cornelia Sans-21-v5-1647701480.rar"
+			}
+		}
+	],
+	"DonationLink": [
+		{
+			"Name": "PayPal via Nexus",
+			"Link": "https://www.nexusmods.com/Core/Libs/Common/Widgets/PayPalPopUp?user=4742096"
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF1PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Cornelia Sans",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY_Data",
+					"To": "FINAL FANTASY_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

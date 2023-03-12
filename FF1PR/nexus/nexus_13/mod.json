@@ -49,7 +49,7 @@
 			"Dir": [
 				{
 					"From": "StandaloneWindows64",
-					"To": "FINAL FANTASY_Data/StreamingAssets/aa/",
+					"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64",
 					"Recursive": true
 				}
 			]

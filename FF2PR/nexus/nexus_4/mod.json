@@ -1,25 +1,25 @@
 {
-	"ID": "nexus.13",
-	"Name": "FF Record Keeper Character Sprites",
+	"ID": "nexus.4",
+	"Name": "GBA Overworld Sprites",
 	"Author": "metalliguyAU",
 	"AuthorLink": "",
 	"ReleaseDate": "Aug 15, 2021",
 	"Category": "Player/NPC Sprite",
-	"Description": "Replaces all classes and overworld sprites with Record Keeper sprites!",
+	"Description": "Replaces playable character overworld sprites with the ones from the GBA version!",
 	"ReleaseNotes": "",
-	"Link": "https://www.nexusmods.com/finalfantasypixelremaster/mods/13",
+	"Link": "https://www.nexusmods.com/finalfantasy2pixelremaster/mods/4",
 	"Version": "1.0",
 	"InstallType": "Move",
 	"Previews": [
 		{
-			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/13/13-1629009981-1993616804.gif"
+			"Url": "https://staticdelivery.nexusmods.com/mods/3958/images/4/4-1629012387-1397496496.png"
 		}
 	],
 	"ModKind": {
 		"Kinds": [
 			"Nexus"
 		],
-		"NexusID": 13
+		"NexusID": 4
 	},
 	"Compatibility": {
 		"Require": [
@@ -30,26 +30,26 @@
 	},
 	"Downloadable": [
 		{
-			"Name": "FFI FFRK Sprites",
+			"Name": "GBA Overworld Sprites",
 			"Version": "1.0",
 			"Nexus": {
-				"FileID": 29,
-				"FileName": "FFI FFRK Sprites-13-1-0-1629010230.zip"
+				"FileID": 5,
+				"FileName": "GBA Overworld Sprites-4-1-0-1629012569.rar"
 			}
 		}
 	],
 	"Games": [
 		{
-			"Name": "FF1PR"
+			"Name": "FF2PR"
 		}
 	],
 	"AlwaysDownload": [
 		{
-			"DownloadName": "FFI FFRK Sprites",
+			"DownloadName": "GBA Overworld Sprites",
 			"Dir": [
 				{
-					"From": "StandaloneWindows64",
-					"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64",
+					"From": "FINAL FANTASY II_Data",
+					"To": "FINAL FANTASY II_Data",
 					"Recursive": true
 				}
 			]

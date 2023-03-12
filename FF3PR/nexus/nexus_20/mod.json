@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.20",
+	"Name": "Jeff's UI - FF3 PR",
+	"Author": "deleted124635168",
+	"AuthorLink": "",
+	"ReleaseDate": "Sep 19, 2021",
+	"Category": "UI: General",
+	"Description": "New UI for Final Fantasy PR games (see screenshots).",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy3pixelremaster/mods/20",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3942/images/20/20-1632077405-144602813.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 20
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "Jeff's UI - FF3 PR",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 46,
+				"FileName": "Jeff's UI - FF3 PR-20-1-0-1632077485.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF3PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Jeff's UI - FF3 PR",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY III_Data",
+					"To": "FINAL FANTASY III_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

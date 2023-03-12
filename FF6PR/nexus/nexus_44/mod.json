@@ -1,0 +1,272 @@
+{
+	"ID": "nexus.44",
+	"Name": "Final Fantasy VI Pixel Keeper (FF Record Keeper Sprites)",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "May 1, 2022",
+	"Category": "Player/NPC Sprite",
+	"Description": "This mod replaces the playable characters and NPCs with modified or custom SNES / Record Keeper sprites.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/44",
+	"Version": "1.42",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/44/44-1651426653-1607280362.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/44/44-1657220032-1633566283.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/44/44-1651430144-1273052515.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/44/44-1657457080-1752917438.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/44/44-1657208658-761665792.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/44/44-1651267991-911020488.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/44/44-1651428371-1167847090.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/44/44-1651269809-1033004763.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/44/44-1657219431-464025459.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/44/44-1651332901-584593457.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 44
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "FINAL FANTASY VI Pixel Keeper - Legacy Portraits",
+			"Version": "1.4",
+			"Nexus": {
+				"FileID": 245,
+				"FileName": "FINAL FANTASY VI Pixel Keeper - Legacy Portraits-44-1-4-1657131910.rar"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "FINAL FANTASY VI Pixel Keeper - Alt. Sprites",
+			"Version": "1.4",
+			"Nexus": {
+				"FileID": 248,
+				"FileName": "FINAL FANTASY VI Pixel Keeper - Alt. Sprites-44-1-4-1657208594.rar"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "FINAL FANTASY VI Pixel Keeper - Legacy Portraits (Alt. Sprites)",
+			"Version": "1.4",
+			"Nexus": {
+				"FileID": 249,
+				"FileName": "FINAL FANTASY VI Pixel Keeper - Legacy Portraits (Alt. Sprites)-44-1-4-1657208630.rar"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "Final Fantasy VI Pixel Keeper",
+			"Version": "1.42",
+			"Nexus": {
+				"FileID": 259,
+				"FileName": "Final Fantasy VI Pixel Keeper-44-1-42-1657457276.rar"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Install Type",
+			"Description": "",
+			"Preview": {},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "Sprites and Portraits",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": ""
+					},
+					"NextConfigurationName": "Sprites and Portraits"
+				},
+				{
+					"Name": "Sprites only",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": ""
+					},
+					"NextConfigurationName": "Sprites"
+				},
+				{
+					"Name": "Portraits only",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": ""
+					},
+					"NextConfigurationName": "Portraits"
+				}
+			]
+		},
+		{
+			"Name": "Sprites and Portraits",
+			"Description": "",
+			"Preview": {},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Pixel Keeper",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/44/44-1651426653-1607280362.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Final Fantasy VI Pixel Keeper",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Portraits"
+				},
+				{
+					"Name": "Alt. Sprites",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/44/44-1657220032-1633566283.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FINAL FANTASY VI Pixel Keeper - Alt. Sprites",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Portraits"
+				}
+			]
+		},
+		{
+			"Name": "Portraits",
+			"Description": "",
+			"Preview": {},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Pixel Keeper",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/44/44-1657457080-1752917438.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FINAL FANTASY VI Pixel Keeper - Legacy Portraits",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Alt. Sprites",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/44/44-1657208658-761665792.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FINAL FANTASY VI Pixel Keeper - Legacy Portraits (Alt. Sprites)",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"Name": "Sprites",
+			"Description": "",
+			"Preview": {},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Pixel Keeper",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/44/44-1651426653-1607280362.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Final Fantasy VI Pixel Keeper",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Alt. Sprites",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/44/44-1657220032-1633566283.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "FINAL FANTASY VI Pixel Keeper - Alt. Sprites",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

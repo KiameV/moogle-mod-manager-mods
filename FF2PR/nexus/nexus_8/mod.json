@@ -1,25 +1,25 @@
 {
-	"ID": "nexus.13",
-	"Name": "FF Record Keeper Character Sprites",
+	"ID": "nexus.8",
+	"Name": "FFVI Battle Damage Numbers",
 	"Author": "metalliguyAU",
 	"AuthorLink": "",
 	"ReleaseDate": "Aug 15, 2021",
-	"Category": "Player/NPC Sprite",
-	"Description": "Replaces all classes and overworld sprites with Record Keeper sprites!",
+	"Category": "Battle Scene",
+	"Description": "Transforms the damage and heal indicators in battle to the FFVI style ones!",
 	"ReleaseNotes": "",
-	"Link": "https://www.nexusmods.com/finalfantasypixelremaster/mods/13",
+	"Link": "https://www.nexusmods.com/finalfantasy2pixelremaster/mods/8",
 	"Version": "1.0",
 	"InstallType": "Move",
 	"Previews": [
 		{
-			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/13/13-1629009981-1993616804.gif"
+			"Url": "https://staticdelivery.nexusmods.com/mods/3958/images/8/8-1629019539-1006321813.png"
 		}
 	],
 	"ModKind": {
 		"Kinds": [
 			"Nexus"
 		],
-		"NexusID": 13
+		"NexusID": 8
 	},
 	"Compatibility": {
 		"Require": [
@@ -30,26 +30,26 @@
 	},
 	"Downloadable": [
 		{
-			"Name": "FFI FFRK Sprites",
+			"Name": "FFI FFVI Battle Numbers",
 			"Version": "1.0",
 			"Nexus": {
-				"FileID": 29,
-				"FileName": "FFI FFRK Sprites-13-1-0-1629010230.zip"
+				"FileID": 9,
+				"FileName": "FFI FFVI Battle Numbers-8-1-0-1629019655.rar"
 			}
 		}
 	],
 	"Games": [
 		{
-			"Name": "FF1PR"
+			"Name": "FF2PR"
 		}
 	],
 	"AlwaysDownload": [
 		{
-			"DownloadName": "FFI FFRK Sprites",
+			"DownloadName": "FFI FFVI Battle Numbers",
 			"Dir": [
 				{
 					"From": "StandaloneWindows64",
-					"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64",
+					"To": "FINAL FANTASY II_Data/StreamingAssets/aa/",
 					"Recursive": true
 				}
 			]

@@ -48,9 +48,9 @@
 			"DownloadName": "Cornelia Sans",
 			"Dir": [
 				{
-					"From": "FINAL FANTASY_Data",
-					"To": "FINAL FANTASY_Data",
-					"Recursive": true
+					"From": ".",
+					"To": "FINAL FANTASY_Data/StreamingAssets",
+					"Recursive": false
 				}
 			]
 		}

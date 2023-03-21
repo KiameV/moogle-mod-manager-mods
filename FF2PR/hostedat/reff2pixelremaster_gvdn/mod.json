@@ -12,7 +12,7 @@
 	"InstallType": "Move",
 	"Previews": [
 		{
-			"Url": "hhttps://cdn.discordapp.com/attachments/866169152728858634/1087724067500601424/thumbnail2.png"
+			"Url": "https://cdn.discordapp.com/attachments/866169152728858634/1087724067500601424/thumbnail2.png"
 		}
 	],
 	"ModKind": {
@@ -27,7 +27,7 @@
 			"Version": "1.2",
 			"Hosted": {
 				"Source": [
-					"hhttps://cdn.discordapp.com/attachments/866169152728858634/1087724617491292170/Re_FF2_PixelRemaster_ver.1.2.zip"
+					"https://cdn.discordapp.com/attachments/866169152728858634/1087724617491292170/Re_FF2_PixelRemaster_ver.1.2.zip"
 				]
 			}
 		}

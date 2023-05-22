@@ -57,7 +57,7 @@
 			"Name": "Sprite Kind",
 			"Description": "",
 			"Preview": {},
-			"Root": false,
+			"Root": true,
 			"Choice": [
 				{
 					"Name": "GBA",

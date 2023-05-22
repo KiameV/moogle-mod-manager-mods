@@ -1,0 +1,65 @@
+{
+	"ID": "nexus.43",
+	"Name": "Darkened Tiles Plus",
+	"Author": "Triforce141",
+	"AuthorLink": "",
+	"ReleaseDate": "Oct 22, 2022",
+	"Category": "Tile Set",
+	"Description": "Darkened tilesets with restored doors and stairs",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy2pixelremaster/mods/43",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3958/images/43/43-1666407386-1754384378.jpeg"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 43
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			},
+			{
+				"ModID": "magicite.silvris"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "DarkenedTilesPlus",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 116,
+				"FileName": "DarkenedTilesPlus-43-1-0-1666407285.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF2PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "DarkenedTilesPlus",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY II_Data",
+					"To": "FINAL FANTASY II_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

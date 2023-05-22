@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.6",
+	"Name": "FFI PR Dark Cloud for Blinded Status",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Aug 10, 2021",
+	"Category": "Battle Scene",
+	"Description": "Replaces the sunglasses of the blind status.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasypixelremaster/mods/6",
+	"Version": "1.1",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/6/6-1628624411-1358195623.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 6
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "FFI PR Dark Cloud for Blinded Status",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 230,
+				"FileName": "FFI PR Dark Cloud for Blinded Status-6-1-1-1664998077.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF1PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFI PR Dark Cloud for Blinded Status",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY_Data",
+					"To": "FINAL FANTASY_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

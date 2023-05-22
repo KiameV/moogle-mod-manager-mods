@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.23",
+	"Name": "Final Fantasy IV - An Old Translation Anew",
+	"Author": "Unorigino",
+	"AuthorLink": "",
+	"ReleaseDate": "Sep 20, 2021",
+	"Category": "Script/Text",
+	"Description": "What if Tom Slattery faithfully translated the Japanese SNES script into English? An overhaul of the game script using a modified version of the DS script, edited to resemble a DS-style translation of the SNES script, which differs from the DS script in many ways. Additionally, items and spells use DS terminology and updated descriptions.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy4pixelremaster/mods/23",
+	"Version": "1.04",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4022/images/23/23-1632173056-454880738.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 23
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "FF4 - An Old Translation Anew",
+			"Version": "1.04",
+			"Nexus": {
+				"FileID": 97,
+				"FileName": "FF4 - An Old Translation Anew-23-1-04-1635209164.7z"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF4PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FF4 - An Old Translation Anew",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY IV_Data",
+					"To": "FINAL FANTASY IV_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

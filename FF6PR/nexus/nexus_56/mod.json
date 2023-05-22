@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.56",
+	"Name": "Final Fantasy GBA Custom Font",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Jun 6, 2022",
+	"Category": "Fonts",
+	"Description": "A custom font based on the monospaced version of the font used by the GBA ports compatible with the 6 Pixel Remaster games.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/56",
+	"Version": "1.3",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/56/56-1654544905-594139551.png"
+	},
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 56
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "Final Fantasy GBA Custom Font",
+			"Version": "1.3",
+			"Nexus": {
+				"FileID": 254,
+				"FileName": "Final Fantasy GBA Custom Font-56-1-3-1657377852.zip"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Final Fantasy GBA Custom Font",
+			"Dir": [
+				{
+					"From": ".",
+					"To": "FINAL FANTASY VI_Data/StreamingAssets",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

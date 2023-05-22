@@ -1,0 +1,130 @@
+{
+	"ID": "nexus.31",
+	"Name": "Embedded Speaker Frame Mod",
+	"Author": "Lopsho",
+	"AuthorLink": "",
+	"ReleaseDate": "Mar 19, 2022",
+	"Category": "UI: General",
+	"Description": "Makes speaker frame look like it's a part of the main message frame. \n___\n**Current issues:**\n1. In scenes with invisible message box speaker frame will still be visible. It has the same behavior as the original, but since these frames are essentially a hacky solution, it may not look too appealing\n2. In battles, if someone's message box is on top of the screen (bosses, for example), it will look like this\n\nThis issue is partly fixable by disabling speaker frames in these exact scenarios, but it does require a thorough ﻿playthrough to fix every single one of these instances.\n\nCurrently available \"fix\" is to use Flat version of metalliguyAU's SNES UI, which will look the best in these scenarios.\n___",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/31",
+	"Version": "1.0",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/31/31-1647719423-1005745286.png"
+	},
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 31
+	},
+	"Compatibility": {
+		"Require": [],
+		"Forbid": [
+			{
+				"ModID": "nexus.6"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "Embedded Speaker Frame Mod",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 94,
+				"FileName": "Embedded Speaker Frame Mod-31-1-0-1647719921.zip"
+			},
+			"DownloadedLoc": "C:\\Users\\t\\Workspace\\moogle-mod-manager\\bin\\downloads\\VI\\31\\10\\Embedded Speaker Frame Mod-31-1-0-1647719921.zip"
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Style",
+			"Description": "",
+			"Preview": {
+				"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/31/31-1647719423-1005745286.png"
+			},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "Default UI",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/31/31-1647719436-610057139.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Embedded Speaker Frame Mod",
+						"Dir": [
+							{
+								"From": "./Original",
+								"To": ".",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Faospark's Darker UI",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/31/31-1647719454-246686120.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Embedded Speaker Frame Mod",
+						"Dir": [
+							{
+								"From": "./faospark's Darker UI",
+								"To": ".",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "MetalliguyAU's SNES Flat",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/31/31-1647719486-2122133783.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Embedded Speaker Frame Mod",
+						"Dir": [
+							{
+								"From": "./metalliguyAU's SNES UI/Flat",
+								"To": ".",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "MetalliguyAU's SNES Gradient",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/31/31-1647719504-84158419.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Embedded Speaker Frame Mod",
+						"Dir": [
+							{
+								"From": "./metalliguyAU's SNES UI/Gradient",
+								"To": ".",
+								"Recursive": true
+							}
+						]
+					}
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

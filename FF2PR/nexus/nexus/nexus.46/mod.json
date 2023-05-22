@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.46",
+	"Name": "Dragon Quest Styled UI Icons",
+	"Author": "ProtomanZxAdvent CyggdrasilGaming",
+	"AuthorLink": "",
+	"ReleaseDate": "Dec 6, 2022",
+	"Category": "",
+	"Description": "A mod that changes the UI icons and colors to the Dragon Quest style while staying in the FF PR style",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy2pixelremaster/mods/46",
+	"Version": "1.00",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3958/images/46/46-1670321239-978975705.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 46
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "Dragon Quest Styled UI Icons",
+			"Version": "1.00",
+			"Nexus": {
+				"FileID": 120,
+				"FileName": "Dragon Quest Styled UI Icons-46-1-00-1670321509.7z"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF2PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Dragon Quest Styled UI Icons",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY II_Data",
+					"To": "FINAL FANTASY II_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

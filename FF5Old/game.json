@@ -1,0 +1,37 @@
+{
+  "id": "FF5Old",
+  "name": "Final Fantasy V OLD",
+  "steamID": "382890",
+  "baseDir": "FINAL FANTASY V",
+  "authorHintDir": "FF5 OLD",
+  "remote": {
+    "nexus": {
+      "id": 1121,
+      "path": "finalfantasy5"
+    }
+  },
+  "defaultInstallType": "Move",
+  "versions": [
+    {
+      "version": "1.0.1"
+    }
+  ],
+  "categories": [
+	"Battle Scene",
+	"Enemy Sprite",
+	"Game Overhauls",
+	"Gameplay",
+	"General",
+	"Fonts",
+	"Player/NPC Sprite",
+	"Script/Text",
+	"Soundtrack",
+	"Tile Set",
+	"Title Screen",
+	"UI: General",
+	"UI: Menu Portraits",
+	"UI: Textbox Portraits",
+	"UI: Window Frames",
+	"Utility"
+  ]
+}

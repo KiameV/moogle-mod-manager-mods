@@ -1,0 +1,69 @@
+{
+	"ID": "nexus.16",
+	"Name": "Amano Portraits Mod",
+	"Author": "Romangelo",
+	"AuthorLink": "",
+	"ReleaseDate": "Jun 21, 2022",
+	"Category": "UI: Textbox Portraits",
+	"Description": "This mod contains 14 character portraits for the 14 major characters in Final Fantasy V, based on the original portraits by Yoshitaka Amano but now with hair color and cloth color similar to the in-game sprites.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy5/mods/16",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/16/16-1655790674-1260631535.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 16
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "FFV Portraits Mod",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 159,
+				"FileName": "FFV Portraits Mod-16-1-0-1655790923.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF5Old"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "folder structure",
+			"Description": "",
+			"Preview": {},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFV Portraits Mod",
+						"Dir": [
+							{
+								"From": "FFV Steam Portrait Mod/resources",
+								"To": "resources",
+								"Recursive": true
+							}
+						]
+					}
+				}
+			],
+			"ConfigSelectionType": "Auto"
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

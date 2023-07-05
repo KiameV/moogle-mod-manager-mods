@@ -1,0 +1,73 @@
+{
+	"ID": "nexus.7",
+	"Name": "FFV PSP-Style Battle Sprites",
+	"Author": "MtFujiInMyPants",
+	"AuthorLink": "",
+	"ReleaseDate": "Sep 16, 2021",
+	"Category": "Player/NPC Sprite",
+	"Description": "This mod replaces the battle sprites and overworld sprites of the playable characters with versions modeled after the PSP release of FFIV: The Complete Collection.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy5/mods/7",
+	"Version": "1.2",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/7/7-1631755764-1432628113.jpeg"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 7
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "FFV PSP-Style Battle Sprites",
+			"Version": "1.2",
+			"Nexus": {
+				"FileID": 150,
+				"FileName": "FFV PSP-Style Battle Sprites-7-1-2-1631756005.zip"
+			}
+		},
+		{
+			"Name": "Npc Resprite - ver 0.2a",
+			"Version": "0.2a",
+			"Nexus": {
+				"FileID": 161,
+				"FileName": "Npc Resprite - ver 0.2a-7-0-2a-1676682832.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF5Old"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFV PSP-Style Battle Sprites",
+			"Dir": [
+				{
+					"From": "",
+					"To": "resources",
+					"Recursive": false
+				}
+			]
+		},
+		{
+			"DownloadName": "Npc Resprite - ver 0.2a",
+			"Dir": [
+				{
+					"From": "",
+					"To": "resources",
+					"Recursive": false
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

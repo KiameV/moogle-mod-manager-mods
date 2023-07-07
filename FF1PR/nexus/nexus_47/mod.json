@@ -1,0 +1,77 @@
+{
+	"ID": "nexus.47",
+	"Name": "FFPR Visual Revamp",
+	"Author": "Gravrain",
+	"AuthorLink": "",
+	"ReleaseDate": "Mar 23, 2022",
+	"Category": "Game Overhauls",
+	"Description": "Dissatisfied with the visuals of the Final Fantasy Pixel Remaster, I gave the game a complete graphical makeover, replacing player sprites, enemy sprites, NPC sprites, battle backgrounds, tilesets, and more.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasypixelremaster/mods/47",
+	"Version": "2.1",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/47/47-1672633245-1380399207.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 47
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "magicite.silvris"
+			},
+			{
+				"ModID": "memoria.albeoris"
+			},
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "FFPR Visual Revamp v2.1",
+			"Version": "2.1",
+			"Nexus": {
+				"FileID": 241,
+				"FileName": "FFPR Visual Revamp v2.1-47-2-1-1676009252.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF1PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFPR Visual Revamp v2.1",
+			"Dir": [
+				{
+					"From": "Step 4 - Bundles/Battle backgrounds/",
+					"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/",
+					"Recursive": true
+				},
+				{
+					"From": "Step 4 - Bundles/Miscellaneous",
+					"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64",
+					"Recursive": true
+				},
+				{
+					"From": "Step 3 - Magicite assets",
+					"To": "FINAL FANTASY_DATA/StreamingAssets/Magicite",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

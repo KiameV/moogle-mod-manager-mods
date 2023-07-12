@@ -5,7 +5,7 @@
 	"AuthorLink": "",
 	"ReleaseDate": "Sep 16, 2021",
 	"Category": "Player/NPC Sprite",
-	"Description": "This mod replaces the battle sprites and overworld sprites of the playable characters with versions modeled after the PSP release of FFIV: The Complete Collection.",
+	"Description": "\nThis mod replaces the battle sprites and overworld sprites of the playable characters with versions modeled after the PSP release of FFIV: The Complete Collection.\n\n.\n\nI've been working on this mod for about 5 years off and on. And of course they delisted the game from Steam and announced the Pixel Remaster just as I finished it :-/ \n\n.\n\nIf anyone is interested in reading about its history, here's the mod page from Steam: https://steamcommunity.com/groups/ff-modding/discussions/9/343786746014121604/\n\n.\n\nI've also got an imgur gallery of all the sprites here: https://imgur.com/a/tzFQ5 and a video highlighting the overworld sprites in action here: https://youtu.be/k-p-yPGSBrM \n.\n\nThis mod looks best when played in the game's native resolution, 640x384 (Thanks to Saftle for discovering that) or 1280x768 and then upscaled using a lossless scaler. I'm using Magpie which is free.\n\n",
 	"ReleaseNotes": "",
 	"Link": "https://www.nexusmods.com/finalfantasy5/mods/7",
 	"Version": "1.2",
@@ -13,6 +13,33 @@
 	"Previews": [
 		{
 			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/7/7-1631755764-1432628113.jpeg"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/7/7-1631755771-1986566724.jpeg"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/7/7-1632613639-633814039.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/7/7-1632613662-1884880907.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/7/7-1632613713-204424826.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/7/7-1632613722-1443512164.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/7/7-1632613737-404027392.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/7/7-1632613746-1594716364.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/7/7-1632613766-1073654260.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/7/7-1632613776-841812756.png"
 		}
 	],
 	"ModKind": {
@@ -50,7 +77,7 @@
 			"DownloadName": "FFV PSP-Style Battle Sprites",
 			"Dir": [
 				{
-					"From": "",
+					"From": ".",
 					"To": "resources",
 					"Recursive": false
 				}
@@ -60,7 +87,7 @@
 			"DownloadName": "Npc Resprite - ver 0.2a",
 			"Dir": [
 				{
-					"From": "",
+					"From": ".",
 					"To": "resources",
 					"Recursive": false
 				}

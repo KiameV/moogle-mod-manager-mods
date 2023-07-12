@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.56",
+	"Name": "SNES Soundtrack",
+	"Author": "Fugsnarf",
+	"AuthorLink": "",
+	"ReleaseDate": "Nov 20, 2022",
+	"Category": "Soundtrack",
+	"Description": "Switch the soundtrack to the SNES version.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy4pixelremaster/mods/56",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4022/images/56/56-1668969442-1633161320.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 56
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "SNES Soundtrack",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 196,
+				"FileName": "SNES Soundtrack-56-1-0-1668969601.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF4PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "SNES Soundtrack",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY IV_Data",
+					"To": "FINAL FANTASY IV_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

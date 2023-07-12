@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.18",
+	"Name": "Retranslattery'd",
+	"Author": "DefinitiveDubs",
+	"AuthorLink": "",
+	"ReleaseDate": "Mar 7, 2022",
+	"Category": "Script/Text",
+	"Description": "This mod inserts the localization from the 3D remake of Final Fantasy IV (by Tom Slattery, hence the name) into FFIV Pixel Remaster. This includes all dialogue, locations, spells, equipment, monsters, and descriptions. Every line has been ported by hand one-by-one.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy4pixelremaster/mods/18",
+	"Version": "1.1a",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4022/images/18/18-1646612502-1727629656.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 18
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "FFIV PR - Retranslattery'd",
+			"Version": "1.1a",
+			"Nexus": {
+				"FileID": 135,
+				"FileName": "FFIV PR - Retranslattery'd-18-1-1a-1646609269.7z"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF4PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFIV PR - Retranslattery'd",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY IV_Data",
+					"To": "FINAL FANTASY IV_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

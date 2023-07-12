@@ -1,0 +1,69 @@
+{
+	"ID": "nexus.25",
+	"Name": "Celes Opera dress CG",
+	"Author": "piano221",
+	"AuthorLink": "",
+	"ReleaseDate": "Mar 9, 2022",
+	"Category": "Player/NPC Sprite",
+	"Description": "Replace Celes Opera dress for her CG version on Playstation .",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/25",
+	"Version": "1.1",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/25/25-1646815067-1223717427.jpeg"
+	},
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 25
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "Celes Opera Dress CG",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 71,
+				"FileName": "Celes Opera Dress CG-25-1-1-1646815166.7z"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Celes Opera Dress CG",
+			"File": [
+				{
+					"From": "ff6_opera_opera_event_assets_all_986820fc3c672c10666249a216d6595c.bundle",
+					"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/ff6_opera_opera_event_assets_all_986820fc3c672c10666249a216d6595c.bundle"
+				},
+				{
+					"From": "mo_ff6_n039_c00_assets_all_c683108b452c7a73a6971c7d3c92fb5e.bundle",
+					"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff6_n039_c00_assets_all_c683108b452c7a73a6971c7d3c92fb5e.bundle"
+				},
+				{
+					"From": "mo_ff6_n039_c01_assets_all_93f2687ed22144b7e17c7139d635bcee.bundle",
+					"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff6_n039_c01_assets_all_93f2687ed22144b7e17c7139d635bcee.bundle"
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

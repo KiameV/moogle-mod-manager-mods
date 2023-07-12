@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.1",
+	"Name": "NeonOnionKnight's Replacers - Onion Knights",
+	"Author": "NeonOnionKnight",
+	"AuthorLink": "",
+	"ReleaseDate": "Aug 10, 2021",
+	"Category": "Player/NPC Sprite",
+	"Description": "This mod replaces sprite assets in Final Fantasy 3: Pixel Remaster with custom sprites or sprites from Record Keeper,  in attempt to address hit-and-miss design choices.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy3pixelremaster/mods/1",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3942/images/1/1-1628232756-1082198946.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 1
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "NeonOnionKnightsReplacers-OnionKnights",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 1,
+				"FileName": "NeonOnionKnightsReplacers-OnionKnights-1-1-0-1628233541.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF3PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "NeonOnionKnightsReplacers-OnionKnights",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY III_Data",
+					"To": "FINAL FANTASY III_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

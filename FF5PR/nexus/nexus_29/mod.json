@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.29",
+	"Name": "FFV PR Advance GBA OST Mod",
+	"Author": "AlterPayot",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 19, 2022",
+	"Category": "Soundtrack",
+	"Description": "Replaces the Pixel Remaster OST with GBA OST.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy5pixelremaster/mods/29",
+	"Version": "2.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/29/29-1650354216-233860199.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 29
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "FFV PR Advance GBA OST Mod v2.0",
+			"Version": "2.0",
+			"Nexus": {
+				"FileID": 109,
+				"FileName": "FFV PR Advance GBA OST Mod v2.0-29-2-0-1650356222.7z"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF5PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFV PR Advance GBA OST Mod v2.0",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY V_Data",
+					"To": "FINAL FANTASY V_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

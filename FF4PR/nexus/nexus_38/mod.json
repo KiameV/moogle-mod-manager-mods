@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.38",
+	"Name": "Shiryu's Custom Bestiary Mod (FFIV)",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Nov 6, 2021",
+	"Category": "Enemy Sprite",
+	"Description": "This mod recolors and reshades all the enemy sprites with the PSP colors and replaces some enemies with better-looking sprites and also adds shadows to the enemies that were missing one.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy4pixelremaster/mods/38",
+	"Version": "1.4",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4022/images/38/38-1636232715-1047597933.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 38
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "Shiryu's Custom Bestiary Mod (FFIV)",
+			"Version": "1.4",
+			"Nexus": {
+				"FileID": 179,
+				"FileName": "Shiryu's Custom Bestiary Mod (FFIV)-38-1-4-1659370069.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF4PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Shiryu's Custom Bestiary Mod (FFIV)",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY IV_Data",
+					"To": "FINAL FANTASY IV_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

@@ -1,0 +1,54 @@
+{
+	"ID": "nexus.28",
+	"Name": "Subtle Autobattle for FF1-5PR",
+	"Author": "KiddN7",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 13, 2022",
+	"Category": "Battle Scene",
+	"Description": "Hides the autobattle icon when it's not in use, and makes it more subtle when it is.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy5pixelremaster/mods/28",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/28/28-1649873192-841255720.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 28
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "Subtle Autobattle for FF1-5PR",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 107,
+				"FileName": "Subtle Autobattle for FF1-5PR-28-1-0-1649873243.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF5PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Subtle Autobattle for FF1-5PR",
+			"File": [
+				{
+					"From": "./Subtle_Autobattle/touch_serial_common_assets_all_0d6a73c9d1964a4e400e4a169ec0480e.bundle",
+					"To": "C:/Home/Games/Final Fantasy Pixel Remaster Collection/FF5/FINAL FANTASY V_Data/StreamingAssets/aa/StandaloneWindows64"
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

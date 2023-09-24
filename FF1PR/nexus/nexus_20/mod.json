@@ -1,0 +1,99 @@
+{
+	"ID": "nexus.20",
+	"Name": "Origins Normal Mode Rebalancing",
+	"Author": "randyrobbinsmusic",
+	"AuthorLink": "",
+	"ReleaseDate": "Nov 21, 2021",
+	"Category": "Gameplay",
+	"Description": "Full rebalancing mod to bring the game back inline with how the NES \u0026amp; PS1 versions played. If you remember FF1 being tougher than it currently is, this is the mod for you. Values, growth curve, leveling, prices, chest contents, AI rewrites, Fiends respawn, Peninsula of Power back, N\u0026amp;S River monsters, PS1 names, etc plus 3 Difficulty Levels!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasypixelremaster/mods/20",
+	"Version": "v.27",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/20/20-1637482265-1884854590.jpeg"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 20
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "Origins Mod v.27",
+			"Version": "v.27",
+			"Nexus": {
+				"FileID": 166,
+				"FileName": "Origins Mod v.27-20-v-27-1647280936.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF1PR"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Difficulty",
+			"Description": "",
+			"Preview": {},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "NES (Easy)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Origins Mod v.27",
+						"Dir": [
+							{
+								"From": "NES (Easy)",
+								"To": "FINAL FANTASY_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "PS1 (Normal)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Origins Mod v.27",
+						"Dir": [
+							{
+								"From": "PS1 (Normal)",
+								"To": "FINAL FANTASY_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Challenge (Hard)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Origins Mod v.27",
+						"Dir": [
+							{
+								"From": "Challenge (Hard)",
+								"To": "FINAL FANTASY_Data",
+								"Recursive": true
+							}
+						]
+					}
+				}
+			],
+			"ConfigSelectionType": "Auto"
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

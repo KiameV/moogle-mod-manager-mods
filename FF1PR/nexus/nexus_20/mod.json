@@ -21,7 +21,13 @@
 		],
 		"NexusID": 20
 	},
-	"Compatibility": {},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "memoria.albeoris"
+			}
+		]
+	},
 	"Downloadable": [
 		{
 			"Name": "Origins Mod v.27",

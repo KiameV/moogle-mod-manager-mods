@@ -1,0 +1,59 @@
+{
+	"ID": "bartzportraitdissidiaversion.taser9001",
+	"Name": "Bartz Portrait - Dissidia Version",
+	"Author": "Taser9001",
+	"AuthorLink": "",
+	"ReleaseDate": "Aug 15 2023",
+	"Category": "UI: Textbox Portraits",
+	"Description": "Merged together @HawkX's rescaled Bartz dialogue images to make one with brown hair and gold shoulder guards, just to be more accurate to the Dissidia version.",
+	"ReleaseNotes": "",
+	"Link": "https://cdn.discordapp.com/attachments/518331294858608650/1104284706951929907/face0_0.dat",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://media.discordapp.net/attachments/518331294858608650/1104284707321040936/image.png?width=2304\u0026height=1347"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"HostedAt"
+		]
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "face0_0",
+			"Version": "1.0",
+			"Hosted": {
+				"Source": [
+					"https://cdn.discordapp.com/attachments/518331294858608650/1104284706951929907/face0_0.dat"
+				]
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF5Old",
+			"Version": [
+				{
+					"version": ""
+				}
+			]
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "face0_0",
+			"File": [
+				{
+					"From": "face0_0.dat",
+					"To": "resources/face0_0.dat"
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

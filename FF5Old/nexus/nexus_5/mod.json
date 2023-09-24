@@ -1,0 +1,55 @@
+{
+	"ID": "nexus.5",
+	"Name": "Abyssal-TerraModFFV",
+	"Author": "ZennpaiSkoll",
+	"AuthorLink": "",
+	"ReleaseDate": "Aug 2, 2019",
+	"Category": "Player/NPC Sprite",
+	"Description": "A replacer mod for Bartz...\n\n.\n\nAbyssal-Terra\n\n.\n\nThis mod replaces the main character. All classes are custom Sprite reworks, hair color varies on class for unique aesthetic. Her awakened abyssal mode is the mime class, so I hope you like to run dual cast supermage. To try and make her fit in the story I changed the sprite used for Bartz as a kid to a little red head girl. You will see her in the towns. I recommend Dark Arts and Summoning or Time Magic because that would be fitting.\n\n.\n\nKnown Issues\n\n.\n\nEdit: I forgot to add the file that removed the running choco at the end cutsceen, my file was empty but thought it would be cool to somehow replace. In any case that file remains unchanged by this mod.\n\n.\n\nOne downside to this mod is it does not change the text file. Everyone in game calls you He, Him, Boy, and Son. Which is unimmersive. There is no passing off as a dude like Faris does while wearing a mini skirt... \n\nRandomly found certain rare events that would cut multiple frames up and combine them. I fixed this for the most part but you might still see minor displacement.\n\nLike other replacer mods that is was inspired by, Ailments do not show up. I.e Petrification, Poison, ect.\n\nLast I check this was unsolved.\n\nLet me know if you find any other issues.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy5/mods/5",
+	"Version": "0.3",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/5/5-1564711088-71299761.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 5
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "FFVM - Abyssal-Terra by Zennpai Skoll",
+			"Version": "0.3",
+			"Nexus": {
+				"FileID": 147,
+				"FileName": "FFVM - Abyssal-Terra by Zennpai Skoll-5-0-3-1564711857.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF5Old"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFVM - Abyssal-Terra by Zennpai Skoll",
+			"Dir": [
+				{
+					"From": "FF5 AbyssalTerra Mod by Zennpai",
+					"To": "resources",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

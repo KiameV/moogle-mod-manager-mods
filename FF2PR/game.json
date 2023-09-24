@@ -1,0 +1,41 @@
+{
+  "id": "FF2PR",
+  "name": "Final Fantasy II Pixel Remaster",
+  "steamID": "1173780",
+  "baseDir": "FINAL FANTASY II_Data",
+  "authorHintDir": "FF PR",
+  "remote": {
+    "nexus": {
+      "id": 3958,
+      "path": "finalfantasy2pixelremaster"
+    },
+    "curseforge": {
+      "id": 5001,
+      "path": "final-fantasy-ii"
+    }
+  },
+  "defaultInstallType": "Move",
+  "versions": [
+    {
+      "version": "1.0.4"
+    }
+  ],
+  "categories": [
+	"Battle Scene",
+	"Enemy Sprite",
+	"Game Overhauls",
+	"Gameplay",
+	"General",
+	"Fonts",
+	"Player/NPC Sprite",
+	"Script/Text",
+	"Soundtrack",
+	"Tile Set",
+	"Title Screen",
+	"UI: General",
+	"UI: Menu Portraits",
+	"UI: Textbox Portraits",
+	"UI: Window Frames",
+	"Utility"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.54",
+	"Name": "FFIV PR Advance GBA OST Mod",
+	"Author": "AlterPayot",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 19, 2022",
+	"Category": "Soundtrack",
+	"Description": "Replaces the Pixel Remaster OST with GBA OST.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy4pixelremaster/mods/54",
+	"Version": "2.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4022/images/54/54-1650358222-904468600.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 54
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "FFIV PR Advance GBA OST Mod v2.0",
+			"Version": "2.0",
+			"Nexus": {
+				"FileID": 165,
+				"FileName": "FFIV PR Advance GBA OST Mod v2.0-54-2-0-1650359216.7z"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF4PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFIV PR Advance GBA OST Mod v2.0",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY IV_Data",
+					"To": "FINAL FANTASY IV_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

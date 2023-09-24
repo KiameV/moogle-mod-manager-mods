@@ -1,0 +1,41 @@
+{
+  "id": "FF4PR",
+  "name": "Final Fantasy IV Pixel Remaster",
+  "steamID": "1173800",
+  "baseDir": "FINAL FANTASY IV_Data",
+  "authorHintDir": "FF PR",
+  "remote": {
+    "nexus": {
+      "id": 4022,
+      "path": "finalfantasy4pixelremaster"
+    },
+    "curseforge": {
+      "id": 4741,
+      "path": "final-fantasy-iv"
+    }
+  },
+  "defaultInstallType": "Move",
+  "versions": [
+    {
+      "version": "1.0.2"
+    }
+  ],
+  "categories": [
+	"Battle Scene",
+	"Enemy Sprite",
+	"Game Overhauls",
+	"Gameplay",
+	"General",
+	"Fonts",
+	"Player/NPC Sprite",
+	"Script/Text",
+	"Soundtrack",
+	"Tile Set",
+	"Title Screen",
+	"UI: General",
+	"UI: Menu Portraits",
+	"UI: Textbox Portraits",
+	"UI: Window Frames",
+	"Utility"
+  ]
+}

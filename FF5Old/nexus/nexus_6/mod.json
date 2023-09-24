@@ -1,0 +1,55 @@
+{
+	"ID": "nexus.6",
+	"Name": "Wolfkin Tales Pt One - Old Wolf Galuf",
+	"Author": "ZennpaiSkoll",
+	"AuthorLink": "",
+	"ReleaseDate": "Jun 20, 2021",
+	"Category": "Player/NPC Sprite",
+	"Description": "Old Wolf Galuf\n\nThis turns Galuf into an Old Wolfkin. His tail was cut off whatever that implies...\nHe has custom sprites for each class and sadly this includes his Dead Classes, those you couldn't use without cheats.\n\nKnown issues\n\nPossible minor clippings might be visible\nLike other replacer mods that is was inspired by, Ailments do not show up. I.e Petrification, Poison, ect.\n(Last I check this was unsolved.)\nLet me know if you find any other issues.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy5/mods/6",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/6/6-1624128109-1644597780.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 6
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "FFV Wolfkin Tales Pt One - Old Wolfkin Galuf by Zennpai",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 149,
+				"FileName": "FFV Wolfkin Tales Pt One - Old Wolfkin Galuf by Zennpai-6-1-0-1624153255.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF5Old"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFV Wolfkin Tales Pt One - Old Wolfkin Galuf by Zennpai",
+			"Dir": [
+				{
+					"From": "FF5 Wolfkin Tales Pt 1 - Old Wolfkin Galuf by Zennpai",
+					"To": "resources",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

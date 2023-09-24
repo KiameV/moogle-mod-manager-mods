@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.15",
+	"Name": "CozyUI - FF4 PR Edition",
+	"Author": "deleted124635168",
+	"AuthorLink": "",
+	"ReleaseDate": "Sep 14, 2021",
+	"Category": "UI: General",
+	"Description": "Clean, decluttered UI for Final Fantasy 4 PR. Classic Squaresoft Logo included.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy4pixelremaster/mods/15",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4022/images/15/15-1631577685-1292596613.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 15
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "CozyUI - FF4 PR Edition",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 22,
+				"FileName": "CozyUI - FF4 PR Edition-15-1-0-1631577780.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF4PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "CozyUI - FF4 PR Edition",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY IV_Data",
+					"To": "FINAL FANTASY IV_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

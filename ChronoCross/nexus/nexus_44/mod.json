@@ -1,0 +1,114 @@
+{
+	"ID": "nexus.44",
+	"Name": "Cursor in battle",
+	"Author": "1vierock",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 24, 2022",
+	"Category": "UI: General",
+	"Description": "For battle menu open with 7-zip \u0026#92;hd.dat\u0026#92;battle\u0026#92;battle\u0026#92;     4 ty to @faospark",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/chronocrosstheradicaldreamersedition/mods/44",
+	"Version": "1",
+	"InstallType": "MoveToArchive",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4420/images/44/44-1650821863-989380606.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 44
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "Cursor for battle replacement",
+			"Version": "1",
+			"Nexus": {
+				"FileID": 89,
+				"FileName": "Cursor for battle replacement-44-1-1650821923.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "ChronoCross"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Choose",
+			"Description": "",
+			"Preview": {},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "Blue",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Cursor for battle replacement",
+						"File": [
+							{
+								"From": "1/battle_11.png",
+								"To": "battle/battle/battle_11.png",
+								"ToArchive": "data/hd.dat"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Harle",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Cursor for battle replacement",
+						"File": [
+							{
+								"From": "2/battle_11.png",
+								"To": "battle/battle/battle_11.png",
+								"ToArchive": "data/hd.dat"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Final Fantasy",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Cursor for battle replacement",
+						"File": [
+							{
+								"From": "3/battle_11.png",
+								"To": "battle/battle/battle_11.png",
+								"ToArchive": "data/hd.dat"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Another Eden",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Cursor for battle replacement",
+						"File": [
+							{
+								"From": "4/battle_11.png",
+								"To": "battle/battle/battle_11.png",
+								"ToArchive": "data/hd.dat"
+							}
+						]
+					}
+				}
+			],
+			"ConfigSelectionType": "Radio"
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

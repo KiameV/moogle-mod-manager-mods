@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.41",
+	"Name": "Underworld Interior Tileset Overhaul",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Nov 22, 2021",
+	"Category": "Tile Set",
+	"Description": "This mod replaces the SNES tilesets of the Sylph Cave and Feymarch interiors with more cohesive looking ones.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy4pixelremaster/mods/41",
+	"Version": "1.1",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4022/images/41/41-1637612613-1191875964.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 41
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "Underworld Interior Tileset Overhaul",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 177,
+				"FileName": "Underworld Interior Tileset Overhaul-41-1-1-1659365642.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF4PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Underworld Interior Tileset Overhaul",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY IV_Data",
+					"To": "FINAL FANTASY IV_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.16",
+	"Name": "Total Madness",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Feb 28, 2022",
+	"Category": "Enemy Sprite",
+	"Description": "This mod replaces the sprite of Kefka, the final boss, with its Brave Exvius sprite",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/16",
+	"Version": "1.1",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/16/16-1646074891-633296110.png"
+	},
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 16
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "Total Madness",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 242,
+				"FileName": "Total Madness-16-1-1-1657051900.zip"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Total Madness",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY VI_Data",
+					"To": "FINAL FANTASY VI_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

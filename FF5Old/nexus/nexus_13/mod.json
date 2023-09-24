@@ -1,0 +1,55 @@
+{
+	"ID": "nexus.13",
+	"Name": "FFV Steam Pixel Remaster OST Mod",
+	"Author": "AlterPayot",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 3, 2022",
+	"Category": "Soundtrack",
+	"Description": "This mod replaces FFV Steam OST with FFV Pixel Remaster OST. Tracks are ripped from the game, lowered all track volume by 3dB, then converted to OGG format at 320kbps.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy5/mods/13",
+	"Version": "1.1",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/13/13-1649009221-1017439638.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 13
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "FFV Steam PR OST Mod v1.1",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 156,
+				"FileName": "FFV Steam PR OST Mod v1.1-13-1-1-1649009058.7z"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF5Old"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFV Steam PR OST Mod v1.1",
+			"Dir": [
+				{
+					"From": "resources",
+					"To": "resources",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

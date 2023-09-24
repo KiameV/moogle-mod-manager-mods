@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.18",
+	"Name": "Total Darkness",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Sep 6, 2021",
+	"Category": "Enemy Sprite",
+	"Description": "This mod replaces the sprite of the Cloud of Darkness, the final boss, with its Brave Exvius sprite.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy3pixelremaster/mods/18",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3942/images/18/18-1630950568-1262230723.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 18
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "Total Darkness",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 42,
+				"FileName": "Total Darkness-18-1-0-1630950711.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF3PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Total Darkness",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY III_Data",
+					"To": "FINAL FANTASY III_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

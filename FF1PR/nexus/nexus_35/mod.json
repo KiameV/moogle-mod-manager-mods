@@ -1,0 +1,65 @@
+{
+	"ID": "nexus.35",
+	"Name": "Accurate Princess Sarah",
+	"Author": "Fawfaw356",
+	"AuthorLink": "",
+	"ReleaseDate": "Oct 30, 2021",
+	"Category": "Player/NPC Sprite",
+	"Description": "Accurate Princess Sarah",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasypixelremaster/mods/35",
+	"Version": "1.1",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/35/35-1636987409-1695010102.jpeg"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 35
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "Accurate Princess Sarah (V1.1)",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 77,
+				"FileName": "Accurate Princess Sarah (V1.1)-35-1-1-1636987360.rar"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF1PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Accurate Princess Sarah (V1.1)",
+			"Dir": [
+				{
+					"From": "Accurate Princess Sarah (V1.1)/FINAL FANTASY_Data",
+					"To": "FINAL FANTASY_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

@@ -1,0 +1,54 @@
+{
+	"ID": "nexus.101",
+	"Name": "UnityPlayer",
+	"Author": "Enfyve",
+	"AuthorLink": "",
+	"ReleaseDate": "Sep 21, 2023",
+	"Category": "Utility",
+	"Description": "UnityPlayer DLL Bypasses CRC checks to load bundled mods",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/101",
+	"Version": "1.0.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/101/101-1695268811-487682978.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 101
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "UnityPlayerDLL",
+			"Version": "1.0.0",
+			"Nexus": {
+				"FileID": 341,
+				"FileName": "UnityPlayerDLL-101-1-0-0-1695268859.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "UnityPlayerDLL",
+			"File": [
+				{
+					"From": "C:/Users/hlim8/Downloads/UnityPlayerDLL-101-1-0-0-1695268859/UnityPlayer/UnityPlayer.dll",
+					"To": "UnityPlayer.dll"
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

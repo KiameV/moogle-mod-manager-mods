@@ -1,0 +1,182 @@
+{
+	"ID": "nexus.51",
+	"Name": "Menu Frame",
+	"Author": "1vierock",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 29, 2022",
+	"Category": "UI: General",
+	"Description": "New Frame for the menu French and ENglish only",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/chronocrosstheradicaldreamersedition/mods/51",
+	"Version": "1",
+	"InstallType": "MoveToArchive",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4420/images/51/51-1651235863-375012047.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 51
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "EquipIcon",
+			"Version": "1",
+			"Nexus": {
+				"FileID": 106,
+				"FileName": "EquipIcon-51-1-1651236087.rar"
+			}
+		},
+		{
+			"Name": "Handle",
+			"Version": "1",
+			"Nexus": {
+				"FileID": 107,
+				"FileName": "Handle-51-1-1651236123.rar"
+			}
+		},
+		{
+			"Name": "Tile",
+			"Version": "1",
+			"Nexus": {
+				"FileID": 108,
+				"FileName": "Tile-51-1-1651236223.rar"
+			}
+		},
+		{
+			"Name": "Missing frame for eng and french",
+			"Version": "1",
+			"Nexus": {
+				"FileID": 111,
+				"FileName": "Missing frame for eng and french-51-1-1651354060.rar"
+			}
+		},
+		{
+			"Name": "Frame french",
+			"Version": "1",
+			"Nexus": {
+				"FileID": 104,
+				"FileName": "Frame french-51-1-1651235995.rar"
+			}
+		},
+		{
+			"Name": "Frame English",
+			"Version": "1",
+			"Nexus": {
+				"FileID": 105,
+				"FileName": "Frame English-51-1-1651236035.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "ChronoCross"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Language",
+			"Description": "",
+			"Preview": {},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "Frame French",
+					"Description": "open HD.dat with 7-zip and paste  data\u0026#92;hd\u0026#92;menu\u0026#92;shapes",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Frame french",
+						"Dir": [
+							{
+								"From": "",
+								"To": "menu/shapes",
+								"Recursive": true,
+								"ToArchive": "data/hd.dat"
+							}
+						]
+					},
+					"NextConfigurationName": "Extra"
+				},
+				{
+					"Name": "Frame English",
+					"Description": "open HD.dat with 7-zip and paste  data\u0026#92;hd\u0026#92;menu\u0026#92;shapes",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Frame English",
+						"Dir": [
+							{
+								"From": "",
+								"To": "menu/shapes",
+								"Recursive": true,
+								"ToArchive": "data/hd.dat"
+							}
+						]
+					},
+					"NextConfigurationName": "Extra"
+				}
+			],
+			"ConfigSelectionType": "Radio"
+		},
+		{
+			"Name": "Extra",
+			"Description": "",
+			"Preview": {},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Equip Icon",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "EquipIcon",
+						"File": [
+							{
+								"From": "EquipIcon.png",
+								"To": "menu/menutim/EquipIcon.png",
+								"ToArchive": "data/hd.dat"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Handle",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Handle",
+						"File": [
+							{
+								"From": "handle.png",
+								"To": "menu/handle.png",
+								"ToArchive": "data/hd.dat"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Tile",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Tile",
+						"File": [
+							{
+								"From": "tile.tim",
+								"To": "map/etc/tile.tim",
+								"ToArchive": "data/hd.dat"
+							}
+						]
+					}
+				}
+			],
+			"ConfigSelectionType": "Multi"
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

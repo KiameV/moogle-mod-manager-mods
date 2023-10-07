@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.15",
+	"Name": "SNES Overworld Tileset",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Nov 20, 2021",
+	"Category": "Tile Set",
+	"Description": "Converts the Overworld Tileset to the SNES version!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy5pixelremaster/mods/15",
+	"Version": "1.3a",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/15/15-1637392257-994220163.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 15
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "FFVPR_SNES_Overworld_Tileset_metalliguy",
+			"Version": "1.3a",
+			"Nexus": {
+				"FileID": 122,
+				"FileName": "FFVPR_SNES_Overworld_Tileset_metalliguy-15-1-3a-1660741615.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF5PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFVPR_SNES_Overworld_Tileset_metalliguy",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY V_Data",
+					"To": "FINAL FANTASY V_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

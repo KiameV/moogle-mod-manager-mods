@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.31",
+	"Name": "SNES Soundtrack",
+	"Author": "Fugsnarf",
+	"AuthorLink": "",
+	"ReleaseDate": "Nov 20, 2022",
+	"Category": "Soundtrack",
+	"Description": "Change the soundtrack to that of the original Super Famicom release.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy5pixelremaster/mods/31",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/31/31-1668970529-626764426.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 31
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "SNES-SFC Soundtrack",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 134,
+				"FileName": "SNES-SFC Soundtrack-31-1-0-1668970811.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF5PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "SNES-SFC Soundtrack",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY V_Data",
+					"To": "FINAL FANTASY V_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

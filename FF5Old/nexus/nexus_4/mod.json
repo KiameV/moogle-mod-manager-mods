@@ -1,0 +1,67 @@
+{
+	"ID": "nexus.4",
+	"Name": "Galuf Missing Job Sprites",
+	"Author": "SwiftSails",
+	"AuthorLink": "",
+	"ReleaseDate": "Dec 19, 2018",
+	"Category": "Player/NPC Sprite",
+	"Description": "This mod provides custom-made sprites for Galuf for the following jobs: Necromancer, Oracle, Cannoneer, Gladiator, and Mime.\n\n-----------\n\nWarning: This description will contain spoilers for Final Fantasy V.\n\n-----------\n\nAs anyone who has played the game will know, there are five jobs that Galuf cannot normally access in the course of the game. This is due to another character taking his place. What this mod does is add in the missing sprites for those five jobs.\n\nTo actually use this mod, you will have to use another mod or save-file editor that allows you to enable these jobs early in the game.\n\nI, SwiftSails, am the sole author of this mod. It is free to use and distribute, but please provide a link back to this page in any associated ReadMe files.\n\nThis is the first mod I've actually finished, and I would greatly love feedback. Please endorse the mod if you like it, and please report any bugs that you experience.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy5/mods/4",
+	"Version": "1.0.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/4/4-1545189404-1838081630.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/4/4-1545189412-617604827.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/4/4-1545189417-1994832811.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/4/4-1545189423-1777708773.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/4/4-1545189430-495867274.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 4
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "Galuf Missing Job Sprites by SwiftSails",
+			"Version": "1.0.0",
+			"Nexus": {
+				"FileID": 146,
+				"FileName": "Galuf Missing Job Sprites by SwiftSails-4-1-0-0-1545190557.7z"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF5Old"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Galuf Missing Job Sprites by SwiftSails",
+			"Dir": [
+				{
+					"From": "",
+					"To": "resources",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.13",
+	"Name": "SNES Enemy Sprites",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Nov 18, 2021",
+	"Category": "Enemy Sprite",
+	"Description": "Restores the SNES enemy sprites with improved outlines and enhanced shadows!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy5pixelremaster/mods/13",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/13/13-1637234875-1160093633.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 13
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "FFV SNES Enemy Sprites",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 92,
+				"FileName": "FFV SNES Enemy Sprites-13-1-1-1646189173.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF5PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFV SNES Enemy Sprites",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY V_Data",
+					"To": "FINAL FANTASY V_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

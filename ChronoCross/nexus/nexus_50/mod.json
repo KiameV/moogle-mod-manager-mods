@@ -1,0 +1,56 @@
+{
+	"ID": "nexus.50",
+	"Name": "Icons State",
+	"Author": "1vierock",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 29, 2022",
+	"Category": "UI: General",
+	"Description": "just a retexture icons ingame",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/chronocrosstheradicaldreamersedition/mods/50",
+	"Version": "1",
+	"InstallType": "MoveToArchive",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4420/images/50/50-1651233369-16404729.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 50
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "Icons replacement",
+			"Version": "1",
+			"Nexus": {
+				"FileID": 103,
+				"FileName": "Icons replacement-50-1-1651233459.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "ChronoCross"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Icons replacement",
+			"Dir": [
+				{
+					"From": "",
+					"To": "menu/shapes",
+					"Recursive": true,
+					"ToArchive": "data/hd.dat"
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

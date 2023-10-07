@@ -1,0 +1,66 @@
+{
+	"ID": "reff2pixelremaster.gvdn",
+	"Name": "Re FF2 PixelRemaster",
+	"Author": "gvdn",
+	"AuthorLink": "",
+	"ReleaseDate": "Mar 21 2023",
+	"Category": "Player/NPC Sprite",
+	"Description": "**Alterations:**\n\n-All player character sprites (except Toad and Mini)\n\n-NPCs with unique names, almost all sprites\n\n-Barehanded attack graphics in battle scenes\n\n-All vehicle sprites (except for the flying dragon)\n\n-Animation settings for airship propeller speed, canoe behavior, etc.\n\n**Attention:**\n\nIt is recommended to use moogle-mod-manager.\n\n-It is possible to replace files without using \"moogle-mod-manager\". However, it is recommended to make a backup of the entire file in advance because of the many modifications and intricacies of the file.\n\n-Memoria works with or without Memoria. However, it is recommended to set \n\n  \"Import text resources: .png, .jpg, .tga\" to false.\n\n",
+	"ReleaseNotes": "**Nov 02 2022**\n\nver.1.0 release.\n\n\n**Nov 23 2022**\n\nVer.1.1 update:\n\nMaria's battle sprite was adjusted slightly.\n\n\n**Mar 21 2023**\n\nVer.1.2 update:\n\nLeon's battle sprite was adjusted slightly.",
+	"Link": "https://cdn.discordapp.com/attachments/866169152728858634/1087724617491292170/Re_FF2_PixelRemaster_ver.1.2.zip",
+	"Version": "1.2",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://cdn.discordapp.com/attachments/866169152728858634/1087724067500601424/thumbnail2.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"HostedAt"
+		]
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "Re_FF2_PixelRemaster_ver.1.2",
+			"Version": "1.2",
+			"Hosted": {
+				"Source": [
+					"https://cdn.discordapp.com/attachments/866169152728858634/1087724617491292170/Re_FF2_PixelRemaster_ver.1.2.zip"
+				]
+			}
+		}
+	],
+	"DonationLink": [
+		{
+			"Name": "ko-fi",
+			"Link": "https://ko-fi.com/gvdncoffee"
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF2PR",
+			"Version": [
+				{
+					"version": ""
+				}
+			]
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Re_FF2_PixelRemaster_ver.1.2",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY II_Data",
+					"To": "FINAL FANTASY II_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.48",
+	"Name": "Ukrainian localization for Final Fantasy II pixel remaster",
+	"Author": "eastdragonxy",
+	"AuthorLink": "",
+	"ReleaseDate": "Feb 18, 2023",
+	"Category": "Script/Text",
+	"Description": "Ukrainian text localization for Final Fantasy II pixel remaster",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy2pixelremaster/mods/48",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3958/images/48/48-1676715600-1062571081.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 48
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "FINAL FANTASY II_Data.zip",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 127,
+				"FileName": "FINAL FANTASY II_Data.zip-48-1-0-1676717061.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF2PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FINAL FANTASY II_Data.zip",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY II_Data",
+					"To": "FINAL FANTASY II_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

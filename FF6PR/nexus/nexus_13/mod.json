@@ -1,0 +1,100 @@
+{
+	"ID": "nexus.13",
+	"Name": "Siren SFC Restoration",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Feb 26, 2022",
+	"Category": "Enemy Sprite",
+	"Description": " This mod replaces the esper Siren sprite with the uncensored asset from the SFC version. ",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/13",
+	"Version": "1.1",
+	"InstallType": "Move",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/13/13-1645919014-713115112.png"
+	},
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 13
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "Uncensored Siren (Default sunglasses)",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 240,
+				"FileName": "Uncensored Siren (Default sunglasses)-13-1-1-1657050139.zip"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "Uncensored Siren (Mod Dark Cloud)",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 241,
+				"FileName": "Uncensored Siren (Mod Dark Cloud)-13-1-1-1657050164.zip"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Style",
+			"Description": "",
+			"Preview": {},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "Uncensored Siren",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Uncensored Siren (Default sunglasses)",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Uncensored Siren (Dark Cloud)",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Uncensored Siren (Mod Dark Cloud)",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

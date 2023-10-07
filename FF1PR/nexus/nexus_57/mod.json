@@ -1,0 +1,643 @@
+{
+	"ID": "nexus.57",
+	"Name": "Final Fantasy Pixel Remaster - Protagonist Sprites Overhaul (now with gender variations for versatility)",
+	"Author": "Justin",
+	"AuthorLink": "",
+	"ReleaseDate": "May 12, 2022",
+	"Category": "Player/NPC Sprite",
+	"Description": "This mod was simply meant as a fix for the upgraded jobs, but has now expanded into a lot more.\n\nThese sprites were all custom-made by myself. Enjoy!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasypixelremaster/mods/57",
+	"Version": "2.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/57/57-1662058603-1394117032.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/57/57-1662058798-1776717804.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/57/57-1662058798-1613752670.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 57
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "UpgradedJobsFix_v_2",
+			"Version": "2.0",
+			"Nexus": {
+				"FileID": 223,
+				"FileName": "UpgradedJobsFix_v_2-57-2-0-1662058458.zip"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF1PR"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Gender",
+			"Description": "",
+			"Preview": {
+				"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/57/57-1662058603-1394117032.png"
+			},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "All Male",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "UpgradedJobsFix_v_2",
+						"Dir": [
+							{
+								"From": "mod_v2/01_1_BattleSprites_M",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": false
+							},
+							{
+								"From": "mod_v2/02_1_OverworldSprites_M",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": false
+							}
+						]
+					}
+				},
+				{
+					"Name": "All Female",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "UpgradedJobsFix_v_2",
+						"Dir": [
+							{
+								"From": "mod_v2/01_2_BattleSprites_F",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": false
+							},
+							{
+								"From": "mod_v2/02_2_OverworldSprites_F",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64",
+								"Recursive": false
+							}
+						]
+					}
+				},
+				{
+					"Name": "Choose for each class",
+					"Description": "",
+					"Preview": {},
+					"NextConfigurationName": "Warrior"
+				}
+			]
+		},
+		{
+			"Name": "Warrior",
+			"Description": "",
+			"Preview": {
+				"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/57/57-1662058603-1394117032.png"
+			},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Male",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "UpgradedJobsFix_v_2",
+						"File": [
+							{
+								"From": "mod_v2/01_1_BattleSprites_M/bc_ff1_p001_assets_all_9eb0b7a375d5f10bc6322cafa6ce2faa.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/bc_ff1_p001_assets_all_9eb0b7a375d5f10bc6322cafa6ce2faa.bundle"
+							},
+							{
+								"From": "mod_v2/02_1_OverworldSprites_M/mo_ff1_p001_c00_assets_all_4c9f0ab3bf7be802483fc8fc41022690.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_p001_c00_assets_all_4c9f0ab3bf7be802483fc8fc41022690.bundle"
+							}
+						]
+					},
+					"NextConfigurationName": "Thief"
+				},
+				{
+					"Name": "Female",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "UpgradedJobsFix_v_2",
+						"File": [
+							{
+								"From": "mod_v2/01_2_BattleSprites_F/bc_ff1_p001_assets_all_9eb0b7a375d5f10bc6322cafa6ce2faa.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/bc_ff1_p001_assets_all_9eb0b7a375d5f10bc6322cafa6ce2faa.bundle"
+							},
+							{
+								"From": "mod_v2/02_2_OverworldSprites_F/mo_ff1_p001_c00_assets_all_4c9f0ab3bf7be802483fc8fc41022690.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_p001_c00_assets_all_4c9f0ab3bf7be802483fc8fc41022690.bundle"
+							}
+						]
+					},
+					"NextConfigurationName": "Thief"
+				}
+			]
+		},
+		{
+			"Name": "Thief",
+			"Description": "",
+			"Preview": {
+				"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/57/57-1662058603-1394117032.png"
+			},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Male",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "UpgradedJobsFix_v_2",
+						"File": [
+							{
+								"From": "mod_v2/01_1_BattleSprites_M/bc_ff1_p002_assets_all_4ed65de3e17649851d6e3e70cb5d9429.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/bc_ff1_p002_assets_all_4ed65de3e17649851d6e3e70cb5d9429.bundle"
+							},
+							{
+								"From": "mod_v2/02_1_OverworldSprites_M/mo_ff1_p002_c00_assets_all_d72f7d567916feb4e491a4929821880d.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_p002_c00_assets_all_d72f7d567916feb4e491a4929821880d.bundle"
+							}
+						]
+					},
+					"NextConfigurationName": "Monk"
+				},
+				{
+					"Name": "Female",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "UpgradedJobsFix_v_2",
+						"File": [
+							{
+								"From": "mod_v2/01_2_BattleSprites_F/bc_ff1_p002_assets_all_4ed65de3e17649851d6e3e70cb5d9429.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/bc_ff1_p002_assets_all_4ed65de3e17649851d6e3e70cb5d9429.bundle"
+							},
+							{
+								"From": "mod_v2/02_2_OverworldSprites_F/mo_ff1_p002_c00_assets_all_d72f7d567916feb4e491a4929821880d.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_p002_c00_assets_all_d72f7d567916feb4e491a4929821880d.bundle"
+							}
+						]
+					},
+					"NextConfigurationName": "Monk"
+				}
+			]
+		},
+		{
+			"Name": "Monk",
+			"Description": "",
+			"Preview": {
+				"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/57/57-1662058603-1394117032.png"
+			},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Male",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "UpgradedJobsFix_v_2",
+						"File": [
+							{
+								"From": "mod_v2/01_1_BattleSprites_M/bc_ff1_p003_assets_all_41e872e7f6c37160719f1efb3c11600e.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/bc_ff1_p003_assets_all_41e872e7f6c37160719f1efb3c11600e.bundle"
+							},
+							{
+								"From": "mod_v2/02_1_OverworldSprites_M/mo_ff1_p003_c00_assets_all_b7b0ecf83293155182df3719f583e8df.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_p003_c00_assets_all_b7b0ecf83293155182df3719f583e8df.bundle"
+							}
+						]
+					},
+					"NextConfigurationName": "Red Mage"
+				},
+				{
+					"Name": "Female",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "UpgradedJobsFix_v_2",
+						"File": [
+							{
+								"From": "mod_v2/01_2_BattleSprites_F/bc_ff1_p003_assets_all_41e872e7f6c37160719f1efb3c11600e.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/bc_ff1_p003_assets_all_41e872e7f6c37160719f1efb3c11600e.bundle"
+							},
+							{
+								"From": "mod_v2/02_2_OverworldSprites_F/mo_ff1_p003_c00_assets_all_b7b0ecf83293155182df3719f583e8df.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_p003_c00_assets_all_b7b0ecf83293155182df3719f583e8df.bundle"
+							}
+						]
+					},
+					"NextConfigurationName": "Red Mage"
+				}
+			]
+		},
+		{
+			"Name": "Red Mage",
+			"Description": "",
+			"Preview": {
+				"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/57/57-1662058603-1394117032.png"
+			},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Male",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "UpgradedJobsFix_v_2",
+						"File": [
+							{
+								"From": "mod_v2/01_1_BattleSprites_M/bc_ff1_p004_assets_all_98de2ce67b52361a879fa3de1d02e768.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/bc_ff1_p004_assets_all_98de2ce67b52361a879fa3de1d02e768.bundle"
+							},
+							{
+								"From": "mod_v2/02_1_OverworldSprites_M/mo_ff1_p004_c00_assets_all_cec51e1e817deacbe9d65145ee9c35c0.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_p004_c00_assets_all_cec51e1e817deacbe9d65145ee9c35c0.bundle"
+							}
+						]
+					},
+					"NextConfigurationName": "White Mage"
+				},
+				{
+					"Name": "Female",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "UpgradedJobsFix_v_2",
+						"File": [
+							{
+								"From": "mod_v2/01_2_BattleSprites_F/bc_ff1_p004_assets_all_98de2ce67b52361a879fa3de1d02e768.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/bc_ff1_p004_assets_all_98de2ce67b52361a879fa3de1d02e768.bundle"
+							},
+							{
+								"From": "mod_v2/02_2_OverworldSprites_F/mo_ff1_p004_c00_assets_all_cec51e1e817deacbe9d65145ee9c35c0.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_p004_c00_assets_all_cec51e1e817deacbe9d65145ee9c35c0.bundle"
+							}
+						]
+					},
+					"NextConfigurationName": "White Mage"
+				}
+			]
+		},
+		{
+			"Name": "White Mage",
+			"Description": "",
+			"Preview": {
+				"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/57/57-1662058603-1394117032.png"
+			},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Male",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "UpgradedJobsFix_v_2",
+						"File": [
+							{
+								"From": "mod_v2/01_1_BattleSprites_M/bc_ff1_p005_assets_all_9e19cd521118d7a3dcf5214e98c27490.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/bc_ff1_p005_assets_all_9e19cd521118d7a3dcf5214e98c27490.bundle"
+							},
+							{
+								"From": "mod_v2/02_1_OverworldSprites_M/mo_ff1_p005_c00_assets_all_0163851ddd275993fd23ecdd403edf78.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_p005_c00_assets_all_0163851ddd275993fd23ecdd403edf78.bundle"
+							}
+						]
+					},
+					"NextConfigurationName": "Knight"
+				},
+				{
+					"Name": "Female",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "UpgradedJobsFix_v_2",
+						"File": [
+							{
+								"From": "mod_v2/01_2_BattleSprites_F/bc_ff1_p005_assets_all_9e19cd521118d7a3dcf5214e98c27490.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/bc_ff1_p005_assets_all_9e19cd521118d7a3dcf5214e98c27490.bundle"
+							},
+							{
+								"From": "mod_v2/02_2_OverworldSprites_F/mo_ff1_p005_c00_assets_all_0163851ddd275993fd23ecdd403edf78.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_p005_c00_assets_all_0163851ddd275993fd23ecdd403edf78.bundle"
+							}
+						]
+					},
+					"NextConfigurationName": "Knight"
+				}
+			]
+		},
+		{
+			"Name": "Knight",
+			"Description": "",
+			"Preview": {
+				"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/57/57-1662058603-1394117032.png"
+			},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Male",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "UpgradedJobsFix_v_2",
+						"File": [
+							{
+								"From": "mod_v2/01_1_BattleSprites_M/bc_ff1_p006_assets_all_5ed51a3eb73fa5ed85f7a1bf3c6694a5.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/bc_ff1_p006_assets_all_5ed51a3eb73fa5ed85f7a1bf3c6694a5.bundle"
+							},
+							{
+								"From": "mod_v2/02_1_OverworldSprites_M/mo_ff1_p006_c00_assets_all_9c46260199cb70c2ee9159681b63603e.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_p006_c00_assets_all_9c46260199cb70c2ee9159681b63603e.bundle"
+							}
+						]
+					},
+					"NextConfigurationName": "Ninja"
+				},
+				{
+					"Name": "Female",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "UpgradedJobsFix_v_2",
+						"File": [
+							{
+								"From": "mod_v2/01_2_BattleSprites_F/bc_ff1_p006_assets_all_5ed51a3eb73fa5ed85f7a1bf3c6694a5.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/bc_ff1_p006_assets_all_5ed51a3eb73fa5ed85f7a1bf3c6694a5.bundle"
+							},
+							{
+								"From": "mod_v2/02_2_OverworldSprites_F/mo_ff1_p006_c00_assets_all_9c46260199cb70c2ee9159681b63603e.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_p006_c00_assets_all_9c46260199cb70c2ee9159681b63603e.bundle"
+							}
+						]
+					},
+					"NextConfigurationName": "Ninja"
+				}
+			]
+		},
+		{
+			"Name": "Ninja",
+			"Description": "",
+			"Preview": {
+				"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/57/57-1662058603-1394117032.png"
+			},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Male",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "UpgradedJobsFix_v_2",
+						"File": [
+							{
+								"From": "mod_v2/01_1_BattleSprites_M/bc_ff1_p007_assets_all_3e0916b518c01e553467a4ecb00ac916.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/bc_ff1_p007_assets_all_3e0916b518c01e553467a4ecb00ac916.bundle"
+							},
+							{
+								"From": "mod_v2/02_1_OverworldSprites_M/mo_ff1_p007_c00_assets_all_b49392b9f393654258e6cc5fe362a2ea.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_p007_c00_assets_all_b49392b9f393654258e6cc5fe362a2ea.bundle"
+							}
+						]
+					},
+					"NextConfigurationName": "Master"
+				},
+				{
+					"Name": "Female",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "UpgradedJobsFix_v_2",
+						"File": [
+							{
+								"From": "mod_v2/01_2_BattleSprites_F/bc_ff1_p007_assets_all_3e0916b518c01e553467a4ecb00ac916.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/bc_ff1_p007_assets_all_3e0916b518c01e553467a4ecb00ac916.bundle"
+							},
+							{
+								"From": "mod_v2/02_2_OverworldSprites_F/mo_ff1_p007_c00_assets_all_b49392b9f393654258e6cc5fe362a2ea.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_p007_c00_assets_all_b49392b9f393654258e6cc5fe362a2ea.bundle"
+							}
+						]
+					},
+					"NextConfigurationName": "Master"
+				}
+			]
+		},
+		{
+			"Name": "Master",
+			"Description": "",
+			"Preview": {
+				"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/57/57-1662058603-1394117032.png"
+			},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Male",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "UpgradedJobsFix_v_2",
+						"File": [
+							{
+								"From": "mod_v2/01_1_BattleSprites_M/bc_ff1_p008_assets_all_ca4f642a9005a2f96be9d1937d28ae3e.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/bc_ff1_p008_assets_all_ca4f642a9005a2f96be9d1937d28ae3e.bundle"
+							},
+							{
+								"From": "mod_v2/02_1_OverworldSprites_M/mo_ff1_p008_c00_assets_all_b3dd5033fea3de06c824d460d04b517f.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_p008_c00_assets_all_b3dd5033fea3de06c824d460d04b517f.bundle"
+							}
+						]
+					},
+					"NextConfigurationName": "Red Wizard"
+				},
+				{
+					"Name": "Female",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "UpgradedJobsFix_v_2",
+						"File": [
+							{
+								"From": "mod_v2/01_2_BattleSprites_F/bc_ff1_p008_assets_all_ca4f642a9005a2f96be9d1937d28ae3e.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/bc_ff1_p008_assets_all_ca4f642a9005a2f96be9d1937d28ae3e.bundle"
+							},
+							{
+								"From": "mod_v2/02_2_OverworldSprites_F/mo_ff1_p008_c00_assets_all_b3dd5033fea3de06c824d460d04b517f.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_p008_c00_assets_all_b3dd5033fea3de06c824d460d04b517f.bundle"
+							}
+						]
+					},
+					"NextConfigurationName": "Red Wizard"
+				}
+			]
+		},
+		{
+			"Name": "Red Wizard",
+			"Description": "",
+			"Preview": {
+				"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/57/57-1662058603-1394117032.png"
+			},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Male",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "UpgradedJobsFix_v_2",
+						"File": [
+							{
+								"From": "mod_v2/01_1_BattleSprites_M/bc_ff1_p009_assets_all_3c04ba1110f9a7e81f6e5ec5e088b0df.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/bc_ff1_p009_assets_all_3c04ba1110f9a7e81f6e5ec5e088b0df.bundle"
+							},
+							{
+								"From": "mod_v2/02_1_OverworldSprites_M/mo_ff1_p009_c00_assets_all_f4be761d8faf57d6f85aa652f91b53b2.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_p009_c00_assets_all_f4be761d8faf57d6f85aa652f91b53b2.bundle"
+							}
+						]
+					},
+					"NextConfigurationName": "White Wizard"
+				},
+				{
+					"Name": "Female",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "UpgradedJobsFix_v_2",
+						"File": [
+							{
+								"From": "mod_v2/01_2_BattleSprites_F/bc_ff1_p009_assets_all_3c04ba1110f9a7e81f6e5ec5e088b0df.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/bc_ff1_p009_assets_all_3c04ba1110f9a7e81f6e5ec5e088b0df.bundle"
+							},
+							{
+								"From": "mod_v2/02_2_OverworldSprites_F/mo_ff1_p009_c00_assets_all_f4be761d8faf57d6f85aa652f91b53b2.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_p009_c00_assets_all_f4be761d8faf57d6f85aa652f91b53b2.bundle"
+							}
+						]
+					},
+					"NextConfigurationName": "White Wizard"
+				}
+			]
+		},
+		{
+			"Name": "White Wizard",
+			"Description": "",
+			"Preview": {
+				"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/57/57-1662058603-1394117032.png"
+			},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Male",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "UpgradedJobsFix_v_2",
+						"File": [
+							{
+								"From": "mod_v2/01_1_BattleSprites_M/bc_ff1_p011_assets_all_cd6414f528fdcb27aafade09f2bc774e.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/bc_ff1_p011_assets_all_cd6414f528fdcb27aafade09f2bc774e.bundle"
+							},
+							{
+								"From": "mod_v2/02_1_OverworldSprites_M/mo_ff1_p010_c00_assets_all_98d9c60d92b63627c766d85f3da9ecf3.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_p010_c00_assets_all_98d9c60d92b63627c766d85f3da9ecf3.bundle"
+							}
+						]
+					},
+					"NextConfigurationName": "Black Wizard"
+				},
+				{
+					"Name": "Female",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "UpgradedJobsFix_v_2",
+						"File": [
+							{
+								"From": "mod_v2/01_2_BattleSprites_F/bc_ff1_p011_assets_all_cd6414f528fdcb27aafade09f2bc774e.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/bc_ff1_p011_assets_all_cd6414f528fdcb27aafade09f2bc774e.bundle"
+							},
+							{
+								"From": "mod_v2/02_2_OverworldSprites_F/mo_ff1_p010_c00_assets_all_98d9c60d92b63627c766d85f3da9ecf3.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_p010_c00_assets_all_98d9c60d92b63627c766d85f3da9ecf3.bundle"
+							}
+						]
+					},
+					"NextConfigurationName": "Black Wizard"
+				}
+			]
+		},
+		{
+			"Name": "Black Wizard",
+			"Description": "",
+			"Preview": {
+				"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/57/57-1662058603-1394117032.png"
+			},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "Male",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "UpgradedJobsFix_v_2",
+						"File": [
+							{
+								"From": "mod_v2/01_1_BattleSprites_M/bc_ff1_p012_assets_all_83cb30fda07dda366e66359172a41ffb.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/bc_ff1_p012_assets_all_83cb30fda07dda366e66359172a41ffb.bundle"
+							},
+							{
+								"From": "mod_v2/02_1_OverworldSprites_M/mo_ff1_p012_c00_assets_all_500b1eaae58fa246222929b29b1c1567.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_p012_c00_assets_all_500b1eaae58fa246222929b29b1c1567.bundle"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Female",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "UpgradedJobsFix_v_2",
+						"File": [
+							{
+								"From": "mod_v2/01_2_BattleSprites_F/bc_ff1_p012_assets_all_83cb30fda07dda366e66359172a41ffb.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/bc_ff1_p012_assets_all_83cb30fda07dda366e66359172a41ffb.bundle"
+							},
+							{
+								"From": "mod_v2/02_2_OverworldSprites_F/mo_ff1_p012_c00_assets_all_500b1eaae58fa246222929b29b1c1567.bundle",
+								"To": "FINAL FANTASY_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff1_p012_c00_assets_all_500b1eaae58fa246222929b29b1c1567.bundle"
+							}
+						]
+					}
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

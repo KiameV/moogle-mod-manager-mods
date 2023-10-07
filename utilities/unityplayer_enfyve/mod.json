@@ -9,15 +9,13 @@
 	"ReleaseNotes": "",
 	"Link": "https://discord.com/channels/371784427162042368/871854852769193984/988618149693894706",
 	"Version": "v2022.06.20",
+	"InstallType": "Move",
 	"ModKind": {
 		"Kinds": [
 			"HostedAt"
 		]
 	},
-	"Compatibility": {
-		"Require": [],
-		"Forbid": []
-	},
+	"Compatibility": {},
 	"Downloadable": [
 		{
 			"Name": "UnityPlayer",
@@ -26,8 +24,7 @@
 				"Source": [
 					"https://cdn.discordapp.com/attachments/871854852769193984/988618149949763594/UnityPlayer.zip"
 				]
-			},
-			"DownloadedLoc": "C:\\Users\\travis\\workspace\\moogle-mod-manager\\bin\\downloads\\utility\\unityplayerenfyve\\v20220620\\v20220620/UnityPlayer.zip"
+			}
 		}
 	],
 	"DonationLink": [

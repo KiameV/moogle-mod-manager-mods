@@ -1,0 +1,65 @@
+{
+	"ID": "nexus.36",
+	"Name": "Original SNES General Leo Sprite",
+	"Author": "Mudstep",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 2, 2022",
+	"Category": "Player/NPC Sprite",
+	"Description": "Adds in the original General Leo sprite, to be used with metalliguy's SNES sprites mod",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/36",
+	"Version": "1.0",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/36/36-1648905818-1034044190.png"
+	},
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 36
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "MS - SNES Leo Sprite",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 115,
+				"FileName": "MS - SNES Leo Sprite-36-1-0-1648906073.zip"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "MS - SNES Leo Sprite",
+			"File": [
+				{
+					"From": "bc_ff6_p020_assets_all_b544f60bb57a4d434886b9c69adbc30f.bundle",
+					"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/bc_ff6_p020_assets_all_b544f60bb57a4d434886b9c69adbc30f.bundle"
+				},
+				{
+					"From": "mo_ff6_p020_assets_all_98305edf99b57d69438bfb4de9195e77.bundle",
+					"To": "FINAL FANTASY VI_Data/StreamingAssets/aa/StandaloneWindows64/mo_ff6_p020_assets_all_98305edf99b57d69438bfb4de9195e77.bundle"
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

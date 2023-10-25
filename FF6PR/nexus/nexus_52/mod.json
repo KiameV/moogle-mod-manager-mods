@@ -1,0 +1,129 @@
+{
+	"ID": "nexus.52",
+	"Name": "UI Pixel Remastered",
+	"Author": "SKLC",
+	"AuthorLink": "",
+	"ReleaseDate": "May 9, 2022",
+	"Category": "UI: General",
+	"Description": "Stock UI Remastered, redrawn, refined and pixelized.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/52",
+	"Version": "1.1",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/52/52-1652643130-2001150928.png"
+	},
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 52
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "UI Pixel Remastered - Fantasy Blue",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 216,
+				"FileName": "Fantasy Blue-52-1-1-1652643762.7z"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "UI Pixel Remastered - Magic Purple",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 217,
+				"FileName": "Magic Purple-52-1-1-1652643877.7z"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "UI Pixel Remastered - Ruin Red",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 218,
+				"FileName": "Ruin Red-52-1-1-1652643926.7z"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Color",
+			"Description": "",
+			"Preview": {},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "Fantasy Blue",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/52/52-1652643146-1416785683.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "UI Pixel Remastered - Fantasy Blue",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Magic Purple",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/52/52-1652643174-949124478.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "UI Pixel Remastered - Magic Purple",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Ruin Red",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/52/52-1652643174-949124478.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "UI Pixel Remastered - Ruin Red",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

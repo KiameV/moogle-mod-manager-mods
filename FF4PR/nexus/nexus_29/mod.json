@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.29",
+	"Name": "Enemy Shadows",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Oct 2, 2021",
+	"Category": "Enemy Sprite",
+	"Description": "This mod adds shadows to enemies that are missing shadows, as well as improves the existing shadow!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy4pixelremaster/mods/29",
+	"Version": "1.0a",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4022/images/29/29-1633207538-1672207610.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 29
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "FFIVPR_Enemy_Shadows_metalliguy",
+			"Version": "1.0a",
+			"Nexus": {
+				"FileID": 184,
+				"FileName": "FFIVPR_Enemy_Shadows_metalliguy-29-1-0a-1659416876.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF4PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFIVPR_Enemy_Shadows_metalliguy",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY IV_Data",
+					"To": "FINAL FANTASY IV_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

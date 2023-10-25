@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.24",
+	"Name": "Shiryu's Custom Bestiary Mod (FFII)",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Oct 26, 2021",
+	"Category": "Enemy Sprite",
+	"Description": "This mod restores most of the sprites from the GBA version that were changed and recolors the bestiary with custom colors.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy2pixelremaster/mods/24",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3958/images/24/24-1635287100-1001365228.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 24
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "Shiryu's Custom Bestiary Mod (FFII)",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 55,
+				"FileName": "Shiryu's Custom Bestiary Mod (FFII)-24-1-0-1635287431.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF2PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Shiryu's Custom Bestiary Mod (FFII)",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY II_Data",
+					"To": "FINAL FANTASY II_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

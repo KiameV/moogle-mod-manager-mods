@@ -64,6 +64,7 @@
 			]
 		}
 	],
+	"ConfigSelectionType": "Auto",
 	"Hide": false,
 	"VerifiedAsWorking": false,
 	"IsManuallyCreated": true

@@ -1,0 +1,55 @@
+{
+	"ID": "nexus.15",
+	"Name": "Synthetic Origins FFV Steam OST Mod",
+	"Author": "tssf and AlterPayot",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 22, 2022",
+	"Category": "Soundtrack",
+	"Description": "This mod replaces FFV Pixel Remaster OST with tssf's Synthetic Origins: FFV OST. Tracks are provided by tssf in uncompressed (CD quality) format, then converted to OGG format at 320kbps.\n\nAbout Synthetic Origins: FFV\nSynthetic Origins: FFV is an album containing SNES tracks that are remastered and/or restored by tssf. Track restoration is done by using actual synthesizers and romplers that FFV uses. Simply put, the track arrangements are still the same as the original but using uncompressed samples.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy5/mods/15",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/15/15-1650607182-1790794250.jpeg"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 15
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "Synthetic Origins FFV Steam OST Mod v1.0",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 158,
+				"FileName": "Synthetic Origins FFV Steam OST Mod v1.0-15-1-0-1650608797.7z"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF5Old"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Synthetic Origins FFV Steam OST Mod v1.0",
+			"Dir": [
+				{
+					"From": "resources",
+					"To": "resources",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

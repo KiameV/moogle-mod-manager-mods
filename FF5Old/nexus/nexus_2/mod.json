@@ -1,0 +1,55 @@
+{
+	"ID": "nexus.2",
+	"Name": "Better and Matching Character Portraits Mod",
+	"Author": "SilentResident",
+	"AuthorLink": "",
+	"ReleaseDate": "Mar 11, 2016",
+	"Category": "UI: Textbox Portraits",
+	"Description": "This is a modification of the character portraits that show up on the dialogs in Final Fantasy V.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy5/mods/2",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/2-0-1457704049.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 2
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "Better and Matching Character Portraits Mod ",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 143,
+				"FileName": "Better and more matching Character Portraits mod-2-1-0.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF5Old"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Better and Matching Character Portraits Mod ",
+			"Dir": [
+				{
+					"From": "resources",
+					"To": "resources",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

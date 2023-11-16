@@ -1,0 +1,55 @@
+{
+	"ID": "nexus.37",
+	"Name": "Classic Party Positioning",
+	"Author": "Fugsnarf",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 6, 2022",
+	"Category": "Battle Scene",
+	"Description": "Alters the positioning of the party members in battle to be more like the Famicom original.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy2pixelremaster/mods/37",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3958/images/37/37-1649207946-373140389.jpeg"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 37
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "Classic Party Positioning",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 95,
+				"FileName": "Classic Party Positioning-37-1-0-1649208307.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF2PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Classic Party Positioning",
+			"Dir": [
+				{
+					"From": ".",
+					"To": ".",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

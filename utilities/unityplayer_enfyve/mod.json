@@ -1,0 +1,70 @@
+{
+	"ID": "unityplayer.enfyve",
+	"Name": "Unity Player",
+	"Author": "Enfyve",
+	"AuthorLink": "",
+	"ReleaseDate": "Jun 20 2022",
+	"Category": "Utility",
+	"Description": "Modded UnityPlayer.dll to bypass CRC checks. Required for most bundle mods.",
+	"ReleaseNotes": "",
+	"Link": "https://github.com/KiameV/moogle-mod-manager-mods/releases/download/up1.0.1/UnityPlayerDLL-101.zip",
+	"Version": "v2022.06.20",
+	"InstallType": "Move",
+	"ModKind": {
+		"Kinds": [
+			"HostedAt"
+		]
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "UnityPlayerDLL-101",
+			"Version": "v1.0.1",
+			"Hosted": {
+				"Source": [
+					"https://github.com/KiameV/moogle-mod-manager-mods/releases/download/up1.0.1/UnityPlayerDLL-101.zip"
+				]
+			}
+		}
+	],
+	"DonationLink": [
+		{
+			"Name": "ko-fi",
+			"Link": "https://ko-fi.com/enfyve"
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF1PR"
+		},
+		{
+			"Name": "FF2PR"
+		},
+		{
+			"Name": "FF3PR"
+		},
+		{
+			"Name": "FF4PR"
+		},
+		{
+			"Name": "FF5PR"
+		},
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "UnityPlayerDLL-101",
+			"File": [
+				{
+					"From": "UnityPlayer.dll",
+					"To": "UnityPlayer.dll"
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

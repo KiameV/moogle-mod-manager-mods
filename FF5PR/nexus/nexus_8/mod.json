@@ -1,0 +1,307 @@
+{
+	"ID": "nexus.8",
+	"Name": "Classic Text Box Framework (FFV)",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Nov 12, 2021",
+	"Category": "UI: Textbox Portraits",
+	"Description": "This mod removes the speaker box and moves the speaker name to the text box for a more classic look. It also works as a framework for the textbox portrait mods.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy5pixelremaster/mods/8",
+	"Version": "1.1",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/8/8-1636732925-1451354834.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/8/8-1636732933-1340353300.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/8/8-1636733262-1474409637.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 8
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			},
+			{
+				"ModID": "memoria.albeoris"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "Classic Text Box Framework - Japanese",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 39,
+				"FileName": "Classic Text Box Framework - Japanese-8-1-1-1636762988.rar"
+			}
+		},
+		{
+			"Name": "Classic Text Box Framework - Korean",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 40,
+				"FileName": "Classic Text Box Framework - Korean-8-1-1-1636763008.rar"
+			}
+		},
+		{
+			"Name": "Classic Text Box Framework - Russian",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 42,
+				"FileName": "Classic Text Box Framework - Russian-8-1-1-1636763052.rar"
+			}
+		},
+		{
+			"Name": "Classic Text Box Framework - Simplified Chinese",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 43,
+				"FileName": "Classic Text Box Framework - Simplified Chinese-8-1-1-1636763084.rar"
+			}
+		},
+		{
+			"Name": "Classic Text Box Framework - Traditional Chinese",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 46,
+				"FileName": "Classic Text Box Framework - Traditional Chinese-8-1-1-1636763143.rar"
+			}
+		},
+		{
+			"Name": "Classic Text Box Framework - Italian",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 38,
+				"FileName": "Classic Text Box Framework - Italian-8-1-1-1636762968.rar"
+			}
+		},
+		{
+			"Name": "Classic Text Box Framework - French",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 36,
+				"FileName": "Classic Text Box Framework - French-8-1-1-1636762874.rar"
+			}
+		},
+		{
+			"Name": "Classic Text Box Framework - German",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 37,
+				"FileName": "Classic Text Box Framework - German-8-1-1-1636762946.rar"
+			}
+		},
+		{
+			"Name": "Classic Text Box Framework - Portuguese",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 41,
+				"FileName": "Classic Text Box Framework - Portuguese-8-1-1-1636763026.rar"
+			}
+		},
+		{
+			"Name": "Classic Text Box Framework - Spanish",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 44,
+				"FileName": "Classic Text Box Framework - Spanish-8-1-1-1636763104.rar"
+			}
+		},
+		{
+			"Name": "Classic Text Box Framework - Thai",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 45,
+				"FileName": "Classic Text Box Framework - Thai-8-1-1-1636763120.rar"
+			}
+		},
+		{
+			"Name": "Classic Text Box Framework - English",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 35,
+				"FileName": "Classic Text Box Framework - English-8-1-1-1636762838.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF5PR"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Language",
+			"Description": "",
+			"Preview": {},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "English",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Classic Text Box Framework - English",
+						"Dir": [
+							{
+								"From": ".",
+								"To": ".",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "French",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Classic Text Box Framework - French",
+						"Dir": [
+							{
+								"From": ".",
+								"To": ".",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "German",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Classic Text Box Framework - German",
+						"Dir": [
+							{
+								"From": ".",
+								"To": ".",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Italian",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Classic Text Box Framework - Italian",
+						"Dir": [
+							{
+								"From": ".",
+								"To": ".",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Japanese",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Classic Text Box Framework - Japanese",
+						"Dir": [
+							{
+								"From": ".",
+								"To": ".",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Korean",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Classic Text Box Framework - Korean",
+						"Dir": [
+							{
+								"From": ".",
+								"To": ".",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Portuguese",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Classic Text Box Framework - Portuguese",
+						"Dir": [
+							{
+								"From": ".",
+								"To": ".",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Russian",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Classic Text Box Framework - Russian",
+						"Dir": [
+							{
+								"From": ".",
+								"To": ".",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Simplified Chinese",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Classic Text Box Framework - Simplified Chinese",
+						"Dir": [
+							{
+								"From": ".",
+								"To": ".",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Spanish",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Classic Text Box Framework - Spanish",
+						"Dir": [
+							{
+								"From": ".",
+								"To": ".",
+								"Recursive": true
+							}
+						]
+					}
+				}
+			],
+			"ConfigSelectionType": "Auto"
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

@@ -1,0 +1,109 @@
+{
+	"ID": "nexus.11",
+	"Name": "FFV Chibi Portraits",
+	"Author": "Belago",
+	"AuthorLink": "",
+	"ReleaseDate": "Oct 12, 2021",
+	"Category": "UI: Textbox Portraits",
+	"Description": "Hi there, here is a simple mod to change the portraits by chibi characters.\n\nI do not own the pictures, all credits go to ObstinateMelon :\n\nhttps://www.deviantart.com/obstinatemelon/art/FFV-Field-Sprites-509001857\n\nEnjoy !",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy5/mods/11",
+	"Version": "V.1",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/11/11-1634010633-887057348.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/11/11-1634011070-1884307927.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/11/11-1634010908-651626380.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/11/11-1634011076-1900190698.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/11/11-1634011070-1621728868.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/11/11-1634010633-887057348.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/11/11-1634010633-1863270701.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/11/11-1634010638-1067445481.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/11/11-1634010640-918860125.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/11/11-1634010645-426625057.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/11/11-1634010646-277831214.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/11/11-1634010651-116850024.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/11/11-1634010650-2036402152.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/11/11-1634010655-1078805902.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/11/11-1634010656-760994046.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/11/11-1634010660-1620382145.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/11/11-1634010664-1921502701.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/11/11-1634010667-327179603.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/11/11-1634010670-384186657.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 11
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "Final_Fantasy_V_Chibi_Portraits",
+			"Version": "V.1",
+			"Nexus": {
+				"FileID": 154,
+				"FileName": "Final_Fantasy_V_Chibi_Portraits-11-V-1-1634011500.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF5Old"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Final_Fantasy_V_Chibi_Portraits",
+			"Dir": [
+				{
+					"From": "",
+					"To": "resources",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

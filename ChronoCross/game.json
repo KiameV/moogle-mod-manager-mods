@@ -1,0 +1,43 @@
+{
+  "id": "ChronoCross",
+  "name": "Chrono Cross",
+  "steamID": "1133760",
+  "baseDir": "data",
+  "authorHintDir": "CC TRDE",
+  "remote": {
+    "nexus": {
+      "id": 4420,
+      "path": "chronocrosstheradicaldreamersedition"
+    }
+  },
+  "defaultInstallType": "MoveToArchive",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "steam": {
+        "build": 8116082,
+        "manifest": 1433675716532327118
+      }
+    }
+  ],
+  "categories": [
+	"Background Textures",
+	"Player/NPC Textures",
+	"Enemy Textures",
+	"Weapon Textures",
+	"FMV Replacements",
+	"Game Overhauls",
+	"Gameplay",
+	"General",
+	"Fonts",
+	"Script/Text",
+	"Soundtrack",
+	"Title Screen",
+	"UI: General",
+	"UI: Key Items",
+	"UI: Player Portraits",
+	"UI: Menu Backgrounds",
+	"UI: Dialog Frames",
+	"Utility" 
+  ]
+}

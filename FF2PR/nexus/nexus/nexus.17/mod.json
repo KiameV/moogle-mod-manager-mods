@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.17",
+	"Name": "CozyUI - FF2 PR Edition",
+	"Author": "deleted124635168",
+	"AuthorLink": "",
+	"ReleaseDate": "Sep 13, 2021",
+	"Category": "",
+	"Description": "Clean, decluttered UI for Final Fantasy 2 PR. Classic Squaresoft Logo included.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy2pixelremaster/mods/17",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3958/images/17/17-1631575517-1594635581.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 17
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "CozyUI - FF2 PR Edition",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 36,
+				"FileName": "CozyUI - FF2 PR Edition-17-1-0-1631575604.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF2PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "CozyUI - FF2 PR Edition",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY II_Data",
+					"To": "FINAL FANTASY II_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

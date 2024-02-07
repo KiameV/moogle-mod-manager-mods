@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.24",
+	"Name": "Classic Text Box Framework (FFIV)",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Sep 22, 2021",
+	"Category": "UI: Window Frames",
+	"Description": "This mod removes the speaker box and moves the speaker name to the text box for a more classic look. It also works as a framework for the textbox portrait mods.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy4pixelremaster/mods/24",
+	"Version": "2.1",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4022/images/24/24-1632337466-1119778142.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 24
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "Classic Text Box Framework",
+			"Version": "2.1",
+			"Nexus": {
+				"FileID": 201,
+				"FileName": "Classic Text Box Framework-24-2-1-1671829392.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF4PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Classic Text Box Framework",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY IV_Data",
+					"To": "FINAL FANTASY IV_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

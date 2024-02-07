@@ -3,12 +3,12 @@
 	"Name": "Unity Player",
 	"Author": "Enfyve",
 	"AuthorLink": "",
-	"ReleaseDate": "Jun 20 2022",
+	"ReleaseDate": "Feb 7, 2024",
 	"Category": "Utility",
 	"Description": "Modded UnityPlayer.dll to bypass CRC checks. Required for most bundle mods.",
 	"ReleaseNotes": "",
 	"Link": "https://github.com/KiameV/moogle-mod-manager-mods/releases/download/up1.0.1/UnityPlayerDLL-101.zip",
-	"Version": "v2022.06.20",
+	"Version": "v2024.02.07",
 	"InstallType": "Move",
 	"ModKind": {
 		"Kinds": [

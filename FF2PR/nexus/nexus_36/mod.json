@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.36",
+	"Name": "Darker UI FF2 PR",
+	"Author": "faospark",
+	"AuthorLink": "",
+	"ReleaseDate": "Mar 28, 2022",
+	"Category": "UI: General",
+	"Description": "A Darker Ui build with HDR/Curves/ Levels in mind . replaces the vibrant blue  and game ui borders.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy2pixelremaster/mods/36",
+	"Version": "3.28",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3958/images/36/36-1648482223-374314907.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 36
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "Darker UI FF2 PR",
+			"Version": "3.29",
+			"Nexus": {
+				"FileID": 123,
+				"FileName": "Darker UI FF2 PR-36-3-29-1675336272.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF2PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Darker UI FF2 PR",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY II_Data",
+					"To": "FINAL FANTASY II_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

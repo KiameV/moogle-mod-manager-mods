@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.21",
+	"Name": "Majora's Moon",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Feb 26, 2022",
+	"Category": "Battle Scene",
+	"Description": "You've met with a terrible fate...",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy5pixelremaster/mods/21",
+	"Version": "1.0a",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/21/21-1645863055-1882395113.jpeg"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 21
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "FFVPR_Majoras_Moon_metalliguy",
+			"Version": "1.0a",
+			"Nexus": {
+				"FileID": 125,
+				"FileName": "FFVPR_Majoras_Moon_metalliguy-21-1-0a-1660744174.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF5PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFVPR_Majoras_Moon_metalliguy",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY V_Data",
+					"To": "FINAL FANTASY V_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

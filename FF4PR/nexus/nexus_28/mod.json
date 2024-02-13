@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.28",
+	"Name": "FFIV Lewd Enemies",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Oct 1, 2021",
+	"Category": "Enemy Sprite",
+	"Description": ":eye emoji:",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy4pixelremaster/mods/28",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4022/images/28/28-1633069446-1589420121.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 28
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "FFIV Lewd Enemies",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 80,
+				"FileName": "FFIV Lewd Enemies-28-1-0-1633069599.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF4PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFIV Lewd Enemies",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY IV_Data",
+					"To": "FINAL FANTASY IV_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

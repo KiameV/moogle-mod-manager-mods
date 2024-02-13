@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.19",
+	"Name": "CozyUI - FF3 PR Edition",
+	"Author": "deleted124635168",
+	"AuthorLink": "",
+	"ReleaseDate": "Sep 13, 2021",
+	"Category": "UI: General",
+	"Description": "Clean, decluttered UI for Final Fantasy 3 PR. Classic Squaresoft Logo included.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy3pixelremaster/mods/19",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3942/images/19/19-1631576382-1035543541.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 19
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "CozyUI - FF3 PR Edition",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 44,
+				"FileName": "CozyUI - FF3 PR Edition-19-1-0-1631576460.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF3PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "CozyUI - FF3 PR Edition",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY III_Data",
+					"To": "FINAL FANTASY III_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

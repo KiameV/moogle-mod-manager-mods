@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.4",
+	"Name": "FFVI UI Overhaul Mod",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Sep 14, 2021",
+	"Category": "UI: General",
+	"Description": "Replaces the UI with a FFVI inspired theme!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy4pixelremaster/mods/4",
+	"Version": "1.1a",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4022/images/4/4-1631288109-330092971.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 4
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "FFIVPR_FFVI_UI_metalliguy",
+			"Version": "1.1a",
+			"Nexus": {
+				"FileID": 187,
+				"FileName": "FFIVPR_FFVI_UI_metalliguy-4-1-1a-1659725863.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF4PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFIVPR_FFVI_UI_metalliguy",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY IV_Data",
+					"To": "FINAL FANTASY IV_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

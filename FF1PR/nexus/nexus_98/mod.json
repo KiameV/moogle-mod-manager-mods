@@ -1,0 +1,70 @@
+{
+	"ID": "nexus.98",
+	"Name": "Re FF PixelRemaster",
+	"Author": "gvdn",
+	"AuthorLink": "",
+	"ReleaseDate": "Feb 10, 2024",
+	"Category": "Player/NPC Sprite",
+	"Description": "This mod redraws the sprites of the player characters, vehicles, and some NPCs.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasypixelremaster/mods/98",
+	"Version": "1.1a",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/98/98-1707544031-1148045363.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/98/98-1707556129-139012536.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/98/98-1707556148-1526069504.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/98/98-1707556181-786577975.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 98
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "Re FF PixelRemaster",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 306,
+				"FileName": "Re FF PixelRemaster-98-1-1-1707559592.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF1PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Re FF PixelRemaster",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY_Data",
+					"To": "FINAL FANTASY_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

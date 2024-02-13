@@ -1,0 +1,57 @@
+{
+	"ID": "nexus.15",
+	"Name": "2022 Dark Serge Replacement Portraits",
+	"Author": "Wictoriously",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 13, 2022",
+	"Category": "UI: Player Portraits",
+	"Description": "This mod replaces the Dark Serge portraits used in the \"New\" graphics mode of CC:RD with modified versions that are less silly looking and more in tact with the original portraits.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/chronocrosstheradicaldreamersedition/mods/15",
+	"Version": "1.00",
+	"InstallType": "MoveToArchive",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4420/images/15/15-1649886428-1175479707.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 15
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "Alternate Dark Serge Portraits",
+			"Version": "1.00",
+			"Nexus": {
+				"FileID": 20,
+				"FileName": "Alternate Dark Serge Portraits-15-1-00-1649886610.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "ChronoCross"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Alternate Dark Serge Portraits",
+			"Dir": [
+				{
+					"From": "face",
+					"To": "face",
+					"Recursive": true,
+					"ToArchive": "data/hd.dat"
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

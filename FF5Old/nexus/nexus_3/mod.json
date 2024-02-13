@@ -1,0 +1,55 @@
+{
+	"ID": "nexus.3",
+	"Name": "FF5 Epic Sealed Weapons",
+	"Author": "ZennpaiSkoll",
+	"AuthorLink": "",
+	"ReleaseDate": "Aug 17, 2018",
+	"Category": "General",
+	"Description": "A simple replacer mod for the Legendary Sealed Weapons.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy5/mods/3",
+	"Version": "0.01",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/3/3-1534491212-1779383718.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 3
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "FF5 Epic Sealed Weapons Mod",
+			"Version": "0.00",
+			"Nexus": {
+				"FileID": 144,
+				"FileName": "FF5 Epic Sealed Weapons Mod-3-0-00.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF5Old"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FF5 Epic Sealed Weapons Mod",
+			"Dir": [
+				{
+					"From": "resources",
+					"To": "resources",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

@@ -1,0 +1,144 @@
+{
+	"ID": "nexus.18",
+	"Name": "Cross Window Sets",
+	"Author": "faospark",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 14, 2022",
+	"Category": "UI: Dialog Frames",
+	"Description": "An alternate set of window designs inspired a series of games that are bit familiar. This mod ALTERS  SIMPLE LINE window fame",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/chronocrosstheradicaldreamersedition/mods/18",
+	"Version": "1",
+	"InstallType": "MoveToArchive",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4420/images/18/18-1649934108-1957880615.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 18
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "window sets",
+			"Version": "1",
+			"Nexus": {
+				"FileID": 26,
+				"FileName": "window sets-18-1-1649934317.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "ChronoCross"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Choose",
+			"Description": "",
+			"Preview": {},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "Tora",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "window sets",
+						"File": [
+							{
+								"From": "window sets/01 -Tora/window/w01.png",
+								"To": "window/w01.png",
+								"ToArchive": "data/hd.dat"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Dune",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "window sets",
+						"File": [
+							{
+								"From": "window sets/02 -Dune/window/w01.png",
+								"To": "window/w01.png",
+								"ToArchive": "data/hd.dat"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Trinity",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "window sets",
+						"File": [
+							{
+								"From": "window sets/03 -Trinity/window/w01.png",
+								"To": "window/w01.png",
+								"ToArchive": "data/hd.dat"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Isla",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "window sets",
+						"File": [
+							{
+								"From": "window sets/04 - Isla/window/w01.png",
+								"To": "window/w01.png",
+								"ToArchive": "data/hd.dat"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Fal",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "window sets",
+						"File": [
+							{
+								"From": "window sets/05 - Fal/window/w01.png",
+								"To": "window/w01.png",
+								"ToArchive": "data/hd.dat"
+							}
+						]
+					}
+				},
+				{
+					"Name": "Xander",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "window sets",
+						"File": [
+							{
+								"From": "window sets/IX - Xander/window/w01.png",
+								"To": "window/w01.png",
+								"ToArchive": "data/hd.dat"
+							}
+						]
+					}
+				}
+			],
+			"ConfigSelectionType": "Radio"
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

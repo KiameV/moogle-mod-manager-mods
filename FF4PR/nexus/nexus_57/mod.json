@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.57",
+	"Name": "3D Remake Soundtrack",
+	"Author": "Fugsnarf",
+	"AuthorLink": "",
+	"ReleaseDate": "Nov 20, 2022",
+	"Category": "Soundtrack",
+	"Description": "Switch the soundtrack with that of the 3D Remake.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy4pixelremaster/mods/57",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4022/images/57/57-1668969818-1667178825.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 57
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "3D Remake Soundtrack",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 197,
+				"FileName": "3D Remake Soundtrack-57-1-0-1668969940.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF4PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "3D Remake Soundtrack",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY IV_Data",
+					"To": "FINAL FANTASY IV_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

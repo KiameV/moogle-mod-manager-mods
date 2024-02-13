@@ -21,7 +21,13 @@
 		],
 		"NexusID": 97
 	},
-	"Compatibility": {},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
 	"Downloadable": [
 		{
 			"Name": "FF1PR Sea of Stars",

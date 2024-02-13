@@ -13,6 +13,12 @@
 	"Previews": [
 		{
 			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/99/99-1707621141-1747508878.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/99/99-1707621152-418580196.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/99/99-1707621419-88268097.png"
 		}
 	],
 	"ModKind": {
@@ -21,7 +27,13 @@
 		],
 		"NexusID": 99
 	},
-	"Compatibility": {},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
 	"Downloadable": [
 		{
 			"Name": "FF1 mountain_tileset_mod",

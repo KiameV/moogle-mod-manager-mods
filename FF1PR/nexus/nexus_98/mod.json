@@ -30,7 +30,13 @@
 		],
 		"NexusID": 98
 	},
-	"Compatibility": {},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
 	"Downloadable": [
 		{
 			"Name": "Re FF PixelRemaster",

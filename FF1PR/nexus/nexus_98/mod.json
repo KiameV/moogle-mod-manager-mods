@@ -13,6 +13,15 @@
 	"Previews": [
 		{
 			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/98/98-1707544031-1148045363.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/98/98-1707556129-139012536.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/98/98-1707556148-1526069504.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/98/98-1707556181-786577975.png"
 		}
 	],
 	"ModKind": {
@@ -23,14 +32,6 @@
 	},
 	"Compatibility": {},
 	"Downloadable": [
-		{
-			"Name": "FF1 Sample Images",
-			"Version": "1.1",
-			"Nexus": {
-				"FileID": 305,
-				"FileName": "FF1 Sample Images-98-1-1-1707557944.zip"
-			}
-		},
 		{
 			"Name": "Re FF PixelRemaster",
 			"Version": "1.1",

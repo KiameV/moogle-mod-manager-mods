@@ -1,0 +1,103 @@
+{
+	"ID": "nexus.73",
+	"Name": "Consistent Terminology - FFI",
+	"Author": "Yoshitsune",
+	"AuthorLink": "",
+	"ReleaseDate": "Jun 6, 2023",
+	"Category": "Script/Text",
+	"Description": "This mod is an attempt to regularize the terminology used in the Final Fantasy Pixel Remaster to make the evolution of the series more clear to players, with preference for terminology used in official translations that makes that evolution as clear as possible while keeping ambiguity to a minimum.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasypixelremaster/mods/73",
+	"Version": "1.1",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/73/73-1686496844-1033759495.jpeg"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 73
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "memoria.albeoris"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "Origins Normal Mode Rebalancing Compatibility",
+			"Version": "1.1a",
+			"Nexus": {
+				"FileID": 248,
+				"FileName": "Origins Normal Mode Rebalancing Compatibility-73-1-0a-1686024932.zip"
+			}
+		},
+		{
+			"Name": "Consistent Terminology - Final Fantasy I",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 249,
+				"FileName": "Consistent Terminology - Final Fantasy I-73-1-1-1686496247.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF1PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Consistent Terminology - Final Fantasy I",
+			"Dir": [
+				{
+					"From": "Consistent Terminology - FF1",
+					"To": "FINAL FANTASY_Data/StreamingAssets",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Origins Normal Mode Rebalancing Compatibility?",
+			"Description": "Choose whether to add compatibility for Origins Normal Mode Rebalancing mod.",
+			"Preview": {},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "Origins Normal Mode Rebalancing Compatibility",
+					"Description": "Makes mod work with Origins Normal Mode Rebalancing mod",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Origins Normal Mode Rebalancing Compatibility",
+						"Dir": [
+							{
+								"From": "Consistent Terminology - FF1",
+								"To": "FINAL FANTASY_Data/StreamingAssets",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "No compatibility",
+					"Description": "Keep mod as is.",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": ""
+					}
+				}
+			],
+			"ConfigSelectionType": "Auto"
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

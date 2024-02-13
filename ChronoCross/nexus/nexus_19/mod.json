@@ -1,0 +1,113 @@
+{
+	"ID": "nexus.19",
+	"Name": "Character Retexture HD",
+	"Author": "1vierock",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 15, 2022",
+	"Category": "Player/NPC Textures",
+	"Description": "HD Texture For \u003cbr /\u003e(Menu and Fight models applied)\u003cbr /\u003eopen HD.dat with z-zip and paste \u0026#92;hd.dat\u0026#92;menu\u0026#92;player\u0026#92;",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/chronocrosstheradicaldreamersedition/mods/19",
+	"Version": "1.0",
+	"InstallType": "MoveToArchive",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4420/images/19/19-1650033461-1578503469.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 19
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "Doc dan",
+			"Version": "1",
+			"Nexus": {
+				"FileID": 101,
+				"FileName": "Doc dan-19-1-1651160739.rar"
+			}
+		},
+		{
+			"Name": "kabuo",
+			"Version": "1",
+			"Nexus": {
+				"FileID": 102,
+				"FileName": "kabuo-19-1-1651163863.rar"
+			}
+		},
+		{
+			"Name": "Kinoko",
+			"Version": "1",
+			"Nexus": {
+				"FileID": 78,
+				"FileName": "Kinoko-19-1-1650639535.rar"
+			}
+		},
+		{
+			"Name": "28 Character pack",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 79,
+				"FileName": "28 Character pack-19-1-0-1650639898.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "ChronoCross"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "28 Character pack",
+			"Dir": [
+				{
+					"From": "",
+					"To": "menu/player",
+					"Recursive": true,
+					"ToArchive": "data/hd.dat"
+				}
+			]
+		},
+		{
+			"DownloadName": "Doc dan",
+			"Dir": [
+				{
+					"From": "",
+					"To": "menu/player",
+					"Recursive": true,
+					"ToArchive": "data/hd.dat"
+				}
+			]
+		},
+		{
+			"DownloadName": "Kinoko",
+			"Dir": [
+				{
+					"From": "",
+					"To": "menu/player",
+					"Recursive": true,
+					"ToArchive": "data/hd.dat"
+				}
+			]
+		},
+		{
+			"DownloadName": "kabuo",
+			"Dir": [
+				{
+					"From": "",
+					"To": "menu/player",
+					"Recursive": true,
+					"ToArchive": "data/hd.dat"
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

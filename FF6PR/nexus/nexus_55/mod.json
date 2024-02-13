@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.55",
+	"Name": "Final Fantasy Tactics Advance Custom Font",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Jun 2, 2022",
+	"Category": "Fonts",
+	"Description": "A custom font based on the Final Fantasy Tactics Advance font compatible with the 6 Pixel Remaster games.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/55",
+	"Version": "1.1",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/55/55-1654195199-760181192.png"
+	},
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 55
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "Final Fantasy Tactics Advance Custom Font",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 253,
+				"FileName": "Final Fantasy Tactics Advance Custom Font-55-1-1-1657377715.zip"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Final Fantasy Tactics Advance Custom Font",
+			"Dir": [
+				{
+					"From": ".",
+					"To": "FINAL FANTASY VI_Data/StreamingAssets",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

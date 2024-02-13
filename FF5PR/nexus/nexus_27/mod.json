@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.27",
+	"Name": "Darker UI FF5 PR",
+	"Author": "faospark",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 11, 2022",
+	"Category": "UI: General",
+	"Description": "A Darker Ui build with HDR/Curves/ Levels in mind . replaces the vibrant blue  and game ui borders.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy5pixelremaster/mods/27",
+	"Version": "4.15",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/27/27-1668660181-489357470.jpeg"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 27
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "Darker UI FFV",
+			"Version": "4.15",
+			"Nexus": {
+				"FileID": 133,
+				"FileName": "Darker UI FFV-27-4-15-1668659784.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF5PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Darker UI FFV",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY V_Data",
+					"To": "FINAL FANTASY V_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

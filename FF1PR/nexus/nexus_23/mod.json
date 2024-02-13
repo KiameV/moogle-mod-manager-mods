@@ -1,0 +1,99 @@
+{
+	"ID": "nexus.23",
+	"Name": "Total Chaos",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Sep 6, 2021",
+	"Category": "Enemy Sprite",
+	"Description": "This mod replaces the sprite of Chaos, the final boss, with its Brave Exvius sprite and a matching overworld sprite.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasypixelremaster/mods/23",
+	"Version": "1.1",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/23/23-1630960690-986728594.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/23/23-1661276700-574624814.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/23/23-1661276708-2111519071.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 23
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			},
+			{
+				"ModID": "memoria.albeoris"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "Total Chaos",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 218,
+				"FileName": "Total Chaos-23-1-1-1661276756.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF1PR"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Sprite Kind",
+			"Description": "",
+			"Preview": {},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "GBA",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Total Chaos",
+						"Dir": [
+							{
+								"From": "Total Chaos - GBA OW Sprite",
+								"To": ".",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Pixel Remastered",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Total Chaos",
+						"Dir": [
+							{
+								"From": "Total Chaos - PR OW Sprite",
+								"To": ".",
+								"Recursive": true
+							}
+						]
+					}
+				}
+			],
+			"ConfigSelectionType": "Auto"
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

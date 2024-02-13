@@ -1,0 +1,65 @@
+{
+	"ID": "nexus.52",
+	"Name": "SilverLimit Hand-Edited HD Background Upscale Project",
+	"Author": "SilverLimit",
+	"AuthorLink": "",
+	"ReleaseDate": "May 13, 2022",
+	"Category": "Background Textures",
+	"Description": "High-fidelity hand-retouched HD background upscales for Chrono Cross RDE. This project is a WIP.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/chronocrosstheradicaldreamersedition/mods/52",
+	"Version": "0.3",
+	"InstallType": "MoveToArchive",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4420/images/52/52-1651964220-840953578.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4420/images/52/52-1652622717-1178357497.jpeg"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 52
+	},
+	"Compatibility": {
+		"Require": [],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "CC HandEdited BG Upscale v03",
+			"Version": "0.3",
+			"Nexus": {
+				"FileID": 145,
+				"FileName": "CC HandEdited BG Upscale v03-52-0-3-1673627703.zip"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "ChronoCross"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "CC HandEdited BG Upscale v03",
+			"Dir": [
+				{
+					"From": "SilverLimit CCBG/Files/",
+					"To": "map/mapbin",
+					"Recursive": false,
+					"ToArchive": "data/hd.dat"
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Select",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

@@ -1,0 +1,70 @@
+{
+	"ID": "reff2pixelremaster.gvdn",
+	"Name": "Re FF2 PixelRemaster",
+	"Author": "gvdn",
+	"AuthorLink": "",
+	"ReleaseDate": "Nov 23 2022",
+	"Category": "Player/NPC Sprite",
+	"Description": "**Alterations:**\n\n-All player character sprites (except Toad and Mini)\n\n-NPCs with unique names, almost all sprites\n\n-Barehanded attack graphics in battle scenes\n\n-All vehicle sprites (except for the flying dragon)\n\n-Animation settings for airship propeller speed, canoe behavior, etc.\n\n**Attention:**\n\nIt is recommended to use moogle-mod-manager.\n\n-It is possible to replace files without using \"moogle-mod-manager\". However, it is recommended to make a backup of the entire file in advance because of the many modifications and intricacies of the file.\n\n-Memoria works with or without Memoria. However, it is recommended to set \n\n  \"Import text resources: .png, .jpg, .tga\" to false.\n\n",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy2pixelremaster/mods/63/",
+	"Version": "1.1",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3958/images/63/63-1707919884-1361771989.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"HostedAt",
+			"Nexus"
+		],
+		"NexusID": 63
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "FF2 sample images",
+			"Version": "1.3",
+			"Nexus": {
+				"FileID": 159,
+				"FileName": "FF2 sample images-63-1-3-1707923005.zip"
+			}
+		},
+		{
+			"Name": "Re FF2 PixelRemaster",
+			"Version": "1.3",
+			"Nexus": {
+				"FileID": 160,
+				"FileName": "Re FF2 PixelRemaster-63-1-3-1707923661.zip"
+			}
+		}
+	],
+	"DonationLink": [
+		{
+			"Name": "ko-fi",
+			"Link": "https://ko-fi.com/gvdncoffee"
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF2PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Re FF2 PixelRemaster",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY II_Data",
+					"To": "FINAL FANTASY II_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

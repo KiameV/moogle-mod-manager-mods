@@ -21,7 +21,13 @@
 		],
 		"NexusID": 63
 	},
-	"Compatibility": {},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
 	"Downloadable": [
 		{
 			"Name": "FF2 sample images",

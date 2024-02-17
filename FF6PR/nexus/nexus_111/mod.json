@@ -1,0 +1,70 @@
+{
+	"ID": "nexus.111",
+	"Name": "Tan Be Gone",
+	"Author": "ValHam",
+	"AuthorLink": "",
+	"ReleaseDate": "Feb 17, 2024",
+	"Category": "Player/NPC Sprite",
+	"Description": "Replaces Mog's palette with Umaro's.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/111",
+	"Version": "1.0.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/111/111-1708134740-1900629560.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/111/111-1708134740-645049896.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/111/111-1708134744-1239390358.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/111/111-1708134744-1417960061.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 111
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "bepinex.ghorsington"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "TanBeGone",
+			"Version": "1.0.0",
+			"Nexus": {
+				"FileID": 396,
+				"FileName": "TanBeGone-111-1-0-0-1708134972.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "TanBeGone",
+			"Dir": [
+				{
+					"From": ".",
+					"To": "BepInEx/import",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

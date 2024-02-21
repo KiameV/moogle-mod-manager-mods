@@ -1,0 +1,61 @@
+{
+	"ID": "nexus.97",
+	"Name": "FF1PR Sea of Stars",
+	"Author": "gvdn",
+	"AuthorLink": "",
+	"ReleaseDate": "Feb 8, 2024",
+	"Category": "Tile Set",
+	"Description": "This MOD changes the distant view of the Floating Fortress from a sea of clouds to a Sea of Stars.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasypixelremaster/mods/97",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/97/97-1707407986-968052062.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 97
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "FF1PR Sea of Stars",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 301,
+				"FileName": "FF1PR Sea of Stars-97-1-0-1707410797.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF1PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FF1PR Sea of Stars",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY_Data",
+					"To": "FINAL FANTASY_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

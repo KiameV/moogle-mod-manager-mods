@@ -1,0 +1,108 @@
+{
+	"ID": "nexus.61",
+	"Name": "Chaos Shrine Statues Restoration",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Jul 30, 2022",
+	"Category": "Tile Set",
+	"Description": "This mod restores the missing statues of the Four Fiends from the Chaos Shrine.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasypixelremaster/mods/61",
+	"Version": "1.1",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/61/61-1659212059-472592149.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/61/61-1659212053-747871815.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/61/61-1660733185-692173109.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 61
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "Chaos Shrine Statues Restoration",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 215,
+				"FileName": "Chaos Shrine Statues Restoration-61-1-1-1661265078.rar"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "Chaos Shrine Statues Restoration - FFPR Visual Revamp Patch",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 216,
+				"FileName": "Chaos Shrine Statues Restoration - FFPR Visual Revamp Patch-61-1-1-1661265091.rar"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF1PR"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Version",
+			"Description": "",
+			"Preview": {},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "Chaos Shrine Statues Restoration",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Chaos Shrine Statues Restoration",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY_Data",
+								"To": "FINAL FANTASY_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Chaos Shrine Statues - Visual Revamp Patch",
+					"Description": "Install after FFPR Visual Revamp",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Chaos Shrine Statues Restoration - FFPR Visual Revamp Patch",
+						"Dir": [
+							{
+								"From": "FINAL FANTASY_Data",
+								"To": "FINAL FANTASY_Data",
+								"Recursive": true
+							}
+						]
+					}
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

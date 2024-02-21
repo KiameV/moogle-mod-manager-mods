@@ -1,0 +1,55 @@
+{
+	"ID": "nexus.14",
+	"Name": "FFV Steam Advance GBA OST Mod",
+	"Author": "AlterPayot",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 22, 2022",
+	"Category": "Soundtrack",
+	"Description": "This mod replaces FFV Steam OST with Advance GBA OST. All tracks are looped in the game and in the music player.\n\nAbout the GBA tracks\n\n    Tracks came from MIDIs ripped by GBAMusRiper. Some MIDIs have been modified.\n    Used XMPlay to convert MIDIs to WAVs.\n    Tracks sample interpolation is linear.\n    Tracks doesn't have reverb and chorus effects.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy5/mods/14",
+	"Version": "2.1",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/14/14-1650598634-633777909.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 14
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "FFV Steam Advance GBA OST Mod v2.1",
+			"Version": "2.1",
+			"Nexus": {
+				"FileID": 157,
+				"FileName": "FFV Steam Advance GBA OST Mod v2.1-14-2-1-1650601791.7z"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF5Old"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFV Steam Advance GBA OST Mod v2.1",
+			"Dir": [
+				{
+					"From": "resources",
+					"To": "resources",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

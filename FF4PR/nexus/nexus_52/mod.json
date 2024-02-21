@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.52",
+	"Name": "Less Cramped Party Positioning",
+	"Author": "Fugsnarf",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 8, 2022",
+	"Category": "Battle Scene",
+	"Description": "Let your party breathe! Spreads out the party members in battle so they aren't so cramped together.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy4pixelremaster/mods/52",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4022/images/52/52-1649383639-1041989215.jpeg"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 52
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "Less Cramped Party Positioning",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 159,
+				"FileName": "Less Cramped Party Positioning-52-1-0-1649383811.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF4PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Less Cramped Party Positioning",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY IV_Data",
+					"To": "FINAL FANTASY IV_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

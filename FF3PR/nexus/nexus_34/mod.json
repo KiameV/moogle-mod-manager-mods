@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.34",
+	"Name": "Brave Exvius Style Battle Backgrounds",
+	"Author": "granvillimus",
+	"AuthorLink": "",
+	"ReleaseDate": "Aug 19, 2022",
+	"Category": "Battle Scene",
+	"Description": "Replaces all 34 battle backgrounds with new more detailed edits based on Brave Exvius.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy3pixelremaster/mods/34",
+	"Version": "2",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3942/images/34/34-1660889407-388752407.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 34
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "FF3_BE_Battle_BG_v2",
+			"Version": "2",
+			"Nexus": {
+				"FileID": 99,
+				"FileName": "FF3_BE_Battle_BG_v2-34-2-1660889764.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF3PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FF3_BE_Battle_BG_v2",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY III_Data",
+					"To": "FINAL FANTASY III_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

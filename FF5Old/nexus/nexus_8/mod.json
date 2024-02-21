@@ -1,0 +1,55 @@
+{
+	"ID": "nexus.8",
+	"Name": "HawkX FFV Orchestral Music Mod",
+	"Author": "HawkX",
+	"AuthorLink": "",
+	"ReleaseDate": "Sep 21, 2021",
+	"Category": "Soundtrack",
+	"Description": "This is a total music replacer for FFV, it replaces all 69 Audio Tracks with brand new orchestral versions.\u003cbr /\u003eEach track was manually selected, then mixed and looped.\u003cbr /\u003eIn total, there are 133 new Music files re-mixed to create the 66 Music and 3 Background Sounds of the game.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy5/mods/8",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/8/8-1632246462-1888690076.jpeg"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 8
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "HawkX FFV Orchestral Soundtrack",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 151,
+				"FileName": "HawkX FFV Orchestral Soundtrack-8-1-0-1632246875.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF5Old"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "HawkX FFV Orchestral Soundtrack",
+			"Dir": [
+				{
+					"From": "resources",
+					"To": "resources",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

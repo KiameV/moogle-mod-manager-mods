@@ -1,0 +1,521 @@
+{
+	"ID": "nexus.57",
+	"Name": "Final Fantasy VI Pixel Keeper Portrait Mod",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Jul 13, 2022",
+	"Category": "UI: Window Frames",
+	"Description": "This mod adds portraits to the dialogue boxes for the Pixel Keeper mod.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/57",
+	"Version": "1.1",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/57/57-1657729129-2049763768.png"
+	},
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 57
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "Final Fantasy VI Pixel Keeper Portrait Mod",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 261,
+				"FileName": "Final Fantasy VI Pixel Keeper Portrait Mod-57-1-1-1657859324.rar"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Style",
+			"Description": "",
+			"Preview": {
+				"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/headers/57_1657729785.jpg"
+			},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "Default UI",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/57/57-1657729129-2049763768.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Final Fantasy VI Pixel Keeper Portrait Mod",
+						"Dir": [
+							{
+								"From": "Default UI/Pixel Keeper/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Default UI - Classic",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/57/57-1657729129-2049763768.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Final Fantasy VI Pixel Keeper Portrait Mod",
+						"Dir": [
+							{
+								"From": "Default UI/Pixel Keeper - Classic/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Default UI - Amano Alt",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/57/57-1657729129-2049763768.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Final Fantasy VI Pixel Keeper Portrait Mod",
+						"Dir": [
+							{
+								"From": "Default UI/Pixel Keeper - Amano Alt/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES UI",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/57/57-1657729085-1111684085.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Final Fantasy VI Pixel Keeper Portrait Mod",
+						"Dir": [
+							{
+								"From": "SNES UI/Pixel Keeper/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES UI - Classic",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/57/57-1657729085-1111684085.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Final Fantasy VI Pixel Keeper Portrait Mod",
+						"Dir": [
+							{
+								"From": "SNES UI/Pixel Keeper - Classic/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES UI - Amano Alt",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/57/57-1657729085-1111684085.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Final Fantasy VI Pixel Keeper Portrait Mod",
+						"Dir": [
+							{
+								"From": "SNES UI/Pixel Keeper - Amano Alt/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES UI Gradient",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/57/57-1657729124-1973192840.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Final Fantasy VI Pixel Keeper Portrait Mod",
+						"Dir": [
+							{
+								"From": "SNES UI Gradient/Pixel Keeper/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES UI Gradient - Classic",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/57/57-1657729124-1973192840.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Final Fantasy VI Pixel Keeper Portrait Mod",
+						"Dir": [
+							{
+								"From": "SNES UI Gradient/Pixel Keeper - Classic/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES UI Gradient - Amano Alt",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/57/57-1657729124-1973192840.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Final Fantasy VI Pixel Keeper Portrait Mod",
+						"Dir": [
+							{
+								"From": "SNES UI Gradient/Pixel Keeper - Amano Alt/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Chrono Trigger UI",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/57/57-1657729099-480142730.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Final Fantasy VI Pixel Keeper Portrait Mod",
+						"Dir": [
+							{
+								"From": "Chrono Trigger UI/Pixel Keeper/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Chrono Trigger UI - Classic",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/57/57-1657729099-480142730.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Final Fantasy VI Pixel Keeper Portrait Mod",
+						"Dir": [
+							{
+								"From": "Chrono Trigger UI/Pixel Keeper - Classic/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Chrono Trigger UI - Amano Alt",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/57/57-1657729099-480142730.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Final Fantasy VI Pixel Keeper Portrait Mod",
+						"Dir": [
+							{
+								"From": "Chrono Trigger UI/Pixel Keeper - Amano Alt/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Dark UI",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/57/57-1657729092-172363038.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Final Fantasy VI Pixel Keeper Portrait Mod",
+						"Dir": [
+							{
+								"From": "Dark UI/Pixel Keeper/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Dark UI - Classic",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/57/57-1657729092-172363038.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Final Fantasy VI Pixel Keeper Portrait Mod",
+						"Dir": [
+							{
+								"From": "Dark UI/Pixel Keeper - Classic/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Dark UI - Amano Alt",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/57/57-1657729092-172363038.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Final Fantasy VI Pixel Keeper Portrait Mod",
+						"Dir": [
+							{
+								"From": "Dark UI/Pixel Keeper - Amano Alt/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "FFVI UI",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/57/57-1657729119-1559129258.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Final Fantasy VI Pixel Keeper Portrait Mod",
+						"Dir": [
+							{
+								"From": "FFVI UI/Pixel Keeper/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "FFVI UI - Classic",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/57/57-1657729119-1559129258.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Final Fantasy VI Pixel Keeper Portrait Mod",
+						"Dir": [
+							{
+								"From": "FFVI UI/Pixel Keeper - Classic/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "FFVI UI - Amano Alt",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/57/57-1657729119-1559129258.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Final Fantasy VI Pixel Keeper Portrait Mod",
+						"Dir": [
+							{
+								"From": "FFVI UI/Pixel Keeper - Amano Alt/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Shiryu's Modern UI",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/57/57-1657729108-1852904341.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Final Fantasy VI Pixel Keeper Portrait Mod",
+						"Dir": [
+							{
+								"From": "Shiryu's Modern UI/Pixel Keeper/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Shiryu's Modern UI - Classic",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/57/57-1657729108-1852904341.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Final Fantasy VI Pixel Keeper Portrait Mod",
+						"Dir": [
+							{
+								"From": "Shiryu's Modern UI/Pixel Keeper - Classic/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Shiryu's Modern UI - Amano Alt",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/57/57-1657729108-1852904341.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Final Fantasy VI Pixel Keeper Portrait Mod",
+						"Dir": [
+							{
+								"From": "Shiryu's Modern UI/Pixel Keeper - Amano Alt/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Shiryu's Retro UI",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/57/57-1657729078-1325678423.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Final Fantasy VI Pixel Keeper Portrait Mod",
+						"Dir": [
+							{
+								"From": "Shiryu's Retro UI/Pixel Keeper/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Shiryu's Retro UI - Classic",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/57/57-1657729078-1325678423.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Final Fantasy VI Pixel Keeper Portrait Mod",
+						"Dir": [
+							{
+								"From": "Shiryu's Retro UI/Pixel Keeper - Classic/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Shiryu's Retro UI - Amano Alt",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/57/57-1657729078-1325678423.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Final Fantasy VI Pixel Keeper Portrait Mod",
+						"Dir": [
+							{
+								"From": "Shiryu's Retro UI/Pixel Keeper - Amano Alt/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Shiryu's Retro UI Gradient",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/57/57-1657729114-1283163391.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Final Fantasy VI Pixel Keeper Portrait Mod",
+						"Dir": [
+							{
+								"From": "Shiryu's Retro UI (Gradient)/Pixel Keeper/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Shiryu's Retro UI Gradient - Classic",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/57/57-1657729114-1283163391.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Final Fantasy VI Pixel Keeper Portrait Mod",
+						"Dir": [
+							{
+								"From": "Shiryu's Retro UI (Gradient)/Pixel Keeper - Classic/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Shiryu's Retro UI Gradient - Amano Alt",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/57/57-1657729114-1283163391.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Final Fantasy VI Pixel Keeper Portrait Mod",
+						"Dir": [
+							{
+								"From": "Shiryu's Retro UI (Gradient)/Pixel Keeper - Amano Alt/FINAL FANTASY VI_Data",
+								"To": "FINAL FANTASY VI_Data",
+								"Recursive": true
+							}
+						]
+					}
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

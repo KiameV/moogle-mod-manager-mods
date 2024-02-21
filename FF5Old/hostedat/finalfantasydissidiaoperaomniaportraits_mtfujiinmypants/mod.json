@@ -1,0 +1,60 @@
+{
+	"ID": "finalfantasydissidiaoperaomniaportraits.mtfujiinmypants",
+	"Name": "Final Fantasy Dissidia Opera Omnia Portraits",
+	"Author": "MtfujiInMyPants",
+	"AuthorLink": "",
+	"ReleaseDate": "Aug 15 2023",
+	"Category": "UI: Textbox Portraits",
+	"Description": "This mod replaces the large Amano portraits which don't match the sprites with the DFFOO versions which fit within the text box and match the ingame sprites. \n\nMost of these came straight from the game (PCs except for Galuf's costume, Choco, Exdeath \u0026 Greg). \n\nThe others are heavily modified by me. Hopefully I did them justice. \n\nThey look pretty good ingame. \n\nJust finished these and tested most of them. Consider this a beta release. ",
+	"ReleaseNotes": "",
+	"Link": "https://cdn.discordapp.com/attachments/518331294858608650/988519097958555729/FFV_DFFOO_Style_Portraits_1.0.zip",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://i.imgur.com/Donqrsp.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"HostedAt"
+		]
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "FFV_DFFOO_Style_Portraits_1.0",
+			"Version": "1.0",
+			"Hosted": {
+				"Source": [
+					"https://cdn.discordapp.com/attachments/518331294858608650/988519097958555729/FFV_DFFOO_Style_Portraits_1.0.zip"
+				]
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF5Old",
+			"Version": [
+				{
+					"version": ""
+				}
+			]
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFV_DFFOO_Style_Portraits_1.0",
+			"Dir": [
+				{
+					"From": "",
+					"To": "resources",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

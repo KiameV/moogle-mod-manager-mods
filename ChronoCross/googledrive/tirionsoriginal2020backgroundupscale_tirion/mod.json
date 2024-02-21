@@ -1,0 +1,72 @@
+{
+	"ID": "tirionsoriginal2020backgroundupscale.tirion",
+	"Name": "Tirion's Original 2020 Background Upscale",
+	"Author": "Tirion",
+	"AuthorLink": "",
+	"ReleaseDate": "4/14/2022",
+	"Category": "Background Textures",
+	"Description": "Tirion's original 2022 PSX background upscale mod, converted to work with Chrono Cross: The Radical Dreamers Edition.\n\nVideo preview:\nhttps://www.youtube.com/watch?v=vlTlp3YmGtY\u0026ab_channel=Tirion\n",
+	"ReleaseNotes": "",
+	"Link": "https://www.libretro.com/index.php/beetle-psx-hw-experimental-texture-replacement-now-available/",
+	"Version": "2",
+	"InstallType": "MoveToArchive",
+	"Previews": [
+		{
+			"Url": "https://www.libretro.com/wp-content/uploads/2020/06/chrono-cross-comparison-1-1.jpg"
+		},
+		{
+			"Url": "https://www.libretro.com/wp-content/uploads/2020/06/chrono-cross-comparison-2.jpg"
+		},
+		{
+			"Url": "https://www.libretro.com/wp-content/uploads/2020/06/chrono-cross-comparison-3.jpg"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"GoogleDrive"
+		]
+	},
+	"Compatibility": {
+		"Require": [],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "background-pack-v2",
+			"Version": "2",
+			"GoogleDrive": {
+				"Name": "background-pack-v2.zip ",
+				"Url": "https://drive.google.com/file/d/1v5xHVM25RAm-QCMyu8QAyvr5x1X22-Ch/view?usp=sharing"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "ChronoCross",
+			"Version": [
+				{
+					"version": ""
+				}
+			]
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "background-pack-v2",
+			"Dir": [
+				{
+					"From": "converted chip2 fixed/",
+					"To": "map/mapbin/",
+					"Recursive": true,
+					"ToArchive": "data/hd.dat"
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

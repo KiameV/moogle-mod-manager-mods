@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.32",
+	"Name": "Color Corrected Battle Backgrounds",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Oct 7, 2021",
+	"Category": "Battle Scene",
+	"Description": "This mod manually modifies the colors of the backgrounds to make them match the PSP palette or the colors used in the PR tilesets.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy4pixelremaster/mods/32",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4022/images/32/32-1633638227-544309507.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 32
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "Color Corrected Battle Backgrounds",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 92,
+				"FileName": "Color Corrected Battle Backgrounds-32-1-0-1633638801.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF4PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Color Corrected Battle Backgrounds",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY IV_Data",
+					"To": "FINAL FANTASY IV_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

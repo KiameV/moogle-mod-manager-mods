@@ -1,0 +1,256 @@
+{
+	"ID": "nexus.53",
+	"Name": "Edgar's New Look - Redrawn Menu Portraits",
+	"Author": "Laurel",
+	"AuthorLink": "",
+	"ReleaseDate": "May 11, 2022",
+	"Category": "UI: Textbox Portraits",
+	"Description": "A portrait art replacement mod that attempts to redraw the original Yoshitaka Amano style portraits with more detail and color similar to the GBA versions of FFIV \u0026amp; FFV with a choice of 3 different presets that represents the alternate looks of the main cast.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/53",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/53/53-1652238329-1029729417.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/53/53-1652906052-543016652.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/53/53-1652238377-1952446304.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/53/53-1652238379-1273766293.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/53/53-1652238384-2076360673.jpeg"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 53
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "nexus.18"
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "Edgar's New Look - Redrawn Menu Portraits",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 215,
+				"FileName": "Edgar's New Look - Redrawn Menu Portraits-53-1-0-1652239286.zip"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "Full Frame Textbox Portraits for Edgar's New Look",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 220,
+				"FileName": "Full Frame Textbox Portraits for Edgar's New Look-53-1-0-1652905913.zip"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Style",
+			"Description": "",
+			"Preview": {
+				"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/53/53-1652238329-1029729417.png"
+			},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "More Faithful",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Edgar's New Look - Redrawn Menu Portraits",
+						"Dir": [
+							{
+								"From": "More Faithful",
+								"To": ".",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "More Faithful Full Frame Portraits"
+				},
+				{
+					"Name": "Pixel Preference",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Edgar's New Look - Redrawn Menu Portraits",
+						"Dir": [
+							{
+								"From": "Pixel Preference",
+								"To": ".",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Pixel Preference Full Frame Portraits"
+				},
+				{
+					"Name": "Series Canon",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Edgar's New Look - Redrawn Menu Portraits",
+						"Dir": [
+							{
+								"From": "Series Canon",
+								"To": ".",
+								"Recursive": true
+							}
+						]
+					},
+					"NextConfigurationName": "Series Canon Full Frame Portraits"
+				}
+			]
+		},
+		{
+			"Name": "More Faithful Full Frame Portraits",
+			"Description": "",
+			"Preview": {},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "No",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": ""
+					}
+				},
+				{
+					"Name": "Blonde",
+					"Description": "Blonde Haired Terra",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Full Frame Textbox Portraits for Edgar's New Look",
+						"Dir": [
+							{
+								"From": "More Faithful",
+								"To": ".",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Green",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Full Frame Textbox Portraits for Edgar's New Look",
+						"Dir": [
+							{
+								"From": "More Faithful (Green Hair Terra)",
+								"To": "."
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"Name": "Pixel Preference Full Frame Portraits",
+			"Description": "",
+			"Preview": {},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "No",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": ""
+					}
+				},
+				{
+					"Name": "Yes",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Full Frame Textbox Portraits for Edgar's New Look",
+						"Dir": [
+							{
+								"From": "Pixel Preference",
+								"To": ".",
+								"Recursive": true
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"Name": "Series Canon Full Frame Portraits",
+			"Description": "",
+			"Preview": {},
+			"Root": false,
+			"Choice": [
+				{
+					"Name": "No",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": ""
+					}
+				},
+				{
+					"Name": "Bearded Sabin",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Full Frame Textbox Portraits for Edgar's New Look",
+						"Dir": [
+							{
+								"From": "Series Cannon",
+								"To": ".",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Beardless Sabin",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Full Frame Textbox Portraits for Edgar's New Look",
+						"Dir": [
+							{
+								"From": "Series Canon (Beardless Sabin)",
+								"To": ".",
+								"Recursive": true
+							}
+						]
+					}
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

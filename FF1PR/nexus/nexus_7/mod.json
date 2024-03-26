@@ -1,0 +1,137 @@
+{
+	"ID": "nexus.7",
+	"Name": "Chaos and Consistency",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Aug 10, 2021",
+	"Category": "Enemy Sprite",
+	"Description": "This mod recolors some overworld sprites for consistency and restores the PS1 battle sprites of the Four Fiends.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasypixelremaster/mods/7",
+	"Version": "1.42",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/7/7-1661346000-147200265.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/7/7-1633020227-1106986064.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/7/7-1633020235-492253096.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/7/7-1633020242-204308206.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/7/7-1633020251-269919880.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 7
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "Chaos and Consistency",
+			"Version": "1.42",
+			"Nexus": {
+				"FileID": 221,
+				"FileName": "Chaos and Consistency-7-1-42-1661345887.rar"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF1PR"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Style",
+			"Description": "",
+			"Preview": {
+				"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/7/7-1661346000-147200265.png"
+			},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "PR Colors \u0026 GBA Sprites",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Chaos and Consistency",
+						"Dir": [
+							{
+								"From": "Chaos and Consistency - PR Colors \u0026 GBA OW Sprites/FINAL FANTASY_Data",
+								"To": "FINAL FANTASY_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Tweaked PR OW Sprites",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Chaos and Consistency",
+						"Dir": [
+							{
+								"From": "Chaos and Consistency - Tweaked PR OW Sprites/FINAL FANTASY_Data",
+								"To": "FINAL FANTASY_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "GBA Colors \u0026 GBA OW Sprites",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Chaos and Consistency",
+						"Dir": [
+							{
+								"From": "Chaos and Consistency - GBA Colors \u0026 GBA OW Sprites/FINAL FANTASY_Data",
+								"To": "FINAL FANTASY_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "GBA Colors \u0026 PR OW Sprites",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "Chaos and Consistency",
+						"Dir": [
+							{
+								"From": "Chaos and Consistency - GBA Colors \u0026 PR OW Sprites/FINAL FANTASY_Data",
+								"To": "FINAL FANTASY_Data",
+								"Recursive": true
+							}
+						]
+					}
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

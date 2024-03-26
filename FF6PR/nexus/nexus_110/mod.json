@@ -1,0 +1,70 @@
+{
+	"ID": "nexus.110",
+	"Name": "Final Fantasy VI Pixel Keeper - Amano Magitek Add-on",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Feb 10, 2024",
+	"Category": "Player/NPC Sprite",
+	"Description": "An addon for the Final Fantasy VI Pixel Keeper mod that replaces the Magitek sprites with custom ones based on Yoshitaka Amano's design.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/110",
+	"Version": "1.0",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/110/110-1707566221-1410477282.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/110/110-1707566239-1968713159.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/110/110-1707566228-1059513955.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/110/110-1707566234-932008541.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 110
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "FFVI Pixel Keeper - Amano Magitek Add-on",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 390,
+				"FileName": "FFVI Pixel Keeper - Amano Magitek Add-on-110-1-0-1707566459.7z"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFVI Pixel Keeper - Amano Magitek Add-on",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY VI_Data",
+					"To": "FINAL FANTASY VI_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

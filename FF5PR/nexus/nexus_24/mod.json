@@ -1,0 +1,284 @@
+{
+	"ID": "nexus.24",
+	"Name": "Textbox Portraits (Full Frame)",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Mar 15, 2022",
+	"Category": "UI: Textbox Portraits",
+	"Description": "Adds full frame Portraits to the textboxes for the main characters!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy5pixelremaster/mods/24",
+	"Version": "3.0b",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/24/24-1648740866-1825345544.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/24/24-1647359734-2033862801.jpeg"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/24/24-1647359804-614411707.jpeg"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/24/24-1647359790-1057175487.jpeg"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/24/24-1647359797-1950133748.jpeg"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/24/24-1647359740-1449123213.jpeg"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/24/24-1647359746-1878412467.jpeg"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/24/24-1647359752-1923967286.jpeg"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/24/24-1647359758-1933897099.jpeg"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/24/24-1647359764-1641670219.jpeg"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/24/24-1647359771-1943198422.jpeg"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/24/24-1647359777-1806349055.jpeg"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/24/24-1647359784-320710828.jpeg"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/24/24-1648740904-2046276809.jpeg"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/24/24-1648740924-940122493.jpeg"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 24
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "nexus.8"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "FFVPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+			"Version": "3.0b",
+			"Nexus": {
+				"FileID": 139,
+				"FileName": "FFVPR_Textbox_Portraits_(Full_Frame)_metalliguy-24-3-0b-1679162016.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF5PR"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Style",
+			"Description": "",
+			"Preview": {
+				"Url": "https://staticdelivery.nexusmods.com/mods/4137/images/24/24-1648740866-1825345544.png"
+			},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "Darker UI + GBA",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+						"Dir": [
+							{
+								"From": "Darker UI + GBA/FINAL FANTASY V_Data",
+								"To": "FINAL FANTASY V_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Darker UI + OO",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+						"Dir": [
+							{
+								"From": "Darker UI + OO/FINAL FANTASY V_Data",
+								"To": "FINAL FANTASY V_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Darker UI + OldVer",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+						"Dir": [
+							{
+								"From": "Darker UI + OldVer/FINAL FANTASY V_Data",
+								"To": "FINAL FANTASY V_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "FFVI UI + GBA",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+						"Dir": [
+							{
+								"From": "FFVI UI + GBA/FINAL FANTASY V_Data",
+								"To": "FINAL FANTASY V_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "FFVI UI + OO",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+						"Dir": [
+							{
+								"From": "FFVI UI + OO/FINAL FANTASY V_Data",
+								"To": "FINAL FANTASY V_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "FFVI UI + OldVer",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+						"Dir": [
+							{
+								"From": "FFVI UI + OldVer/FINAL FANTASY V_Data",
+								"To": "FINAL FANTASY V_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES UI + GBA",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+						"Dir": [
+							{
+								"From": "SNES UI + GBA/FINAL FANTASY V_Data",
+								"To": "FINAL FANTASY V_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES UI + OO",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+						"Dir": [
+							{
+								"From": "SNES UI + OO/FINAL FANTASY V_Data",
+								"To": "FINAL FANTASY V_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "SNES UI + OldVer",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+						"Dir": [
+							{
+								"From": "SNES UI + OldVer/FINAL FANTASY V_Data",
+								"To": "FINAL FANTASY V_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Stock UI + GBA",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+						"Dir": [
+							{
+								"From": "Stock UI + GBA/FINAL FANTASY V_Data",
+								"To": "FINAL FANTASY V_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Stock UI + OO",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+						"Dir": [
+							{
+								"From": "Stock UI + OO/FINAL FANTASY V_Data",
+								"To": "FINAL FANTASY V_Data",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "Stock UI + OldVer",
+					"Description": "",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "FFVPR_Textbox_Portraits_(Full_Frame)_metalliguy",
+						"Dir": [
+							{
+								"From": "Stock UI + OldVer/FINAL FANTASY V_Data",
+								"To": "FINAL FANTASY V_Data",
+								"Recursive": true
+							}
+						]
+					}
+				}
+			],
+			"ConfigSelectionType": "Auto"
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

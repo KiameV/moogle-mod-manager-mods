@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.40",
+	"Name": "FFIV PR Underworld PSP Tileset",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Nov 10, 2021",
+	"Category": "Tile Set",
+	"Description": "Replaces the GBA tileset of the Underworld with a custom one made with the PSP assets.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy4pixelremaster/mods/40",
+	"Version": "1.2",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4022/images/40/40-1636541206-954003718.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 40
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "FFIV PR Underworld PSP Tileset",
+			"Version": "1.2",
+			"Nexus": {
+				"FileID": 190,
+				"FileName": "FFIV PR Underworld PSP Tileset-40-1-2-1659863362.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF4PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFIV PR Underworld PSP Tileset",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY IV_Data",
+					"To": "FINAL FANTASY IV_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

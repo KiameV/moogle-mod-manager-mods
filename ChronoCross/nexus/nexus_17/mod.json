@@ -1,0 +1,79 @@
+{
+	"ID": "nexus.17",
+	"Name": "Snooty A.I. Upscale",
+	"Author": "WhtSqurlPrnc",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 14, 2022",
+	"Category": "FMV Replacements",
+	"Description": "Were you disappointed with the low effort upscales present in this Chrono Cross remaster? Do you feel like you're better than that? Well this is for all of you graphics snobs out there. I decided not to hold back, and probably put too much effort into it.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/chronocrosstheradicaldreamersedition/mods/17",
+	"Version": "1.0.3",
+	"InstallType": "MoveToArchive",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4420/images/17/17-1649898749-842172535.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 17
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "Hotfix 1.0.2",
+			"Version": "1.0.2",
+			"Nexus": {
+				"FileID": 27,
+				"FileName": "Hotfix 1.0.2-17-1-0-2-1649997988.7z"
+			}
+		},
+		{
+			"Name": "Patch 1.0.3",
+			"Version": "1.0.3",
+			"Nexus": {
+				"FileID": 91,
+				"FileName": "Patch 1.0.3-17-1-0-3-1650925166.7z"
+			}
+		},
+		{
+			"Name": "Snooty AI Upscale",
+			"Version": "1.0.3",
+			"Nexus": {
+				"FileID": 92,
+				"FileName": "Snooty AI Upscale-17-1-0-3-1650932554.7z"
+			}
+		},
+		{
+			"Name": "Snooty AI Upscale (Switch Version)",
+			"Version": "1.0.1b",
+			"Nexus": {
+				"FileID": 115,
+				"FileName": "Snooty AI Upscale (Switch Version)-17-1-0-1b-1651438857.7z"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "ChronoCross"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Snooty AI Upscale",
+			"File": [
+				{
+					"From": "movie.dat",
+					"To": ".",
+					"ToArchive": "data/movie.dat"
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

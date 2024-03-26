@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.60",
+	"Name": "SNES Soundtrack",
+	"Author": "Fugsnarf",
+	"AuthorLink": "",
+	"ReleaseDate": "Nov 20, 2022",
+	"Category": "Soundtrack",
+	"Description": "This mod changes the game's entire soundtrack to that found in the SNES original.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/60",
+	"Version": "1.0",
+	"Preview": {
+		"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/60/60-1668971231-92543469.png"
+	},
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 60
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		],
+		"Forbid": []
+	},
+	"Downloadable": [
+		{
+			"Name": "SNES Soundtrack",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 276,
+				"FileName": "SNES Soundtrack-60-1-0-1668971427.zip"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"DonationLink": [],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "SNES Soundtrack",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY VI_Data",
+					"To": "FINAL FANTASY VI_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

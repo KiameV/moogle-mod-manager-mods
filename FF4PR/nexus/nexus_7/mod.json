@@ -1,0 +1,62 @@
+{
+	"ID": "nexus.7",
+	"Name": "SNES UI",
+	"Author": "metalliguyAU",
+	"AuthorLink": "",
+	"ReleaseDate": "Sep 14, 2021",
+	"Category": "UI: General",
+	"Description": "Replaces the UI with the original SNES version!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy4pixelremaster/mods/7",
+	"Version": "1.1",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4022/images/7/7-1631289967-1420835590.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 7
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "FFIV SNES UI",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 32,
+				"FileName": "FFIV SNES UI-7-1-1-1631715196.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF4PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFIV SNES UI",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY IV_Data",
+					"To": "FINAL FANTASY IV_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

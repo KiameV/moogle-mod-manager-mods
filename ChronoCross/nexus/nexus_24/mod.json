@@ -1,0 +1,93 @@
+{
+	"ID": "nexus.24",
+	"Name": "Key Items High Quality",
+	"Author": "Deykkcaos",
+	"AuthorLink": "",
+	"ReleaseDate": "Apr 17, 2022",
+	"Category": "UI: Key Items",
+	"Description": "New Key Items art with Better Quality.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/chronocrosstheradicaldreamersedition/mods/24",
+	"Version": "2.0",
+	"InstallType": "MoveToArchive",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4420/images/24/24-1651381147-1985610095.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 24
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "Deykkcaos 2.0 high quality key items",
+			"Version": "2.0",
+			"Nexus": {
+				"FileID": 112,
+				"FileName": "Deykkcaos 2.0 high quality key items-24-2-0-1651381664.rar"
+			},
+			"DownloadedLoc": ""
+		},
+		{
+			"Name": "HERO MEDAL FROM CHRONO TRIGGER",
+			"Version": "2.1",
+			"Nexus": {
+				"FileID": 116,
+				"FileName": "HERO MEDAL FROM CHRONO TRIGGER-24-2-1-1651726636.rar"
+			},
+			"DownloadedLoc": ""
+		}
+	],
+	"Games": [
+		{
+			"Name": "ChronoCross"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Deykkcaos 2.0 high quality key items",
+			"Dir": [
+				{
+					"From": "",
+					"To": "menu/key items/",
+					"Recursive": true,
+					"ToArchive": "data/hd.dat"
+				}
+			]
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Choose",
+			"Description": "",
+			"Preview": {},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "HERO MEDAL FROM CHRONO TRIGGER",
+					"Description": "If you want the old model of medal with high quality.  (Install on the same directory of other files)",
+					"Preview": {},
+					"DownloadFiles": {
+						"DownloadName": "HERO MEDAL FROM CHRONO TRIGGER",
+						"Dir": [
+							{
+								"From": "",
+								"To": "menu/key items/",
+								"Recursive": true,
+								"ToArchive": "data/hd.dat"
+							}
+						]
+					}
+				}
+			]
+		}
+	],
+	"ConfigSelectionType": "Auto",
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

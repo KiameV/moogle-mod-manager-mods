@@ -1,0 +1,67 @@
+{
+	"ID": "nexus.99",
+	"Name": "FF1 mountain_tileset_mod",
+	"Author": "gvdn",
+	"AuthorLink": "",
+	"ReleaseDate": "Feb 11, 2024",
+	"Category": "Tile Set",
+	"Description": "Ported FF3's mountain tileset to FF1.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasypixelremaster/mods/99",
+	"Version": "2.3",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/99/99-1707621141-1747508878.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/99/99-1707621152-418580196.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/99/99-1707621419-88268097.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 99
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "FF1 mountain_tileset_mod",
+			"Version": "2.3",
+			"Nexus": {
+				"FileID": 307,
+				"FileName": "FF1 mountain_tileset_mod-99-2-3-1707621887.zip"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF1PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FF1 mountain_tileset_mod",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY_Data",
+					"To": "FINAL FANTASY_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

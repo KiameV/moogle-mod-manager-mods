@@ -1,0 +1,153 @@
+{
+	"ID": "nexus.9",
+	"Name": "Character Portrait Replacer - Art by Tiaramaki",
+	"Author": "sunnysurfer101 and Tiaramaki",
+	"AuthorLink": "",
+	"ReleaseDate": "Sep 28, 2021",
+	"Category": "UI: Textbox Portraits",
+	"Description": "Oh Look. Another Character Portrait Replacer. But this one is different! All 14 portraits replaced!",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy5/mods/9",
+	"Version": "1",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/9/9-1632793283-1054735477.jpeg"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/9/9-1632793303-311727780.jpeg"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/9/9-1632793304-1977754999.jpeg"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/9/9-1632793310-234142918.jpeg"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/9/9-1632793313-957449560.jpeg"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/9/9-1632793347-1878497906.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/9/9-1632793355-873430041.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/9/9-1632793361-795289300.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/9/9-1632793373-1685739366.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/9/9-1632793367-1978443839.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/9/9-1632793380-1680829795.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/9/9-1632793388-116028920.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/9/9-1632793396-1946542728.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/9/9-1632793402-613885603.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/9/9-1632793407-1355818677.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/9/9-1632793413-642827586.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/9/9-1632793419-1776225219.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/9/9-1632793426-1702984301.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/9/9-1632793431-167498249.png"
+		},
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/9/9-1632793440-201817190.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 9
+	},
+	"Compatibility": {},
+	"Downloadable": [
+		{
+			"Name": "Tiaramaki Portrait Replacer",
+			"Version": "1",
+			"Nexus": {
+				"FileID": 152,
+				"FileName": "Tiaramaki Portrait Replacer-9-1-1632793790.7z"
+			}
+		},
+		{
+			"Name": "Tiaramaki Portrait Replacer (No headband on Faris)",
+			"Version": "1",
+			"Nexus": {
+				"FileID": 153,
+				"FileName": "Tiaramaki Portrait Replacer (No headband on Faris)-9-1-1632793836.7z"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF5Old"
+		}
+	],
+	"Configuration": [
+		{
+			"Name": "Faris HeadBand Selection",
+			"Description": "Select which version of the mod you would like to install.\n\nEvery other pictures are the same in both version.",
+			"Preview": {},
+			"Root": true,
+			"Choice": [
+				{
+					"Name": "With Headband",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/9/9-1632793373-1685739366.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Tiaramaki Portrait Replacer",
+						"Dir": [
+							{
+								"From": "",
+								"To": "resources",
+								"Recursive": true
+							}
+						]
+					}
+				},
+				{
+					"Name": "No Headband",
+					"Description": "",
+					"Preview": {
+						"Url": "https://staticdelivery.nexusmods.com/mods/1121/images/9/9-1632793367-1978443839.png"
+					},
+					"DownloadFiles": {
+						"DownloadName": "Tiaramaki Portrait Replacer (No headband on Faris)",
+						"Dir": [
+							{
+								"From": "",
+								"To": "resources",
+								"Recursive": true
+							}
+						]
+					}
+				}
+			],
+			"ConfigSelectionType": "Auto"
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

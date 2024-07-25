@@ -1,0 +1,61 @@
+{
+	"ID": "atbfix.silvris",
+	"Name": "ATB Fix",
+	"Author": "Silvris",
+	"AuthorLink": "",
+	"ReleaseDate": "Mar 16 2022",
+	"Category": "Gameplay",
+	"Description": "A BepInEx dll that attempts to fix the jittering of the ATB bar within the FINAL FANTASY PIXEL REMASTERS.",
+	"ReleaseNotes": "",
+	"Link": "https://github.com/Silvris/FFPR-ATBFix",
+	"Version": "2.1.0",
+	"InstallType": "Move",
+	"ModKind": {
+		"Kinds": [
+			"HostedAt"
+		]
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "bepinex.ghorsington"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "FFPR-ATBFix-2-1-0",
+			"Version": "2.1.0",
+			"Hosted": {
+				"Source": [
+					"https://github.com/Silvris/FFPR-ATBFix/releases/download/v2.1.0/FFPR-ATBFix-2-1-0.zip"
+				]
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF6PR",
+			"Version": [
+				{
+					"version": ""
+				}
+			]
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "FFPR-ATBFix-2-1-0",
+			"Dir": [
+				{
+					"From": ".",
+					"To": ".",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

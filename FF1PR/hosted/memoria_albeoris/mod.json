@@ -3,12 +3,12 @@
 	"Name": "Memoria",
 	"Author": "Albeoris",
 	"AuthorLink": "",
-	"ReleaseDate": "Aug 7 2022",
+	"ReleaseDate": "May 2 2024",
 	"Category": "Utility",
 	"Description": "This is a small modification that makes gameplay of Final Fantasy I (PR), Final Fantasy II (PR), Final Fantasy III (PR), Final Fantasy IV (PR), Final Fantasy V (PR) and Final Fantasy VI (PR) more enjoyable.\n___\n**Features:**\n- Increase game speed (Default Key: F1).\n- Disable encounters (Default Key: F2).\n- Use quick save and load (Default Keys: (Release) F5 and F9, (Current) Alt+F5, Alt+F9).\n- Highlight interactive objects and hidden passages (Default key: Caps Lock [Toggle or Hold])\n- Switch to Turn-based ATB Combat\n- Export, edit and import graphics and text resources (like characteristics of enemies) (Export disabled by default)\n- Partial modification of CSV and TXT resources\n___\n**Configuration:**\n1. Start the game first.\n1. Wait, the first launch will take some time. (about 1 minute)\n1. Features that are enabled by default (for example, increasing the speed of the game) will already work.\n1. Close the game and edit the configuration file $GameFolder$\\BepInEx\\config\\Memoria.FFPR\\$Section$.cfg\n",
 	"ReleaseNotes": "",
 	"Link": "https://github.com/Albeoris/Memoria.FFPR/releases/latest",
-	"Version": "v2022.08.07",
+	"Version": "v2024.05.02",
 	"ModKind": {
 		"Kinds": [
 			"HostedAt"
@@ -24,11 +24,11 @@
 	},
 	"Downloadable": [
 		{
-			"Name": "FF1_v2022.08.07",
-			"Version": "v2022.08.07",
+			"Name": "FF1_v2024.05.02",
+			"Version": "v2024.05.02",
 			"Hosted": {
 				"Source": [
-					"https://github.com/Albeoris/Memoria.FFPR/releases/download/v2022.08.07/FF1_v2022.08.07.zip"
+					"https://github.com/Albeoris/Memoria.FFPR/releases/download/v2024.05.02/FF1_v2024.05.02.zip"
 				]
 			}
 		}
@@ -46,7 +46,7 @@
 	],
 	"AlwaysDownload": [
 		{
-			"DownloadName": "FF1_v2022.08.07",
+			"DownloadName": "FF1_v2024.05.02",
 			"Dir": [
 				{
 					"From": ".",

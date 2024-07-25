@@ -1,0 +1,67 @@
+{
+	"ID": "nexus.83",
+	"Name": "Mothra's Complete Sprite Overhaul",
+	"Author": "Mothra",
+	"AuthorLink": "",
+	"ReleaseDate": "May 22, 2023",
+	"Category": "Player/NPC Sprite",
+	"Description": "This is a full sprite overhaul for better shading, depth, colors and continuity for Final Fantasy VI Pixel Remaster.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasy6pixelremaster/mods/83",
+	"Version": "1.1",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/4335/images/83/83-1684783300-682692709.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 83
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "Mothra's Complete Sprite Overhaul",
+			"Version": "1.1",
+			"Nexus": {
+				"FileID": 372,
+				"FileName": "Mothra's Complete Sprite Overhaul-83-1-1-1707334116.zip"
+			}
+		}
+	],
+	"DonationLink": [
+		{
+			"Name": "PayPal",
+			"Link": "https://www.paypal.com/paypalme/mothramods"
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF6PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Mothra's Complete Sprite Overhaul",
+			"Dir": [
+				{
+					"From": ".",
+					"To": ".",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}

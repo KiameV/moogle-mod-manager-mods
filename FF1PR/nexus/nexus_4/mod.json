@@ -1,0 +1,141 @@
+{
+	"ID": "nexus.4",
+	"Name": "Final Fantasy I Pixel Keeper (FF Record Keeper Sprites)",
+	"Author": "Shiryu",
+	"AuthorLink": "",
+	"ReleaseDate": "Aug 10, 2021",
+	"Category": "Player/NPC Sprite",
+	"Description": "This mod replaces the 12 classes with modified and custom Record Keeper battle sprites and custom or tweaked overworld sprites.",
+	"ReleaseNotes": "",
+	"Link": "https://www.nexusmods.com/finalfantasypixelremaster/mods/4",
+	"Version": "Final-Hotfix",
+	"InstallType": "Move",
+	"Previews": [
+		{
+			"Url": "https://staticdelivery.nexusmods.com/mods/3934/images/4/4-1642950726-159891726.png"
+		}
+	],
+	"ModKind": {
+		"Kinds": [
+			"Nexus"
+		],
+		"NexusID": 4
+	},
+	"Compatibility": {
+		"Require": [
+			{
+				"ModID": "unityplayer.enfyve"
+			}
+		]
+	},
+	"Downloadable": [
+		{
+			"Name": "Alt. Sprite - Green Ninja",
+			"Version": "Final-GreenNinja",
+			"Nexus": {
+				"FileID": 58,
+				"FileName": "Alt. Sprite - Green Ninja-4-Final-GreenNinja-1631914624.rar"
+			}
+		},
+		{
+			"Name": "Alt. Sprite - Black Wizard Magus",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 62,
+				"FileName": "Alt. Sprite - Magus-4-1-0-1632429032.rar"
+			}
+		},
+		{
+			"Name": "Alt. Sprite - Red Wizard Sage",
+			"Version": "Final-Sage",
+			"Nexus": {
+				"FileID": 179,
+				"FileName": "Alt. Sprite - Red Wizard Sage-4-Final-Sage-1651773713.zip"
+			}
+		},
+		{
+			"Name": "Alt. Sprite - Old Red Mage and Red Wizard",
+			"Version": "Final",
+			"Nexus": {
+				"FileID": 38,
+				"FileName": "Alt. Sprite - Old Red Mage and Red Wizard-4-1-0-1629471782.rar"
+			}
+		},
+		{
+			"Name": "Final Fantasy I Pixel Keeper Character Sprites",
+			"Version": "Final-Hotfix",
+			"Nexus": {
+				"FileID": 45,
+				"FileName": "Final Fantasy I Pixel Keeper Character Sprites-4-Final-Hotfix-1630188660.rar"
+			}
+		},
+		{
+			"Name": "Alt. Sprites - Crimson Knight",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 109,
+				"FileName": "Alt. Sprites - Crimson Knight-4-1-0-1642950776.zip"
+			}
+		},
+		{
+			"Name": "Alt. Sprite - Green Thief",
+			"Version": "Final-GreenThief",
+			"Nexus": {
+				"FileID": 60,
+				"FileName": "Alt. Sprite - Green Thief-4-Final-GreenThief-1632390275.rar"
+			}
+		},
+		{
+			"Name": "Alt. Sprite - Warrior of Light Knight",
+			"Version": "Final",
+			"Nexus": {
+				"FileID": 42,
+				"FileName": "Alt. Sprite - Warrior of Light Knight-4-Final-1629472216.rar"
+			}
+		},
+		{
+			"Name": "Alt. Sprite - White Wizard Devout",
+			"Version": "1.0",
+			"Nexus": {
+				"FileID": 61,
+				"FileName": "Alt. Sprite - Devout-4-1-0-1632429014.rar"
+			}
+		},
+		{
+			"Name": "Alt. Sprite - Purple Monk",
+			"Version": "Final",
+			"Nexus": {
+				"FileID": 21,
+				"FileName": "Alt. Sprite - Purple Monk-4-1-0-1628710894.rar"
+			}
+		},
+		{
+			"Name": "Alt. Sprite - Crimson Warrior",
+			"Version": "Final",
+			"Nexus": {
+				"FileID": 40,
+				"FileName": "Alt. Sprite - Crimson Warrior-4-Final-1629472120.rar"
+			}
+		}
+	],
+	"Games": [
+		{
+			"Name": "FF1PR"
+		}
+	],
+	"AlwaysDownload": [
+		{
+			"DownloadName": "Final Fantasy I Pixel Keeper Character Sprites",
+			"Dir": [
+				{
+					"From": "FINAL FANTASY_Data",
+					"To": "FINAL FANTASY_Data",
+					"Recursive": true
+				}
+			]
+		}
+	],
+	"Hide": false,
+	"VerifiedAsWorking": false,
+	"IsManuallyCreated": true
+}
